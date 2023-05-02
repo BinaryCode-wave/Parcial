@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo brindar recomendaciones de canciones personali
 ## Integrantes
 
 ### Huaman Huaranga Lennin Daniel
-[![Lennin Huaman](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/contributors/Lennin.png)]
+![Lennin Huaman](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/contributors/Lennin.png)
 
 
 ### Mendoza Ramos Dominik Aldahir Alexis
@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo brindar recomendaciones de canciones personali
 
 
 ### Ramirez Mendoza Carlos Arian
-[![Arian Ramirez](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/contributors/Arian.png)]
+![Arian Ramirez](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/contributors/Arian.png)
 
 
 ## Descripción del problema
