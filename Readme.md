@@ -30,6 +30,13 @@ El conjunto de datos consta de un total de 26 variables para cada una de las can
 
 Los nodos están representados por el ID de las canciones y para el peso de cada arista se realizó el cálculo de la distancia euclidiana entre los valores de 'Danceability', 'Loudness', 'Speechiness', 'Acousticness', 'Instrumentalness', 'Liveness', 'Valence' y 'Tempo' de una canción en específico. Se han generado dos representaciones en grafos utilizando las herramientas Graphviz y Gephi, con 30 nodos y 22 aristas y 1600 nodos y 25135 aristas, respectivamente.
 
+### Grafo con 30 nodos y 22 aristas
+![graph30](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/Graph30.png)
+
+### 1600 nodos y 25135 aristas
+
+![graph1600](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/Graph1600Nodes.png)
+
 ## Propuesta
 
 Se propone el uso de la Teoría de Grafos y el algoritmo de Dijkstra para el desarrollo de una aplicación que brinde de manera personalizada recomendaciones de música a los usuarios, utilizando la información recopilada de la plataforma de streaming musical Spotify. Se buscará analizar la actividad de los usuarios y encontrar patrones relevantes para mejorar su experiencia y aumentar la fidelidad del cliente.
