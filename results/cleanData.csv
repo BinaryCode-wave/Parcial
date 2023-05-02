@@ -29,3 +29,1473 @@
 27,50 Cent,Is This Love ('09) (feat. 50 Cent),Curtain Call 2,0.853,-4.221,0.261,0.0714,0.0,0.181,0.659,94.028
 28,50 Cent,If I Can't,Get Rich Or Die Tryin',0.892,-2.522,0.302,0.244,0.0,0.0235,0.838,93.975
 29,50 Cent,Best Friend - Remix,Best Friend (Remix),0.545,-3.529,0.308,0.368,0.0,0.111,0.574,181.733
+30,Metallica,Enter Sandman (Remastered),Metallica (Remastered),0.566,-8.412,0.0298,0.00277,0.008,0.0625,0.621,123.296
+31,Metallica,Nothing Else Matters (Remastered),Metallica (Remastered),0.547,-9.793,0.0262,0.0522,6.4e-06,0.0795,0.17,142.37
+32,Metallica,Master of Puppets (Remastered),Master of Puppets (Remastered Deluxe Box Set),0.539,-9.108,0.035,0.00067,0.421,0.154,0.562,105.25
+33,Metallica,Whiskey In The Jar,"Garage, Inc.",0.511,-3.751,0.0413,5.36e-06,0.00101,0.19,0.532,132.97
+34,Metallica,The Unforgiven (Remastered),Metallica (Remastered),0.531,-9.47,0.0256,0.0184,0.00624,0.255,0.207,139.503
+35,Metallica,One (Remastered),...And Justice for All (Remastered Deluxe Box Set),0.438,-9.15,0.0619,0.000668,0.0801,0.42,0.426,103.01
+36,Metallica,For Whom The Bell Tolls (Remastered),Ride The Lightning (Deluxe Remaster),0.512,-6.145,0.0703,0.00631,0.00528,0.0652,0.258,117.909
+37,Metallica,Lux Æterna,Lux Æterna,0.386,-2.96,0.0754,1.15e-05,0.000836,0.116,0.188,130.573
+38,Metallica,Sad But True (Remastered),Metallica (Remastered),0.624,-6.005,0.0342,0.000926,0.00164,0.0561,0.453,89.24
+39,Metallica,Screaming Suicide,Screaming Suicide,0.425,-3.448,0.045,2.42e-05,0.0202,0.239,0.282,101.125
+40,Coldplay,Yellow,Parachutes,0.429,-7.227,0.0281,0.00239,0.000121,0.234,0.285,173.372
+41,Coldplay,Viva La Vida,Viva La Vida or Death and All His Friends,0.486,-7.115,0.0287,0.0954,3.23e-06,0.109,0.417,138.015
+42,Coldplay,Sparks,Parachutes,0.371,-10.506,0.0281,0.748,0.0517,0.104,0.165,102.617
+43,Coldplay,Something Just Like This,Memories...Do Not Open,0.617,-6.769,0.0317,0.0498,1.44e-05,0.164,0.446,103.019
+44,Coldplay,The Scientist,A Rush of Blood to the Head,0.557,-7.224,0.0243,0.731,1.46e-05,0.11,0.213,146.277
+45,Coldplay,A Sky Full of Stars,Ghost Stories,0.545,-6.474,0.0279,0.00617,0.00197,0.209,0.162,124.97
+46,Coldplay,Paradise,Mylo Xyloto,0.449,-6.761,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631
+47,Coldplay,Hymn for the Weekend,A Head Full of Dreams,0.491,-6.487,0.0377,0.211,6.92e-06,0.325,0.412,90.027
+48,Coldplay,My Universe,Music Of The Spheres,0.573,-6.268,0.0406,0.0114,0.0,0.328,0.47,105.006
+49,Coldplay,Fix You,X&Y,0.209,-8.74,0.0338,0.164,0.00196,0.113,0.124,138.178
+50,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],0.794,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+51,Daft Punk,One More Time,Discovery,0.613,-8.618,0.133,0.0194,0.0,0.332,0.476,122.746
+52,Daft Punk,Instant Crush (feat. Julian Casablancas),Random Access Memories,0.775,-9.516,0.0271,0.0422,0.619,0.077,0.518,109.942
+53,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Random Access Memories,0.81,-9.404,0.0403,0.0378,1.77e-06,0.072,0.863,116.05
+54,Daft Punk,Around the World,Homework,0.956,-5.311,0.15,0.00356,0.889,0.0906,0.841,121.294
+55,Daft Punk,"Harder, Better, Faster, Stronger",Discovery,0.817,-8.898,0.144,0.0427,0.00263,0.358,0.692,123.474
+56,Daft Punk,Something About Us,Discovery,0.875,-12.673,0.0986,0.44,0.72,0.046,0.384,99.958
+57,Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,0.832,-7.828,0.057,0.0839,0.00114,0.0753,0.674,100.163
+58,Daft Punk,Veridis Quo,Discovery,0.605,-13.928,0.045,0.479,0.949,0.104,0.12,106.896
+59,Daft Punk,Digital Love,Discovery,0.644,-8.398,0.0332,0.048,0.867,0.342,0.53,124.726
+60,Linkin Park,In the End,Hybrid Theory (Bonus Edition),0.556,-5.87,0.0584,0.00958,0.0,0.209,0.4,105.143
+61,Linkin Park,Numb,Meteora,0.496,-4.153,0.0381,0.0046,0.0,0.639,0.243,110.018
+62,Linkin Park,What I've Done,Minutes to Midnight,0.623,-5.285,0.0324,0.0141,1.64e-06,0.138,0.287,120.119
+63,Linkin Park,Numb / Encore,Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course,0.687,-4.254,0.166,0.0603,0.0,0.582,0.751,107.045
+64,Linkin Park,One Step Closer,Hybrid Theory (Bonus Edition),0.492,-4.419,0.0491,0.0014,1.32e-06,0.0787,0.538,95.136
+65,Linkin Park,Faint,Meteora,0.554,-3.554,0.131,0.111,0.0,0.0731,0.594,135.095
+66,Linkin Park,Bleed It Out,Minutes to Midnight,0.529,-3.647,0.0508,0.114,0.0,0.61,0.596,140.127
+67,Linkin Park,Papercut,Hybrid Theory (Bonus Edition),0.524,-3.994,0.113,0.00022,0.0,0.623,0.661,150.184
+68,Linkin Park,Crawling,Hybrid Theory (Bonus Edition),0.58,-5.565,0.0337,0.0466,3.2e-06,0.536,0.299,105.076
+69,Linkin Park,BURN IT DOWN,LIVING THINGS,0.585,-4.45,0.0534,0.0143,0.0,0.0707,0.585,110.006
+70,Radiohead,Creep,Pablo Honey,0.515,-9.935,0.0372,0.0097,0.000133,0.129,0.104,91.844
+71,Radiohead,No Surprises,OK Computer,0.255,-10.654,0.0278,0.0577,0.00361,0.113,0.118,76.426
+72,Radiohead,Karma Police,OK Computer,0.36,-9.129,0.0258,0.0638,9.32e-05,0.172,0.324,74.807
+73,Radiohead,High and Dry,The Bends,0.419,-11.782,0.0256,0.0724,0.0176,0.0896,0.35,87.568
+74,Radiohead,Exit Music (For A Film),OK Computer,0.293,-11.357,0.0349,0.224,0.122,0.167,0.195,121.603
+75,Radiohead,Weird Fishes/ Arpeggi,In Rainbows,0.531,-8.025,0.0387,0.772,0.756,0.0908,0.199,152.958
+76,Radiohead,Jigsaw Falling Into Place,In Rainbows,0.462,-6.085,0.0479,0.108,0.00416,0.0741,0.807,165.653
+77,Radiohead,Fake Plastic Trees,The Bends,0.463,-12.592,0.0297,0.167,0.0997,0.202,0.135,73.543
+78,Radiohead,Just,The Bends,0.291,-6.913,0.0862,0.000401,0.012,0.0763,0.359,175.702
+79,Radiohead,Nude,In Rainbows,0.516,-9.785,0.0342,0.832,0.579,0.0857,0.167,128.378
+80,AC/DC,Highway to Hell,Highway to Hell,0.574,-4.793,0.133,0.061,0.00158,0.156,0.423,115.728
+81,AC/DC,Thunderstruck,The Razors Edge,0.502,-5.175,0.0364,0.000147,0.0117,0.217,0.259,133.52
+82,AC/DC,Back In Black,Back In Black,0.31,-5.678,0.047,0.011,0.00965,0.0828,0.763,188.386
+83,AC/DC,You Shook Me All Night Long,Back In Black,0.532,-5.509,0.0574,0.00287,0.000513,0.39,0.755,127.361
+84,AC/DC,T.N.T.,High Voltage,0.754,-5.218,0.302,0.153,0.000108,0.101,0.435,126.366
+85,AC/DC,Hells Bells,Back In Black,0.389,-4.768,0.0475,0.00532,0.0055,0.273,0.303,106.767
+86,AC/DC,Dirty Deeds Done Dirt Cheap,Dirty Deeds Done Dirt Cheap,0.668,-4.881,0.17,0.214,0.00245,0.135,0.507,135.653
+87,AC/DC,Shoot to Thrill,Back In Black,0.457,-5.303,0.0747,0.000239,0.0879,0.396,0.48,141.038
+88,AC/DC,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),High Voltage,0.456,-3.551,0.0894,0.133,0.0538,0.0553,0.532,135.962
+89,AC/DC,Rock N Roll Train,Black Ice,0.547,-2.356,0.0615,0.000998,0.0118,0.278,0.697,118.4
+90,Black Eyed Peas,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),0.744,-6.375,0.0265,0.0873,0.0,0.509,0.61,127.966
+91,Black Eyed Peas,DON'T YOU WORRY,ELEVATION,0.831,-5.282,0.0325,0.176,0.0,0.184,0.483,131.971
+92,Black Eyed Peas,Where Is The Love?,Elephunk,0.834,-3.222,0.178,0.111,0.0,0.131,0.809,94.086
+93,Black Eyed Peas,Just Can’t Get Enough,The Beginning,0.659,-8.685,0.179,0.186,0.0,0.105,0.262,94.05
+94,Black Eyed Peas,GIRL LIKE ME,TRANSLATION,0.965,-8.784,0.191,0.0206,0.0237,0.0655,0.312,124.025
+95,Black Eyed Peas,Pump It,Monkey Business,0.649,-3.15,0.181,0.0093,0.0,0.751,0.744,153.645
+96,Black Eyed Peas,Pump It Louder,Pump It Louder,0.66,-2.273,0.185,0.00789,1.76e-05,0.834,0.543,126.017
+97,Black Eyed Peas,Meet Me Halfway,THE E.N.D. (THE ENERGY NEVER DIES),0.798,-6.857,0.0735,0.00474,2.29e-05,0.324,0.4,130.002
+98,Black Eyed Peas,RITMO (Bad Boys For Life),TRANSLATION,0.732,-6.968,0.0561,0.0295,0.000758,0.73,0.666,105.093
+99,Black Eyed Peas,SIMPLY THE BEST,ELEVATION,0.872,-6.047,0.132,0.203,2.39e-05,0.125,0.646,126.042
+100,Michael Jackson,Billie Jean,Thriller,0.932,-9.62,0.0541,0.0173,0.0436,0.0414,0.884,117.002
+101,Michael Jackson,Chicago,XSCAPE,0.608,-2.675,0.176,0.0784,0.0,0.187,0.55,176.086
+102,Michael Jackson,Beat It,Thriller,0.776,-9.03,0.0473,0.0242,0.000353,0.234,0.901,138.728
+103,Michael Jackson,Smooth Criminal - 2012 Remaster,Bad (Remastered),0.853,-3.947,0.0751,0.247,0.468,0.306,0.595,118.193
+104,Michael Jackson,Rock with You - Single Version,Off the Wall,0.808,-12.521,0.0353,0.179,9.91e-05,0.158,0.848,114.031
+105,Michael Jackson,Don't Stop 'Til You Get Enough,Off the Wall,0.878,-9.875,0.089,0.126,0.0461,0.183,0.947,118.881
+106,Michael Jackson,They Don't Care About Us,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",0.859,-5.539,0.129,0.205,0.00837,0.322,0.731,89.946
+107,Michael Jackson,Remember the Time,Dangerous,0.831,-2.383,0.0582,0.153,0.00224,0.305,0.795,108.002
+108,Michael Jackson,The Way You Make Me Feel - 2012 Remaster,Bad (Remastered),0.877,-4.523,0.147,0.0544,5.5e-05,0.144,0.54,114.472
+109,Michael Jackson,Love Never Felt So Good,XSCAPE,0.775,-6.212,0.0435,0.132,1.79e-06,0.0662,0.712,117.513
+110,P!nk,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,0.778,-7.273,0.0489,0.346,0.000302,0.132,0.441,95.002
+111,P!nk,Never Gonna Not Dance Again,Never Gonna Not Dance Again,0.668,-4.005,0.0917,0.0273,0.0,0.163,0.769,113.796
+112,P!nk,Raise Your Glass,Raise Your Glass,0.7,-5.006,0.0838,0.0048,0.0,0.029,0.624,122.019
+113,P!nk,Try,The Truth About Love,0.674,-7.079,0.03,0.00144,0.0,0.0944,0.552,103.998
+114,P!nk,So What,Funhouse (Expanded Edition),0.534,-3.078,0.0425,0.000334,0.0,0.241,0.462,126.019
+115,P!nk,What About Us,Beautiful Trauma,0.491,-6.177,0.0506,0.0281,2.01e-06,0.0906,0.193,113.608
+116,P!nk,Cover Me In Sunshine,All I Know So Far: Setlist,0.473,-6.859,0.138,0.0528,0.0,0.131,0.292,159.7
+117,P!nk,TRUSTFALL,TRUSTFALL,0.636,-3.889,0.0945,0.00162,0.000216,0.147,0.25,122.032
+118,P!nk,Who Knew,I'm Not Dead,0.688,-4.569,0.0274,0.00462,0.0,0.0756,0.46,140.004
+119,P!nk,True Love (feat. Lily Allen),The Truth About Love,0.457,-4.76,0.311,0.00144,0.0,0.108,0.578,192.205
+120,Eminem,Mockingbird,Encore (Deluxe Version),0.637,-3.798,0.266,0.209,0.0,0.156,0.254,84.039
+121,Eminem,Without Me,The Eminem Show,0.908,-2.827,0.0738,0.00286,0.0,0.237,0.662,112.238
+122,Eminem,The Real Slim Shady,The Marshall Mathers LP,0.949,-4.244,0.0572,0.0302,0.0,0.0454,0.76,104.504
+123,Eminem,Superman,The Eminem Show,0.802,-3.138,0.0564,0.0215,0.0,0.295,0.58,130.027
+124,Eminem,Till I Collapse,The Eminem Show,0.548,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447
+125,Eminem,Stan,The Marshall Mathers LP,0.78,-4.325,0.238,0.0371,2.34e-06,0.518,0.507,80.063
+126,Eminem,Love The Way You Lie,Recovery,0.749,-5.034,0.227,0.241,0.0,0.52,0.641,86.989
+127,Eminem,Godzilla (feat. Juice WRLD),Music To Be Murdered By,0.808,-5.26,0.342,0.145,0.0,0.292,0.829,165.995
+128,Eminem,Sing For The Moment,The Eminem Show,0.668,-4.164,0.137,0.0017,3.05e-06,0.0426,0.185,163.961
+129,Eminem,Not Afraid,Recovery,0.855,-1.19,0.264,0.529,0.0,0.205,0.668,114.635
+130,Pharrell Williams,"Happy - From ""Despicable Me 2""",G I R L,0.647,-4.662,0.183,0.219,0.0,0.0908,0.962,160.019
+131,Pharrell Williams,Down In Atlanta,Down In Atlanta,0.851,-5.173,0.212,0.337,0.000153,0.0658,0.903,83.154
+132,Pharrell Williams,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,0.893,-3.105,0.0571,0.0642,0.0,0.0943,0.872,101.018
+133,Pharrell Williams,Cash In Cash Out,Cash In Cash Out,0.877,-3.751,0.0596,0.00721,1.45e-06,0.0839,0.154,119.971
+134,Pharrell Williams,"Stay With Me (with Justin Timberlake, Halsey & Pharrell)",Funk Wav Bounces Vol. 2,0.81,-6.338,0.0444,0.276,6.73e-06,0.288,0.9,125.975
+135,Pharrell Williams,Hit Different,Hit Different,0.679,-6.371,0.0452,0.199,0.0,0.0965,0.716,120.074
+136,Pharrell Williams,Neon Guts (feat. Pharrell Williams),Luv Is Rage 2,0.859,-6.635,0.112,0.0541,0.0,0.0685,0.412,119.934
+137,Pharrell Williams,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),CALL ME IF YOU GET LOST,0.827,-7.949,0.366,0.0195,0.0,0.166,0.62,142.034
+138,Pharrell Williams,Just A Cloud Away,Just A Cloud Away,0.89,-8.155,0.0359,0.432,0.0,0.11,0.677,112.555
+139,Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,The Neptunes Present... Clones,0.894,-5.913,0.13,0.453,1.57e-06,0.0801,0.759,102.009
+140,Khalid,lovely (with Khalid),lovely (with Khalid),0.351,-10.109,0.0333,0.934,0.0,0.095,0.12,115.284
+141,Khalid,Numb,Numb,0.912,-4.673,0.0455,0.121,0.0127,0.101,0.632,119.966
+142,Khalid,Silence,Silence,0.52,-3.093,0.0853,0.256,4.96e-06,0.17,0.286,141.971
+143,Khalid,Young Dumb & Broke,American Teen,0.799,-6.351,0.0421,0.199,1.66e-05,0.165,0.394,136.948
+144,Khalid,Eastside (with Halsey & Khalid),FRIENDS KEEP SECRETS,0.632,-7.665,0.243,0.549,0.0,0.2,0.329,89.949
+145,Khalid,Better,Suncity,0.596,-10.278,0.097,0.0765,0.334,0.104,0.112,97.949
+146,Khalid,Location,American Teen,0.736,-11.462,0.425,0.33,0.000162,0.0898,0.326,80.126
+147,Khalid,8TEEN,American Teen,0.83,-5.802,0.0366,0.225,0.00209,0.0576,0.642,105.03
+148,Khalid,Beautiful People (feat. Khalid),No.6 Collaborations Project,0.64,-8.114,0.186,0.124,0.0,0.0801,0.546,92.979
+149,Khalid,Love Lies (with Normani),Love Lies (with Normani),0.708,-5.626,0.0449,0.0956,0.0,0.134,0.338,143.955
+150,Shakira,"Shakira: Bzrp Music Sessions, Vol. 53","Shakira: Bzrp Music Sessions, Vol. 53",0.778,-5.6,0.0493,0.274,0.0,0.0915,0.498,122.104
+151,Shakira,Monotonía,Monotonía,0.873,-4.207,0.0459,0.419,1.23e-06,0.211,0.823,131.963
+152,Shakira,Te Felicito,Te Felicito,0.695,-4.654,0.317,0.234,0.0,0.081,0.575,174.14
+153,Shakira,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",0.778,-5.892,0.0707,0.284,0.0,0.405,0.758,100.024
+154,Shakira,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Listen Up! The Official 2010 FIFA World Cup Album,0.758,-6.408,0.147,0.0062,0.0,0.0663,0.753,126.994
+155,Shakira,DON'T YOU WORRY,ELEVATION,0.831,-5.282,0.0325,0.176,0.0,0.184,0.483,131.971
+156,Shakira,Dia de Enero,"Fijación Oral, Vol. 1",0.687,-11.589,0.0792,0.35,1.11e-05,0.11,0.526,165.747
+157,Shakira,Chantaje (feat. Maluma),El Dorado,0.852,-2.921,0.0776,0.187,3.05e-05,0.159,0.907,102.034
+158,Shakira,Inevitable,Donde Estan Los Ladrones,0.595,-7.786,0.0641,0.269,0.000149,0.123,0.338,91.976
+159,Shakira,Antologia,Pies Descalzos,0.839,-11.059,0.0308,0.5,1.81e-06,0.0786,0.575,97.967
+160,Machine Gun Kelly,my ex's best friend (with blackbear),Tickets To My Downfall,0.731,-5.134,0.0434,0.00473,0.0,0.141,0.298,124.939
+161,Machine Gun Kelly,I Think I'm OKAY (with YUNGBLUD & Travis Barker),Hotel Diablo,0.628,-4.718,0.0379,0.0257,0.0,0.313,0.277,119.921
+162,Machine Gun Kelly,maybe (feat. Bring Me The Horizon),mainstream sellout,0.601,-4.802,0.0505,0.000735,0.0,0.0998,0.537,88.014
+163,Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",0.653,-5.232,0.213,0.00413,0.0,0.0537,0.216,82.034
+164,Machine Gun Kelly,forget me too (feat. Halsey),Tickets To My Downfall,0.654,-4.845,0.0744,0.000417,0.0086,0.194,0.522,99.975
+165,Machine Gun Kelly,bloody valentine,Tickets To My Downfall,0.533,-4.212,0.0766,0.00021,0.0,0.148,0.506,160.057
+166,Machine Gun Kelly,Bad Things (with Camila Cabello),bloom,0.697,-4.757,0.146,0.214,0.0,0.185,0.305,137.853
+167,Machine Gun Kelly,make up sex (feat. blackbear),mainstream sellout,0.665,-4.122,0.0315,0.00156,0.0,0.474,0.682,131.986
+168,Machine Gun Kelly,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",F*CK LOVE 3+: OVER YOU,0.721,-6.695,0.0358,0.0693,0.0,0.291,0.296,92.057
+169,Machine Gun Kelly,ay! (feat. Lil Wayne),mainstream sellout,0.742,-6.689,0.0345,0.05,5.92e-05,0.0711,0.491,147.002
+170,Nicky Jam,X,Intimo,0.594,-5.298,0.056,0.0338,0.00106,0.3,0.694,179.968
+171,Nicky Jam,El Perdón (with Enrique Iglesias),Fénix,0.628,-5.83,0.0511,0.443,0.0,0.113,0.66,179.908
+172,Nicky Jam,Bella y Sensual,Golden,0.635,-6.909,0.0937,0.228,0.0,0.0506,0.749,179.864
+173,Nicky Jam,"Nicky Jam: Bzrp Music Sessions, Vol. 41","Nicky Jam: Bzrp Music Sessions, Vol. 41",0.627,-3.167,0.153,0.0913,0.0,0.145,0.818,89.907
+174,Nicky Jam,Cuaderno,Climaxxx,0.681,-5.021,0.38,0.523,0.0,0.104,0.688,172.02
+175,Nicky Jam,En La Cama (feat. Daddy Yankee),Exitos,0.855,-4.832,0.145,0.183,0.0,0.122,0.885,104.072
+176,Nicky Jam,Si Te Preguntan...,Si Te Preguntan...,0.76,-2.867,0.0306,0.531,0.0,0.0555,0.922,136.945
+177,Nicky Jam,Hasta el Amanecer,Fénix,0.832,-6.042,0.0385,0.282,0.0,0.0761,0.589,94.013
+178,Nicky Jam,Color Esperanza 2020,Color Esperanza 2020,0.591,-7.768,0.161,0.161,0.0,0.126,0.785,106.002
+179,Nicky Jam,Donde Estan las Gatas,Gargolas 3,0.827,-11.937,0.0831,0.246,0.0,0.0764,0.815,109.933
+180,The Beatles,Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),0.557,-10.484,0.0347,0.0339,0.00248,0.179,0.394,129.171
+181,The Beatles,Let It Be - Remastered 2009,Let It Be (Remastered),0.443,-8.339,0.0322,0.631,0.0,0.111,0.41,143.462
+182,The Beatles,Come Together - Remastered 2009,Abbey Road (Remastered),0.533,-11.913,0.0393,0.0302,0.248,0.0926,0.187,165.007
+183,The Beatles,Yesterday - Remastered 2009,Help! (Remastered),0.332,-11.83,0.0326,0.879,0.0,0.0886,0.315,96.529
+184,The Beatles,Twist And Shout - Remastered 2009,Please Please Me (Remastered),0.482,-9.198,0.0452,0.641,7.74e-06,0.0414,0.937,124.631
+185,The Beatles,Blackbird - Remastered 2009,The Beatles (Remastered),0.686,-14.361,0.0342,0.754,1.41e-05,0.0573,0.372,93.699
+186,The Beatles,In My Life - Remastered 2009,Rubber Soul (Remastered),0.688,-11.359,0.0323,0.449,0.0,0.113,0.435,103.239
+187,The Beatles,Hey Jude - Remastered 2015,1 (Remastered),0.386,-7.7,0.0261,0.0112,1.38e-05,0.088,0.532,147.207
+188,The Beatles,I Want To Hold Your Hand - Remastered 2015,1 (Remastered),0.49,-5.549,0.0476,0.386,0.0,0.311,0.866,130.726
+189,The Beatles,Something - Remastered 2009,Abbey Road (Remastered),0.396,-10.872,0.0304,0.198,2.62e-06,0.138,0.377,133.522
+190,Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Planet Pit (Deluxe Version),0.671,-3.206,0.161,0.191,0.0,0.298,0.53,129.024
+191,Pitbull,Timber (feat. Ke$ha),Global Warming: Meltdown (Deluxe Version),0.581,-4.087,0.0981,0.0295,0.0,0.139,0.788,129.992
+192,Pitbull,Time of Our Lives,Globalization,0.721,-5.797,0.0583,0.0921,0.0,0.694,0.724,124.022
+193,Pitbull,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),0.673,-3.632,0.158,0.039,0.0,0.341,0.542,135.956
+194,Pitbull,International Love (feat. Chris Brown),Planet Pit (Deluxe Version),0.67,-3.035,0.0499,0.0124,0.0,0.335,0.648,120.05
+195,Pitbull,Fireball (feat. John Ryan),Globalization,0.761,-5.38,0.056,0.0908,8.53e-05,0.0607,0.836,122.959
+196,Pitbull,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),Globalization,0.592,-4.317,0.0581,0.00879,0.0154,0.132,0.567,125.013
+197,Pitbull,Hotel Room Service,Pitbull Starring In Rebelution,0.85,-8.401,0.227,0.00684,0.000406,0.0679,0.738,126.002
+198,Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),Planet Pit (Deluxe Version),0.595,-3.428,0.0884,0.0434,0.0,0.259,0.762,128.024
+199,Pitbull,HOT,LEGENDADDY,0.898,-6.422,0.243,0.0223,0.0,0.35,0.578,130.027
+200,Sean Paul,No Lie,Mad Love The Prequel,0.742,-2.862,0.117,0.0466,0.0,0.206,0.463,102.04
+201,Sean Paul,Temperature,The Trinity,0.951,-4.675,0.0685,0.106,0.0,0.0712,0.822,125.04
+202,Sean Paul,Go Down Deh (feat. Shaggy and Sean Paul),10,0.801,-5.112,0.0986,0.109,1.62e-05,0.247,0.578,89.999
+203,Sean Paul,Get Busy,Dutty Rock (20th Anniversary),0.741,-4.143,0.0352,0.614,0.0,0.158,0.725,100.216
+204,Sean Paul,She Doesn't Mind,Tomahawk Technique,0.718,-5.208,0.0693,0.000624,5.3e-06,0.207,0.622,120.015
+205,Sean Paul,Give It Up to Me,The Trinity,0.855,-4.328,0.314,0.165,0.0,0.0548,0.578,95.991
+206,Sean Paul,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,Only Hits,0.711,-3.04,0.225,0.067,0.0,0.041,0.718,95.824
+207,Sean Paul,I'm Still in Love with You (feat. Sasha),Dutty Rock (20th Anniversary),0.765,-5.384,0.172,0.103,0.0,0.116,0.757,87.002
+208,Sean Paul,UP,UP,0.812,-5.993,0.0452,0.01,0.0,0.108,0.85,98.029
+209,Sean Paul,Contra La Pared,Contra La Pared,0.828,-7.14,0.118,0.0156,0.0,0.124,0.598,94.052
+210,Elvis Presley,Can't Help Falling in Love,Blue Hawaii,0.396,-14.062,0.0275,0.941,0.000196,0.105,0.343,100.307
+211,Elvis Presley,Blue Christmas,Elvis' Christmas Album,0.465,-16.661,0.0425,0.9,0.00104,0.145,0.58,94.518
+212,Elvis Presley,Here Comes Santa Claus (Right Down Santa Claus Lane),Elvis' Christmas Album,0.575,-16.982,0.0422,0.968,0.0178,0.105,0.829,79.576
+213,Elvis Presley,Suspicious Minds,From Elvis in Memphis,0.487,-10.889,0.0309,0.0422,4.74e-06,0.411,0.714,116.557
+214,Elvis Presley,Burning Love,Elvis (Fool),0.66,-11.206,0.0284,0.0993,0.00585,0.283,0.972,143.549
+215,Elvis Presley,Always On My Mind,Elvis (Fool),0.358,-14.342,0.0324,0.746,0.0121,0.119,0.495,181.183
+216,Elvis Presley,If I Can Dream,ELVIS (Original Motion Picture Soundtrack),0.325,-7.744,0.0368,0.00708,2.79e-05,0.0987,0.282,93.914
+217,Elvis Presley,Jailhouse Rock,Platinum - A Life In Music,0.623,-10.014,0.0726,0.332,1.4e-05,0.0963,0.905,166.885
+218,Elvis Presley,In the Ghetto,From Elvis in Memphis,0.404,-16.688,0.0334,0.716,0.133,0.107,0.491,88.916
+219,Elvis Presley,(You're The) Devil in Disguise,Elvis 30 #1 Hits (Expanded Edition),0.481,-7.633,0.165,0.573,1.17e-05,0.108,0.874,122.903
+220,2Pac,Hit 'Em Up - Single Version,Greatest Hits,0.916,-3.967,0.236,0.0394,0.0,0.0778,0.586,95.19
+221,2Pac,Ambitionz Az A Ridah,All Eyez On Me,0.801,-6.566,0.225,0.00239,0.000891,0.0737,0.805,87.277
+222,2Pac,California Love - Original Version,Greatest Hits,0.763,-3.052,0.0417,0.0304,1.21e-06,0.371,0.761,91.519
+223,2Pac,All Eyez On Me (ft. Big Syke),All Eyez On Me,0.872,-5.968,0.247,0.0293,0.0,0.327,0.843,93.279
+224,2Pac,Do For Love,R U Still Down? [Remember Me],0.874,-3.585,0.298,0.0578,0.00479,0.0582,0.717,95.0
+225,2Pac,Changes,Greatest Hits,0.865,-6.289,0.073,0.0453,0.0,0.224,0.331,111.113
+226,2Pac,Dear Mama,Me Against The World,0.773,-7.123,0.103,0.371,0.0,0.131,0.322,84.115
+227,2Pac,Keep Ya Head Up,Strictly 4 My N.I.G.G.A.Z...,0.598,-7.013,0.425,0.144,0.0,0.508,0.595,172.329
+228,2Pac,2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg),All Eyez On Me,0.849,-4.78,0.138,0.0248,5.11e-05,0.0545,0.854,99.258
+229,2Pac,Can't C Me,All Eyez On Me,0.795,-2.238,0.178,0.0442,3.47e-06,0.39,0.673,95.44
+230,Snoop Dogg,Bad Decisions (with BTS & Snoop Dogg),Bad Decisions (with BTS & Snoop Dogg),0.762,-3.296,0.0955,0.0185,0.0,0.264,0.955,120.048
+231,Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",Mac and Devin Go to High School (Music from and Inspired by the Movie),0.553,-6.685,0.206,0.0897,0.0,0.111,0.551,94.505
+232,Snoop Dogg,Drop It Like It's Hot,R&G (Rhythm & Gangsta): The Masterpiece,0.888,-3.872,0.219,0.19,0.0,0.101,0.662,91.979
+233,Snoop Dogg,"That's My N**** (with Meek Mill, YG & Snoop Dogg)","That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",0.723,-5.514,0.0864,0.11,0.0,0.484,0.503,104.991
+234,Snoop Dogg,From The D 2 The LBC (with Snoop Dogg),Curtain Call 2,0.718,-7.87,0.25,0.0988,0.0,0.0957,0.591,164.038
+235,Snoop Dogg,Sweat - Remix,Sweat (Snoop Dogg Vs. David Guetta) [Remix],0.813,-5.636,0.03,0.0597,0.00137,0.0826,0.731,130.02
+236,Snoop Dogg,Beautiful,Paid Tha Cost To Be Da Bo$$,0.907,-6.268,0.135,0.246,0.0,0.0808,0.961,101.007
+237,Snoop Dogg,I Wanna Fuck You,Sexy Songs 2020,0.861,-8.433,0.0512,0.0459,0.0,0.351,0.278,99.972
+238,Snoop Dogg,Qué Maldición,Qué Maldición,0.755,-8.051,0.196,0.213,0.0,0.13,0.683,177.951
+239,Snoop Dogg,Riders On The Storm - Fredwreck Remix,Riders On The Storm (Fredwreck Remix),0.878,-5.273,0.152,0.416,3.1e-05,0.122,0.831,101.984
+240,Lil Wayne,Love Me,I Am Not A Human Being II (Deluxe),0.669,-6.476,0.0327,0.0125,0.0,0.0946,0.496,124.906
+241,Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors),0.502,-4.378,0.317,0.255,0.0,0.65,0.739,169.021
+242,Lil Wayne,Mirror,Tha Carter IV (Complete Edition),0.328,-7.291,0.0866,0.858,0.0,0.104,0.401,74.267
+243,Lil Wayne,Forever,Relapse: Refill,0.457,-2.278,0.342,0.249,0.0,0.182,0.54,104.02
+244,Lil Wayne,6 Foot 7 Foot,Tha Carter IV (Complete Edition),0.364,-5.429,0.304,0.0007,0.0,0.318,0.606,79.119
+245,Lil Wayne,Lollipop,Tha Carter III (MTV Bonus Version),0.832,-9.39,0.0826,0.0606,0.00323,0.124,0.462,148.074
+246,Lil Wayne,A Milli,Tha Carter III (MTV Bonus Version),0.663,-8.659,0.283,0.0391,0.00224,0.223,0.731,151.589
+247,Lil Wayne,Scared of the Dark (feat. XXXTENTACION),Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),0.443,-6.717,0.0718,0.0468,0.0,0.247,0.156,79.365
+248,Lil Wayne,ay! (feat. Lil Wayne),mainstream sellout,0.742,-6.689,0.0345,0.05,5.92e-05,0.0711,0.491,147.002
+249,Lil Wayne,Right Above It,I Am Not A Human Being,0.376,-4.348,0.356,0.0435,0.0,0.578,0.463,76.052
+250,Sia,Snowman,Everyday Is Christmas (Deluxe Edition),0.716,-6.257,0.0331,0.483,0.0,0.0928,0.326,104.957
+251,Sia,Unstoppable,This Is Acting (Deluxe Version),0.468,-4.839,0.0779,0.112,0.000373,0.101,0.26,173.799
+252,Sia,Chandelier,1000 Forms Of Fear (Deluxe Version),0.399,-2.88,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089
+253,Sia,Dusk Till Dawn (feat. Sia) - Radio Edit,Icarus Falls,0.259,-6.589,0.0386,0.102,1.32e-06,0.106,0.0951,180.042
+254,Sia,Cheap Thrills,This Is Acting (Deluxe Version),0.628,-5.608,0.105,0.0472,0.00143,0.0907,0.732,89.976
+255,Sia,"Genius (feat. Sia, Diplo, and Labrinth)","LABRINTH, SIA & DIPLO PRESENT... LSD",0.603,-4.931,0.165,0.0799,6.72e-05,0.117,0.561,158.657
+256,Sia,Elastic Heart,1000 Forms Of Fear (Deluxe Version),0.421,-4.998,0.0496,0.0117,1.48e-05,0.146,0.499,130.075
+257,Sia,Unstoppable - R3HAB Remix,Unstoppable (R3HAB Remix),0.678,-4.058,0.234,0.495,2.35e-05,0.0631,0.433,101.987
+258,Sia,Del Mar,ENOC,0.759,-5.585,0.0369,0.0224,0.000143,0.166,0.536,109.976
+259,Sia,Santa's Coming for Us,Everyday Is Christmas (Deluxe Edition),0.547,-6.191,0.12,0.0215,0.0,0.0475,0.724,92.986
+260,Fleetwood Mac,Dreams - 2004 Remaster,Rumours (Super Deluxe),0.828,-9.744,0.0276,0.0644,0.00428,0.128,0.789,120.151
+261,Fleetwood Mac,The Chain - 2004 Remaster,Rumours (Super Deluxe),0.545,-8.81,0.0496,0.009,0.000822,0.0451,0.481,151.553
+262,Fleetwood Mac,Everywhere - 2017 Remaster,Tango In the Night (Deluxe Edition),0.73,-10.991,0.0303,0.258,0.01,0.0852,0.731,114.965
+263,Fleetwood Mac,Go Your Own Way - 2004 Remaster,Rumours,0.583,-5.12,0.0378,0.0185,0.00109,0.0679,0.803,135.448
+264,Fleetwood Mac,Landslide,Fleetwood Mac,0.414,-22.32,0.0318,0.883,0.000223,0.117,0.423,159.375
+265,Fleetwood Mac,Don't Stop - 2004 Remaster,Rumours,0.671,-7.724,0.0356,0.0393,1.12e-05,0.0387,0.834,118.745
+266,Fleetwood Mac,Little Lies - 2017 Remaster,Tango In the Night (Deluxe Edition),0.64,-10.345,0.0264,0.216,8.3e-05,0.0551,0.865,124.825
+267,Fleetwood Mac,Rhiannon,Fleetwood Mac,0.723,-14.745,0.0296,0.111,0.0946,0.0923,0.795,129.012
+268,Fleetwood Mac,Gypsy,Greatest Hits,0.622,-13.99,0.0261,0.017,0.00771,0.265,0.847,130.879
+269,Fleetwood Mac,Never Going Back Again - 2004 Remaster,Rumours (Super Deluxe),0.654,-12.825,0.0379,0.858,0.385,0.0786,0.947,176.083
+270,ABBA,Dancing Queen,Arrival,0.543,-6.514,0.0428,0.358,0.000939,0.792,0.754,100.804
+271,ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),Voulez-Vous,0.749,-9.655,0.0403,0.02,0.00899,0.159,0.536,119.528
+272,ABBA,Mamma Mia,Abba,0.749,-7.011,0.0323,0.295,0.000443,0.469,0.827,137.547
+273,ABBA,Angeleyes,Voulez-Vous,0.719,-6.091,0.0338,0.523,0.000163,0.0867,0.964,133.113
+274,ABBA,The Winner Takes It All,Super Trouper,0.454,-6.748,0.0371,0.574,0.000766,0.0859,0.52,126.15
+275,ABBA,Take A Chance On Me,The Album,0.684,-8.123,0.0257,0.163,0.0,0.242,0.924,107.064
+276,ABBA,Lay All Your Love On Me,Super Trouper,0.678,-7.844,0.0258,0.117,0.00396,0.354,0.71,133.481
+277,ABBA,Waterloo,Waterloo,0.445,-4.682,0.0471,0.395,8.18e-06,0.0902,0.653,147.604
+278,ABBA,Chiquitita,Voulez-Vous,0.5,-8.108,0.0354,0.734,3.72e-06,0.312,0.372,84.229
+279,ABBA,Super Trouper,Super Trouper,0.764,-8.274,0.0288,0.457,6.35e-06,0.201,0.961,118.34
+280,Frank Sinatra,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Christmas Songs by Sinatra,0.652,-13.336,0.0595,0.903,0.0,0.362,0.836,142.169
+281,Frank Sinatra,Have Yourself A Merry Little Christmas - Remastered 1999,A Jolly Christmas From Frank Sinatra,0.262,-15.235,0.0344,0.913,6.74e-06,0.267,0.288,92.183
+282,Frank Sinatra,Jingle Bells - Remastered 1999,A Jolly Christmas From Frank Sinatra,0.512,-13.119,0.0498,0.727,0.0,0.0977,0.951,174.609
+283,Frank Sinatra,My Way,My Way (Expanded Edition),0.401,-7.458,0.0274,0.7,0.0,0.122,0.229,75.454
+284,Frank Sinatra,Somethin' Stupid,The World We Knew,0.257,-12.902,0.0357,0.736,0.0,0.252,0.544,207.356
+285,Frank Sinatra,Santa Claus Is Comin' to Town,Christmas Songs by Sinatra,0.646,-11.957,0.0565,0.826,0.0,0.312,0.688,140.281
+286,Frank Sinatra,Fly Me To The Moon (In Other Words),Sinatra/Basie: The Complete Reprise Studio Recordings,0.668,-14.256,0.0523,0.453,0.0,0.0621,0.368,119.416
+287,Frank Sinatra,Strangers In The Night,Strangers In The Night (Expanded Edition),0.259,-8.275,0.0295,0.592,0.0,0.201,0.539,90.348
+288,Frank Sinatra,That's Life,That's Life,0.56,-14.151,0.0729,0.55,0.0,0.346,0.664,112.803
+289,Frank Sinatra,Silent Night - 1999 Remaster,A Jolly Christmas From Frank Sinatra,0.252,-17.62,0.0328,0.945,6.2e-05,0.117,0.14,87.575
+290,Tiësto,10:35,10:35,0.696,-5.733,0.097,0.0683,3.78e-06,0.18,0.698,120.003
+291,Tiësto,The Motto,The Motto,0.754,-4.627,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953
+292,Tiësto,Don't Be Shy,Don't Be Shy,0.77,-3.748,0.0583,0.198,0.0,0.262,0.513,119.986
+293,Tiësto,Lay Low,Lay Low,0.534,-4.923,0.183,0.0607,0.000263,0.346,0.42,122.06
+294,Tiësto,The Business,The Business,0.798,-7.079,0.232,0.414,0.0192,0.112,0.235,120.031
+295,Tiësto,Hot In It,Hot In It,0.748,-5.08,0.177,0.00445,1.33e-06,0.0413,0.717,123.045
+296,Tiësto,Pump It Louder,Pump It Louder,0.66,-2.273,0.185,0.00789,1.76e-05,0.834,0.543,126.017
+297,Tiësto,Another Love - Tiësto Remix,Another Love (Tiësto Remix),0.79,-4.685,0.0737,0.0836,0.0871,0.132,0.473,123.046
+298,Tiësto,Baila Conmigo,Baila Conmigo,0.652,-6.411,0.0775,0.00658,0.409,0.341,0.0834,127.964
+299,Tiësto,Jackie Chan,The London Sessions,0.747,-2.867,0.045,0.374,0.0,0.0586,0.687,128.008
+300,Elton John,Cold Heart - PNAU Remix,The Lockdown Sessions,0.795,-6.32,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032
+301,Elton John,I'm Still Standing,Too Low For Zero,0.504,-6.863,0.179,0.356,0.121,0.14,0.772,176.808
+302,Elton John,Hold Me Closer,The Lockdown Sessions,0.658,-4.615,0.113,0.0798,0.00018,0.187,0.491,126.027
+303,Elton John,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Honky Chateau,0.601,-9.119,0.0286,0.432,6.25e-06,0.0925,0.341,136.571
+304,Elton John,Your Song,Elton John,0.554,-11.028,0.0298,0.828,5.53e-06,0.101,0.325,128.157
+305,Elton John,Don't Go Breaking My Heart,Rock Of The Westies,0.729,-8.824,0.0344,0.149,2.87e-06,0.0604,0.777,131.459
+306,Elton John,Tiny Dancer,Madman Across The Water,0.414,-11.097,0.0278,0.382,0.000243,0.148,0.282,145.075
+307,Elton John,Step Into Christmas,Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe),0.526,-5.584,0.0363,0.102,8.9e-06,0.305,0.819,140.308
+308,Elton John,Goodbye Yellow Brick Road - Remastered 2014,Goodbye Yellow Brick Road (Remastered),0.559,-7.712,0.0279,0.446,0.00141,0.154,0.397,121.227
+309,Elton John,Merry Christmas,Merry Christmas,0.594,-2.018,0.0357,0.243,2.36e-06,0.102,0.602,113.99
+310,JAY-Z,Ni**as In Paris,Watch The Throne (Deluxe),0.789,-5.542,0.311,0.127,0.0,0.349,0.775,140.022
+311,JAY-Z,Empire State Of Mind,The Blueprint 3,0.491,-1.538,0.392,0.0295,0.0,0.46,0.811,173.585
+312,JAY-Z,Numb / Encore,Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course,0.687,-4.254,0.166,0.0603,0.0,0.582,0.751,107.045
+313,JAY-Z,Run This Town,The Blueprint 3,0.632,-1.802,0.29,0.281,0.0,0.263,0.441,86.844
+314,JAY-Z,No Church In The Wild,Watch The Throne (Deluxe),0.654,-7.509,0.105,0.246,0.0178,0.167,0.557,92.78
+315,JAY-Z,4:44,4:44,0.261,-4.965,0.158,0.139,4.26e-05,0.477,0.431,177.997
+316,JAY-Z,03' Bonnie & Clyde,The Blueprint 2: The Gift & The Curse,0.759,-5.148,0.314,0.23,0.0,0.15,0.327,89.64
+317,JAY-Z,Otis,Watch The Throne (Deluxe),0.754,-4.751,0.307,0.552,0.0,0.5,0.432,94.577
+318,JAY-Z,Gotta Have It,Watch The Throne (Deluxe),0.74,-6.938,0.245,0.411,0.0,0.262,0.33,149.762
+319,JAY-Z,Love All (with JAY-Z),Certified Lover Boy,0.73,-5.442,0.287,0.354,3.59e-05,0.15,0.155,92.131
+320,21 Savage,Creepin' (with The Weeknd & 21 Savage),HEROES & VILLAINS,0.715,-6.005,0.0484,0.417,0.0,0.0822,0.172,97.95
+321,21 Savage,Rich Flex,Her Loss,0.561,-9.342,0.244,0.0503,1.86e-06,0.355,0.424,153.15
+322,21 Savage,Jimmy Cooks (feat. 21 Savage),"Honestly, Nevermind",0.529,-4.711,0.175,0.000307,2.41e-06,0.093,0.366,165.921
+323,21 Savage,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],HEROES & VILLAINS,0.671,-5.567,0.309,0.189,8.66e-05,0.147,0.257,87.933
+324,21 Savage,Pussy & Millions (feat. Travis Scott),Her Loss,0.749,-6.652,0.116,0.0623,0.0,0.353,0.445,122.03
+325,21 Savage,Glock In My Lap,SAVAGE MODE II,0.847,-6.439,0.16,0.00574,1.04e-05,0.151,0.202,130.029
+326,21 Savage,On BS,Her Loss,0.841,-8.368,0.591,0.0201,0.0,0.39,0.329,158.014
+327,21 Savage,Major Distribution,Her Loss,0.908,-10.491,0.323,0.0127,0.0,0.0707,0.225,131.016
+328,21 Savage,Spin Bout U,Her Loss,0.773,-6.386,0.0512,0.01,0.0,0.163,0.203,129.963
+329,21 Savage,Knife Talk (with 21 Savage ft. Project Pat),Certified Lover Boy,0.849,-9.579,0.324,0.0635,0.0,0.0834,0.153,145.887
+330,Kanye West,Bound 2,Yeezus,0.367,-2.821,0.0465,0.145,0.0,0.113,0.31,148.913
+331,Kanye West,Heartless,808s & Heartbreak,0.79,-5.983,0.136,0.0515,0.0,0.248,0.654,87.999
+332,Kanye West,Flashing Lights,Graduation,0.639,-7.578,0.0399,0.0381,0.0,0.386,0.43,90.482
+333,Kanye West,Ni**as In Paris,Watch The Throne (Deluxe),0.789,-5.542,0.311,0.127,0.0,0.349,0.775,140.022
+334,Kanye West,Father Stretch My Hands Pt. 1,The Life Of Pablo,0.724,-4.113,0.0549,0.118,0.0,0.538,0.438,113.088
+335,Kanye West,Stronger,Graduation,0.617,-7.858,0.153,0.00564,0.0,0.408,0.49,103.992
+336,Kanye West,I Wonder,Graduation,0.542,-8.665,0.0831,0.141,0.000445,0.125,0.124,191.385
+337,Kanye West,Violent Crimes,ye,0.669,-6.724,0.522,0.376,0.0,0.187,0.0397,109.813
+338,Kanye West,Homecoming,Graduation,0.667,-7.059,0.189,0.337,0.0,0.115,0.918,86.917
+339,Kanye West,Gold Digger,Late Registration,0.629,-5.572,0.348,0.0195,0.0,0.0554,0.623,93.034
+340,Luis Miguel,Ahora Te Puedes Marchar,Soy Como Quiero Ser,0.78,-3.683,0.0427,0.148,2.36e-06,0.0627,0.909,133.263
+341,Luis Miguel,La Incondicional,Busca Una Mujer,0.374,-4.352,0.0309,0.237,0.0,0.134,0.283,155.127
+342,Luis Miguel,Hasta Que Me Olvides,Aries,0.641,-7.884,0.0264,0.46,0.0,0.169,0.437,119.828
+343,Luis Miguel,La Media Vuelta,Segundo Romance,0.631,-8.788,0.0344,0.291,0.0,0.0994,0.708,97.959
+344,Luis Miguel,Culpable O No - Miénteme Como Siempre,Busca Una Mujer,0.54,-14.238,0.0277,0.0367,0.0,0.0433,0.252,70.276
+345,Luis Miguel,Por Debajo De La Mesa,Romances,0.401,-7.643,0.0272,0.217,0.0,0.149,0.262,144.276
+346,Luis Miguel,Tengo Todo Excepto a Ti,20 Años,0.542,-8.121,0.0297,0.522,0.0,0.177,0.417,147.977
+347,Luis Miguel,No Sé Tú,Romance,0.389,-8.546,0.0304,0.571,0.00178,0.114,0.0888,76.54
+348,Luis Miguel,La bikina - En vivo,Vivo,0.389,-6.265,0.0351,0.161,0.0,0.918,0.666,160.397
+349,Luis Miguel,Sabor a Mi,Romances,0.663,-6.982,0.0269,0.645,0.0,0.189,0.48,89.929
+350,Beyoncé,CUFF IT,RENAISSANCE,0.78,-5.668,0.141,0.0368,9.69e-06,0.0698,0.642,115.042
+351,Beyoncé,Crazy In Love (feat. Jay-Z),Dangerously In Love,0.646,-6.596,0.226,0.00249,0.0,0.0715,0.681,99.165
+352,Beyoncé,ALIEN SUPERSTAR,RENAISSANCE,0.545,-6.398,0.0998,0.00453,6.59e-05,0.171,0.464,121.892
+353,Beyoncé,BREAK MY SOUL,RENAISSANCE,0.693,-5.039,0.0795,0.0581,2.71e-06,0.27,0.864,114.942
+354,Beyoncé,Halo,I AM...SASHA FIERCE,0.508,-5.908,0.0628,0.272,0.0,0.0563,0.472,79.983
+355,Beyoncé,Love On Top,4,0.652,-5.248,0.0886,0.0848,0.0,0.604,0.651,94.103
+356,Beyoncé,ENERGY (feat. Beam),RENAISSANCE,0.903,-9.151,0.26,0.281,0.000106,0.155,0.587,114.991
+357,Beyoncé,Perfect Duet (Ed Sheeran & Beyoncé),Perfect Duet (Ed Sheeran & Beyoncé),0.587,-7.365,0.0263,0.779,0.0,0.123,0.356,94.992
+358,Beyoncé,Drunk in Love (feat. Jay-Z),BEYONCÉ [Platinum Edition],0.583,-6.902,0.0479,0.00972,0.00106,0.181,0.399,140.036
+359,Beyoncé,Run the World (Girls),4,0.732,-4.237,0.143,0.00496,4.64e-05,0.372,0.759,127.091
+360,Daddy Yankee,ULALA (OOH LA LA),ULALA (OOH LA LA),0.872,-4.348,0.11,0.0462,1.38e-05,0.129,0.481,96.986
+361,Daddy Yankee,La Santa,YHLQMDLG,0.744,-4.524,0.047,0.0326,0.0,0.0822,0.586,93.037
+362,Daddy Yankee,Gasolina,Barrio Fino (Bonus Track Version),0.852,-6.543,0.0614,0.322,2.69e-06,0.0845,0.741,96.008
+363,Daddy Yankee,X ÚLTIMA VEZ,LEGENDADDY,0.812,-3.725,0.0554,0.0789,0.000167,0.108,0.573,90.04
+364,Daddy Yankee,"Lo Que Pasó, Pasó",Barrio Fino (Bonus Track Version),0.819,-6.538,0.0412,0.104,0.0,0.283,0.84,97.014
+365,Daddy Yankee,Despacito,VIDA,0.655,-4.787,0.153,0.198,0.0,0.067,0.839,177.928
+366,Daddy Yankee,Con Calma,Con Calma,0.737,-2.652,0.0593,0.11,1.94e-06,0.0574,0.656,93.989
+367,Daddy Yankee,Tu Príncipe,Barrio Fino (Bonus Track Version),0.77,-5.479,0.0623,0.16,1e-05,0.193,0.568,94.017
+368,Daddy Yankee,Llamado de Emergencia,Talento de Barrio,0.703,-4.456,0.0358,0.216,1.57e-06,0.162,0.777,97.982
+369,Daddy Yankee,Ella Me Levanto,El Cartel: The Big Boss,0.76,-4.782,0.0668,0.0715,0.0,0.221,0.761,100.046
+370,Don Toliver,Used (feat. Don Toliver),SOS,0.733,-6.228,0.0533,0.363,0.000238,0.333,0.837,150.073
+371,Don Toliver,No Idea,Heaven Or Hell,0.652,-5.718,0.0893,0.524,0.000579,0.165,0.35,127.998
+372,Don Toliver,After Party,Heaven Or Hell,0.629,-8.045,0.0376,0.00981,0.331,0.603,0.453,162.948
+373,Don Toliver,"Lemonade (feat. Gunna, Don Toliver & NAV)",B4 The Storm,0.8,-6.142,0.079,0.25,0.0,0.111,0.462,140.042
+374,Don Toliver,Do It Right,Do It Right,0.662,-6.867,0.199,0.458,0.0,0.163,0.386,69.808
+375,Don Toliver,Cardigan,Heaven Or Hell,0.747,-6.542,0.0401,0.248,0.0,0.138,0.0663,142.046
+376,Don Toliver,Honest (feat. Don Toliver),Honest,0.81,-6.779,0.0698,0.127,8.16e-05,0.105,0.809,150.002
+377,Don Toliver,Mystery Lady,Studying Abroad: Extended Stay,0.747,-7.957,0.141,0.393,0.0,0.0982,0.624,76.006
+378,Don Toliver,Drugs N Hella Melodies (feat. Kali Uchis),Life of a DON,0.56,-6.863,0.07,0.264,0.000268,0.108,0.341,147.0
+379,Don Toliver,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),It's Almost Dry,0.594,-3.702,0.345,0.484,7.83e-06,0.114,0.66,106.726
+380,Camilo,La Mitad,Por Primera Vez,0.724,-3.743,0.0329,0.73,0.0,0.101,0.763,97.194
+381,Camilo,KESI - Remix,KESI (Remix),0.871,-4.439,0.0477,0.127,6.18e-06,0.094,0.823,122.959
+382,Camilo,Desconocidos,Para Aventuras y Curiosidades,0.719,-4.891,0.179,0.118,4.21e-06,0.212,0.675,174.107
+383,Camilo,Aeropuerto,De Adentro Pa Afuera,0.69,-4.395,0.199,0.0328,0.0,0.328,0.708,197.635
+384,Camilo,Índigo,De Adentro Pa Afuera,0.754,-6.663,0.0335,0.00948,1.61e-05,0.131,0.916,128.925
+385,Camilo,Si Me Dices Que Sí,Si Me Dices Que Sí,0.578,-5.979,0.333,0.00473,0.0,0.132,0.216,183.89
+386,Camilo,El Mismo Aire - con Pablo Alborán,El Mismo Aire (con Pablo Alborán),0.483,-6.591,0.295,0.603,0.0,0.323,0.66,144.511
+387,Camilo,Bebiendo Sola,De Adentro Pa Afuera,0.589,-5.706,0.279,0.176,0.0,0.119,0.691,78.791
+388,Camilo,Color Esperanza 2020,Color Esperanza 2020,0.591,-7.768,0.161,0.161,0.0,0.126,0.785,106.002
+389,Camilo,Tattoo - Remix with Camilo,Afrodisíaco,0.721,-5.134,0.286,0.0406,0.0,0.0525,0.691,193.922
+390,Britney Spears,Hold Me Closer,The Lockdown Sessions,0.658,-4.615,0.113,0.0798,0.00018,0.187,0.491,126.027
+391,Britney Spears,Toxic,In The Zone,0.774,-3.914,0.114,0.0249,0.025,0.242,0.924,143.04
+392,Britney Spears,Gimme More,Blackout,0.788,-3.131,0.0334,0.25,0.000678,0.0723,0.382,113.324
+393,Britney Spears,...Baby One More Time,...Baby One More Time (Digital Deluxe Version),0.759,-5.745,0.0307,0.202,0.000131,0.443,0.907,92.96
+394,Britney Spears,Oops!...I Did It Again,Oops!... I Did It Again,0.751,-5.444,0.0437,0.3,1.77e-05,0.355,0.894,95.053
+395,Britney Spears,My Only Wish (This Year),My Only Wish (This Year),0.669,-3.766,0.0268,0.169,0.0,0.195,0.702,147.08
+396,Britney Spears,Womanizer,Circus (Deluxe Version),0.724,-5.226,0.0622,0.073,0.0,0.0889,0.235,139.0
+397,Britney Spears,Circus,Circus (Deluxe Version),0.791,-5.215,0.052,0.147,0.000381,0.0713,0.761,114.98
+398,Britney Spears,Criminal,Femme Fatale (Deluxe Version),0.696,-5.294,0.0298,0.0485,0.0,0.183,0.711,107.987
+399,Britney Spears,If U Seek Amy,Circus (Deluxe Version),0.717,-7.296,0.0339,0.0192,0.0,0.0523,0.544,129.954
+400,Farruko,Pepas,La 167,0.762,-3.955,0.0343,0.00776,6.98e-05,0.128,0.442,130.001
+401,Farruko,Diles,Diles,0.813,-5.904,0.0618,0.108,0.0,0.268,0.287,118.033
+402,Farruko,Si Se Da - Remix,Si Se da Remix,0.817,-5.612,0.299,0.441,0.0,0.13,0.774,93.999
+403,Farruko,Fantasias,Fantasias,0.879,-4.219,0.0701,0.143,0.0,0.0569,0.788,94.004
+404,Farruko,Calma - Remix,MUNAY,0.826,-4.341,0.0522,0.337,0.0,0.161,0.761,126.9
+405,Farruko,On My Way,World Of Walker,0.522,-5.288,0.103,0.0291,0.0,0.319,0.235,169.775
+406,Farruko,Si Me Dices Que Sí,Si Me Dices Que Sí,0.578,-5.979,0.333,0.00473,0.0,0.132,0.216,183.89
+407,Farruko,Passion Whine,Farruko Presents Los Menores,0.756,-3.87,0.0648,0.327,0.0,0.0586,0.782,162.006
+408,Farruko,Color Esperanza 2020,Color Esperanza 2020,0.591,-7.768,0.161,0.161,0.0,0.126,0.785,106.002
+409,Farruko,Patio de la Cárcel - Tangos,Quejíos de un Maleante,0.788,-3.822,0.217,0.562,0.0,0.208,0.665,97.982
+410,Wisin & Yandel,Besos Moja2,La Última Misión,0.736,-4.642,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048
+411,Wisin & Yandel,Mayor Que Usted,Mayor Que Usted,0.625,-4.824,0.0927,0.00762,2.35e-05,0.464,0.771,184.08
+412,Wisin & Yandel,Vapor,La Última Misión,0.803,-4.449,0.0694,0.066,2.23e-05,0.111,0.317,94.009
+413,Wisin & Yandel,Si Te Pillo,Si Te Pillo,0.687,-4.657,0.0944,0.166,4.32e-06,0.255,0.655,180.1
+414,Wisin & Yandel,Noche De Entierro,Mas Flow - Los Benjamins,0.868,-6.574,0.167,0.119,0.00143,0.0918,0.397,96.994
+415,Wisin & Yandel,Algo Me Gusta De Ti,Líderes,0.627,-5.296,0.0325,0.00291,0.0,0.0598,0.237,127.953
+416,Wisin & Yandel,Noche De Sexo,Pa'l Mundo,0.686,-5.4,0.256,0.108,0.0,0.494,0.515,94.006
+417,Wisin & Yandel,Sexy Movimiento,"Wisin Vs Yandel ""Los Extraterrestres""",0.815,-6.16,0.039,0.382,3.28e-06,0.147,0.734,104.986
+418,Wisin & Yandel,Si Supieras,Si Supieras,0.691,-1.681,0.115,0.291,0.0,0.104,0.623,184.019
+419,Disney,"All I Want - From ""High School Musical: The Musical: The Series""","All I Want (From ""High School Musical: The Musical: The Series"")",0.376,-6.585,0.0328,0.0902,0.0,0.0912,0.129,77.599
+420,Disney,I'll Make a Man Out of You,Mulan (Original Soundtrack),0.672,-17.669,0.0339,0.144,2.96e-05,0.074,0.496,113.852
+421,Disney,Part of Your World,The Little Mermaid Special Edition,0.274,-14.516,0.0482,0.92,0.000388,0.29,0.302,61.551
+422,Disney,If Only,Descendants (Original TV Movie Soundtrack),0.477,-5.652,0.0324,0.271,0.0,0.112,0.29,152.062
+423,Disney,Under the Sea,The Little Mermaid Special Edition,0.511,-14.667,0.161,0.708,0.0,0.105,0.819,98.957
+424,Disney,Zero To Hero,Hercules (Original Motion Picture Soundtrack),0.474,-7.699,0.243,0.493,0.0,0.0978,0.697,164.718
+425,Disney,I Won't Say (I'm In Love),Hercules (Original Motion Picture Soundtrack),0.684,-10.305,0.0391,0.228,0.0,0.157,0.48,121.208
+426,Disney,A Whole New World - Remastered 2022,Walt Disney Records The Legacy Collection: Aladdin,0.273,-15.742,0.0351,0.848,2.31e-06,0.102,0.142,129.272
+427,Disney,Be Our Guest,Beauty And The Beast (Special Edition),0.435,-13.062,0.162,0.814,0.0,0.0885,0.583,73.531
+428,Disney,Gotta Go My Own Way,High School Musical 2 (Original Soundtrack),0.555,-4.767,0.0277,0.0864,3.25e-05,0.232,0.313,88.995
+429,Chris Brown,Under The Influence,Indigo (Extended),0.733,-5.529,0.0427,0.0635,1.18e-06,0.105,0.31,116.992
+430,Chris Brown,Superhero (Heroes & Villains) [with Future & Chris Brown],HEROES & VILLAINS,0.526,-5.3,0.259,0.152,2.36e-06,0.194,0.492,116.622
+431,Chris Brown,No Guidance (feat. Drake),Indigo,0.696,-6.756,0.153,0.123,0.0,0.155,0.136,92.928
+432,Chris Brown,Nostálgico,Nostálgico,0.734,-3.425,0.0489,0.166,1.74e-06,0.235,0.604,98.026
+433,Chris Brown,Go Crazy,Slime & B,0.755,-8.932,0.145,0.316,0.0,0.25,0.581,94.148
+434,Chris Brown,Forever,Forever,0.672,-4.456,0.0459,0.0368,0.000188,0.184,0.438,120.005
+435,Chris Brown,Wet The Bed (feat. Ludacris),F.A.M.E. (Expanded Edition),0.58,-7.405,0.0429,0.0166,0.0,0.174,0.411,123.801
+436,Chris Brown,Under The Influence (Body Language),Under The Influence,0.62,-6.322,0.0375,0.0388,0.000213,0.129,0.459,144.835
+437,Chris Brown,Monalisa,Monalisa,0.828,-6.389,0.0419,0.106,0.00101,0.103,0.67,113.017
+438,Chris Brown,With You,Exclusive (Expanded Edition),0.662,-4.298,0.0698,0.134,0.0,0.145,0.655,86.009
+439,Tory Lanez,The Color Violet,Alone At Prom,0.645,-10.8,0.0479,0.157,0.0,0.0863,0.463,105.02
+440,Tory Lanez,Lavender Sunflower,Alone At Prom,0.607,-6.065,0.095,0.253,0.0,0.11,0.964,88.894
+441,Tory Lanez,Say It,I Told You,0.546,-10.511,0.0583,0.0862,6.5e-06,0.124,0.247,107.331
+442,Tory Lanez,Broke In A Minute,The New Toronto 3,0.929,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009
+443,Tory Lanez,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",0.904,-5.224,0.26,0.0631,0.0,0.185,0.835,145.013
+444,Tory Lanez,Lady Of Namek,Alone At Prom,0.676,-5.123,0.0476,0.194,0.0,0.283,0.595,134.985
+445,Tory Lanez,In For It,In For It,0.383,-7.814,0.0741,0.0753,0.000102,0.108,0.0375,105.971
+446,Tory Lanez,The Take (feat. Chris Brown),Chixtape 5,0.464,-8.137,0.339,0.0511,0.0,0.155,0.423,67.003
+447,Tory Lanez,I LIKE,I LIKE,0.744,-10.426,0.291,0.365,0.0,0.194,0.279,118.027
+448,Tory Lanez,And This is Just The Intro,PLAYBOY,0.53,-9.253,0.399,0.387,0.0,0.176,0.381,137.554
+449,Mariah Carey,All I Want for Christmas Is You,Merry Christmas,0.336,-7.463,0.0384,0.164,0.0,0.0708,0.35,150.273
+450,Mariah Carey,Christmas (Baby Please Come Home),Merry Christmas,0.561,-7.444,0.0317,0.022,0.0,0.109,0.704,127.148
+451,Mariah Carey,Fantasy,Daydream,0.669,-7.588,0.0353,0.139,0.0,0.123,0.807,102.322
+452,Mariah Carey,Always Be My Baby,Daydream,0.65,-8.335,0.0364,0.457,0.0,0.249,0.487,78.946
+453,Mariah Carey,We Belong Together,The Emancipation of Mimi,0.837,-7.89,0.0601,0.0339,0.0,0.09,0.762,139.986
+454,Mariah Carey,I Know What You Want (feat. Flipmode Squad),It Ain't Safe No More. . .,0.648,-4.315,0.306,0.0142,0.0,0.648,0.518,85.996
+455,Mariah Carey,Without You,Music Box,0.576,-8.524,0.0325,0.323,2.01e-06,0.0548,0.147,122.06
+456,Mariah Carey,Obsessed,Memoirs of an imperfect Angel,0.742,-5.557,0.0625,0.0465,0.0,0.826,0.369,86.443
+457,Mariah Carey,Hero,Music Box,0.501,-9.37,0.029,0.735,0.0,0.119,0.178,119.987
+458,Mariah Carey,O Holy Night,Merry Christmas,0.368,-7.208,0.0285,0.367,6.63e-06,0.154,0.192,173.977
+459,A.R. Rahman,Mallipoo,Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack),0.715,-7.266,0.336,0.196,0.000117,0.0667,0.762,175.589
+460,A.R. Rahman,Enna Sona,OK Jaanu (Original Motion Picture Soundtrack),0.717,-9.875,0.0303,0.635,1.43e-06,0.0976,0.381,100.026
+461,A.R. Rahman,Param Sundari,Mimi (Original Motion Picture Soundtrack),0.815,-7.162,0.144,0.192,0.0,0.0272,0.82,121.999
+462,A.R. Rahman,Rait Zara Si,Atrangi Re,0.563,-10.272,0.0362,0.781,0.0,0.0837,0.244,125.998
+463,A.R. Rahman,Raanjhanaa,Raanjhanaa (Original Motion Picture Soundtrack),0.673,-8.042,0.039,0.111,0.0,0.0858,0.78,112.941
+464,A.R. Rahman,Jashn-E-Bahaaraa,Jodhaa Akbar (Original Motion Picture Soundtrack),0.7,-10.474,0.0308,0.767,0.0,0.0789,0.488,137.864
+465,A.R. Rahman,"Ponni Nadhi (From ""Ponniyin Selvan Part -1"") - Tamil","Ponni Nadhi (From ""Ponniyin Selvan Part -1"") [Original Motion Picture Soundtrack]",0.687,-9.55,0.13,0.12,0.0,0.291,0.56,152.0
+466,A.R. Rahman,Ennodu Nee Irundhaal,I (Original Motion Picture Soundtrack),0.261,-6.733,0.0367,0.558,0.0,0.184,0.207,158.125
+467,A.R. Rahman,Kun Faya Kun,Rockstar,0.362,-11.008,0.0329,0.679,0.0,0.091,0.575,87.549
+468,A.R. Rahman,Tere Bina,Guru (Original Motion Picture Soundtrack),0.744,-7.663,0.0375,0.278,0.000155,0.068,0.867,144.033
+469,Die drei ???,Teil 23 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.518,-6.246,0.858,0.404,0.0,0.884,0.241,63.653
+470,Die drei ???,Teil 10 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.415,-9.428,0.836,0.181,0.0,0.339,0.376,175.024
+471,Die drei ???,Teil 1 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.509,-7.231,0.899,0.318,0.0,0.156,0.54,50.977
+472,Die drei ???,Teil 4 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.572,-9.557,0.761,0.269,0.0,0.609,0.453,110.304
+473,Die drei ???,Teil 2 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.54,-7.805,0.482,0.292,0.0,0.558,0.62,114.792
+474,Die drei ???,Teil 3 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.584,-10.423,0.865,0.563,0.0,0.664,0.638,103.357
+475,Die drei ???,Teil 8 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.58,-11.331,0.821,0.218,0.0,0.342,0.471,89.886
+476,Die drei ???,Teil 5 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.574,-11.386,0.909,0.403,0.0,0.41,0.677,99.695
+477,Die drei ???,Teil 15 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.464,-9.479,0.483,0.226,4.8e-06,0.668,0.307,100.66
+478,Die drei ???,Teil 7 - Das Geheimnis der Geisterinsel,Das Geheimnis der Geisterinsel,0.598,-10.712,0.706,0.181,0.0,0.477,0.433,120.177
+479,Pritam,Kesariya,Brahmastra (Original Motion Picture Soundtrack),0.577,-6.525,0.0278,0.572,0.0,0.1,0.436,94.009
+480,Pritam,Shayad,Love Aaj Kal (Original Motion Picture Soundtrack),0.483,-7.642,0.0341,0.784,0.0,0.152,0.319,135.875
+481,Pritam,Kabira,Yeh Jawaani Hai Deewani,0.59,-6.861,0.0271,0.481,0.0,0.192,0.191,84.027
+482,Pritam,Tum Se Hi,Jab We Met,0.609,-7.842,0.0273,0.328,0.0,0.125,0.608,130.015
+483,Pritam,Khairiyat,Chhichhore,0.534,-9.016,0.0412,0.697,0.0,0.142,0.293,124.914
+484,Pritam,Tera Hone Laga Hoon,Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack),0.684,-5.353,0.0307,0.548,0.0,0.112,0.539,119.982
+485,Pritam,Deva Deva,Brahmastra (Original Motion Picture Soundtrack),0.539,-7.588,0.0412,0.627,0.000941,0.128,0.435,112.074
+486,Pritam,Raabta,Agent Vinod,0.657,-8.108,0.0298,0.699,1.82e-05,0.116,0.323,118.037
+487,Pritam,Kalank (Title Track),Kalank (Original Motion Picture Soundtrack),0.57,-8.343,0.035,0.524,3.73e-05,0.0921,0.435,117.999
+488,Pritam,Bhool Bhulaiyaa 2 Title Track,Bhool Bhulaiyaa 2,0.857,-2.87,0.0422,0.0663,0.0,0.0335,0.845,108.022
+489,Shreya Ghoshal,Saibo,Shor in the City (Original Motion Picture Soundtrack),0.619,-7.867,0.028,0.738,1.35e-05,0.136,0.545,90.058
+490,Shreya Ghoshal,Pal,Pal,0.51,-7.016,0.0325,0.71,0.0,0.0708,0.321,133.885
+491,Shreya Ghoshal,Rasiya,Brahmastra (Original Motion Picture Soundtrack),0.54,-7.538,0.0521,0.371,0.00165,0.11,0.636,78.99
+492,Shreya Ghoshal,Param Sundari,Mimi (Original Motion Picture Soundtrack),0.815,-7.162,0.144,0.192,0.0,0.0272,0.82,121.999
+493,Shreya Ghoshal,Hasi - Female Version,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),0.52,-6.438,0.0269,0.927,0.000466,0.159,0.407,143.901
+494,Shreya Ghoshal,Munbe Vaa,Silunu Oru Kadhal,0.609,-9.422,0.0336,0.245,2.84e-05,0.207,0.802,141.126
+495,Shreya Ghoshal,Tujh Mein Rab Dikhta Hai - Ii,Rab Ne Bana Di Jodi (Original),0.334,-12.359,0.0377,0.863,1.62e-06,0.195,0.158,147.076
+496,Shreya Ghoshal,Main Agar Kahoon,Soulful Sonu Nigam Specials,0.533,-7.521,0.0276,0.234,3.17e-06,0.46,0.371,146.868
+497,Shreya Ghoshal,Piya O Re Piya,Tere Naal Love Ho Gaya (Original Motion Picture Soundtrack),0.442,-6.394,0.0828,0.273,0.0,0.094,0.308,167.857
+498,Shreya Ghoshal,Samjhawan,Samjhawan,0.651,-8.666,0.0281,0.293,0.0,0.0811,0.517,106.993
+499,Pink Floyd,"Another Brick in the Wall, Pt. 2",The Wall,0.693,-15.882,0.0428,0.0782,0.000694,0.247,0.721,104.114
+500,Pink Floyd,Wish You Were Here,Wish You Were Here,0.481,-15.73,0.0414,0.735,0.0114,0.832,0.375,122.861
+501,Pink Floyd,The Great Gig in the Sky,The Dark Side of the Moon,0.274,-13.814,0.0345,0.767,0.896,0.0832,0.181,116.334
+502,Pink Floyd,Comfortably Numb,The Wall,0.472,-12.595,0.0286,0.15,0.312,0.0837,0.171,127.163
+503,Pink Floyd,Money,The Dark Side of the Moon,0.468,-10.422,0.144,0.024,0.00199,0.269,0.785,126.256
+504,Pink Floyd,Breathe (In the Air),The Dark Side of the Moon,0.431,-15.142,0.0346,0.389,0.728,0.143,0.253,128.153
+505,Pink Floyd,Time,The Dark Side of the Moon,0.359,-11.79,0.0841,0.521,0.0043,0.178,0.355,120.285
+506,Pink Floyd,Hey You,The Wall,0.587,-14.976,0.0293,0.223,0.00216,0.128,0.19,112.46
+507,Pink Floyd,Brain Damage,The Dark Side of the Moon,0.324,-13.398,0.0302,0.0732,0.341,0.366,0.208,133.568
+508,Pink Floyd,Us and Them,The Dark Side of the Moon,0.357,-14.526,0.0303,0.862,0.559,0.634,0.135,72.518
+509,System Of A Down,Chop Suey!,Toxicity,0.417,-3.908,0.119,0.000278,0.0015,0.132,0.287,127.066
+510,System Of A Down,Toxicity,Toxicity,0.413,-4.151,0.0536,0.000264,0.00249,0.204,0.48,116.68
+511,System Of A Down,Lonely Day,Hypnotize,0.47,-3.277,0.0336,0.362,1.1e-06,0.133,0.215,113.108
+512,System Of A Down,Aerials,Toxicity,0.364,-4.217,0.0567,0.000915,0.0346,0.0697,0.227,79.342
+513,System Of A Down,B.Y.O.B.,Mezmerize,0.538,-2.688,0.14,0.00662,0.0,0.219,0.711,101.414
+514,System Of A Down,Sugar,System Of A Down,0.451,-2.693,0.261,0.00167,0.00215,0.258,0.586,131.073
+515,System Of A Down,Violent Pornography,Mezmerize,0.459,-2.333,0.0877,0.0283,0.0,0.108,0.586,142.707
+516,System Of A Down,Hypnotize,Hypnotize,0.274,-4.096,0.0489,0.0303,0.000412,0.115,0.0397,154.016
+517,System Of A Down,Spiders,System Of A Down,0.46,-5.132,0.0381,0.0324,0.0168,0.326,0.0506,137.855
+518,System Of A Down,Prison Song,Toxicity,0.493,-3.252,0.135,0.0202,8.31e-05,0.182,0.354,99.647
+519,Green Day,Basket Case,Dookie,0.442,-3.205,0.0602,0.00293,8.71e-06,0.091,0.781,85.064
+520,Green Day,American Idiot,American Idiot,0.38,-2.042,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113
+521,Green Day,Good Riddance (Time of Your Life),Nimrod,0.475,-7.844,0.0302,0.183,0.0,0.161,0.648,94.605
+522,Green Day,Wake Me up When September Ends,American Idiot,0.546,-5.146,0.0314,0.023,0.0,0.0972,0.146,104.98
+523,Green Day,Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,0.496,-4.095,0.0294,0.00552,2.94e-05,0.0589,0.474,167.06
+524,Green Day,When I Come Around,Dookie,0.531,-4.236,0.034,0.0175,0.0,0.231,0.814,97.546
+525,Green Day,21 Guns,21st Century Breakdown,0.268,-4.939,0.0355,0.0518,0.0,0.626,0.416,159.779
+526,Green Day,Holiday,Greatest Hits: God's Favorite Band,0.552,-3.409,0.0342,0.000143,0.0,0.888,0.716,146.525
+527,Green Day,Holiday / Boulevard of Broken Dreams,American Idiot,0.29,-3.451,0.0362,0.000659,2.55e-06,0.301,0.45,167.086
+528,Green Day,Brain Stew,Insomniac,0.559,-5.429,0.302,0.00133,2e-05,0.0577,0.337,75.958
+529,Ludovico Einaudi,Experience,In A Time Lapse,0.447,-10.634,0.0376,0.934,0.961,0.0697,0.036,92.468
+530,Ludovico Einaudi,Nuvole Bianche,Una Mattina,0.191,-25.398,0.0578,0.961,0.89,0.0941,0.0454,132.614
+531,Ludovico Einaudi,Una Mattina,Una Mattina,0.231,-31.544,0.0579,0.991,0.878,0.0742,0.07,131.413
+532,Ludovico Einaudi,The Tree,Moments of Peace,0.316,-38.901,0.0482,0.994,0.957,0.0933,0.415,90.804
+533,Ludovico Einaudi,Wind Song,Underwater,0.339,-32.309,0.0378,0.986,0.923,0.103,0.0616,72.7
+534,Ludovico Einaudi,Luminous,Underwater,0.307,-34.977,0.0519,0.992,0.931,0.098,0.281,67.775
+535,Ludovico Einaudi,Temple White,Underwater,0.303,-28.556,0.054,0.991,0.953,0.109,0.212,72.204
+536,Ludovico Einaudi,Natural Light,Underwater,0.218,-39.627,0.0515,0.992,0.951,0.139,0.192,68.61
+537,Ludovico Einaudi,Primavera,Divenire (Deluxe Edition),0.231,-13.593,0.0332,0.965,0.856,0.17,0.136,141.628
+538,Ludovico Einaudi,Rolling Like A Ball,Underwater,0.208,-29.933,0.0422,0.987,0.919,0.1,0.0391,175.159
+539,Muse,Supermassive Black Hole,Black Holes and Revelations,0.668,-3.727,0.0439,0.0492,0.00517,0.0877,0.782,120.0
+540,Muse,Uprising,The Resistance,0.602,-4.046,0.0775,0.000202,0.064,0.117,0.411,128.019
+541,Muse,Starlight,Black Holes and Revelations,0.55,-4.046,0.0321,0.000436,1.02e-05,0.206,0.318,121.61
+542,Muse,Hysteria,Absolution,0.412,-4.852,0.0575,0.000456,0.0026,0.11,0.455,93.162
+543,Muse,Knights of Cydonia,Black Holes and Revelations,0.366,-5.301,0.142,0.000273,0.0122,0.115,0.211,137.114
+544,Muse,Time is Running Out,Absolution,0.585,-5.883,0.0556,0.00242,0.00686,0.0866,0.428,118.211
+545,Muse,Madness,The 2nd Law,0.502,-7.665,0.0718,0.127,0.00419,0.106,0.218,180.301
+546,Muse,Psycho,Drones,0.555,-3.426,0.0341,0.00114,0.041,0.868,0.507,125.02
+547,Muse,Plug in Baby,Origin of Symmetry,0.408,-4.232,0.05,6.94e-06,0.000402,0.11,0.349,136.018
+548,Muse,Undisclosed Desires,The Resistance,0.683,-6.76,0.0323,0.00819,0.0162,0.0797,0.641,115.997
+549,Aerosmith,Dream On,Aerosmith,0.392,-7.583,0.0249,0.397,0.000163,0.309,0.234,78.031
+550,Aerosmith,Crazy,Get A Grip,0.37,-3.879,0.0384,0.0868,0.0,0.137,0.427,162.086
+551,Aerosmith,"I Don't Want To Miss A Thing - From ""Armageddon"" Soundtrack",I Don't Want To Miss A Thing EP,0.39,-5.163,0.0345,0.172,0.0,0.216,0.144,121.161
+552,Aerosmith,Cryin',Get A Grip,0.445,-3.674,0.0327,0.000202,0.0101,0.367,0.486,105.872
+553,Aerosmith,Walk This Way,Toys In The Attic,0.653,-10.613,0.0429,0.0115,1.02e-05,0.0776,0.894,108.709
+554,Aerosmith,Dude (Looks Like A Lady),Permanent Vacation,0.54,-2.962,0.0458,0.435,3.37e-05,0.0457,0.91,126.294
+555,Aerosmith,Sweet Emotion,Toys In The Attic,0.379,-10.961,0.0378,0.00298,0.0296,0.104,0.491,99.436
+556,Aerosmith,Amazing,Get A Grip,0.308,-5.434,0.037,0.0645,8.27e-05,0.431,0.278,139.454
+557,Aerosmith,Rag Doll,Permanent Vacation,0.579,-3.947,0.0558,0.583,0.0,0.139,0.583,93.448
+558,Aerosmith,Janie's Got A Gun,Big Ones,0.633,-5.792,0.0287,0.0516,0.000496,0.188,0.444,115.107
+559,Slipknot,Duality,Vol. 3: The Subliminal Verses,0.354,-3.026,0.168,0.000237,0.000294,0.204,0.194,143.772
+560,Slipknot,Before I Forget,Vol. 3: The Subliminal Verses,0.291,-2.997,0.171,0.0177,5.44e-06,0.886,0.348,134.724
+561,Slipknot,Psychosocial,All Hope Is Gone (10th Anniversary),0.568,-3.889,0.0887,0.00269,0.00275,0.0243,0.307,135.146
+562,Slipknot,Custer,.5: The Gray Chapter (Special Edition),0.407,-1.58,0.107,0.00174,0.000112,0.119,0.537,131.066
+563,Slipknot,Wait and Bleed,Slipknot,0.382,-4.119,0.104,0.00208,0.0,0.417,0.327,93.345
+564,Slipknot,Unsainted,We Are Not Your Kind,0.427,-2.188,0.0469,0.000118,0.0253,0.0604,0.237,101.305
+565,Slipknot,The Devil in I,.5: The Gray Chapter (Special Edition),0.398,-2.865,0.0648,0.00591,0.000881,0.357,0.235,92.027
+566,Slipknot,Snuff,All Hope Is Gone (10th Anniversary),0.544,-5.723,0.0425,0.012,0.0095,0.0615,0.219,123.962
+567,Slipknot,The Dying Song (Time To Sing),"The End, So Far",0.516,-2.587,0.126,0.000467,4.66e-05,0.327,0.402,95.017
+568,Slipknot,"Vermilion, Pt. 2",Vol. 3: The Subliminal Verses,0.589,-8.517,0.0291,0.334,0.000424,0.0987,0.0904,122.688
+569,Oasis,Wonderwall - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0.375,-4.097,0.0406,0.000509,0.0,0.187,0.434,174.323
+570,Oasis,Don't Look Back In Anger - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0.328,-3.254,0.0628,0.0665,2.61e-06,0.165,0.31,162.97
+571,Oasis,Stop Crying Your Heart Out,Heathen Chemistry,0.331,-5.506,0.031,0.0689,1.96e-06,0.124,0.0985,150.19
+572,Oasis,Champagne Supernova - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0.293,-3.786,0.039,0.458,0.0509,0.355,0.138,150.249
+573,Oasis,Live Forever - Remastered,Definitely Maybe (Deluxe Edition Remastered),0.286,-3.366,0.0381,2.31e-05,1.31e-05,0.353,0.19,90.96
+574,Oasis,Supersonic - Remastered,Definitely Maybe (Deluxe Edition Remastered),0.359,-2.865,0.0391,6.31e-05,0.0121,0.0954,0.589,104.058
+575,Oasis,She's Electric - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0.484,-3.506,0.0481,0.146,1.13e-06,0.24,0.486,125.414
+576,Oasis,Half The World Away - Remastered,Definitely Maybe (Deluxe Edition Remastered),0.433,-8.666,0.0328,0.305,0.0,0.0863,0.23,115.213
+577,Oasis,Stand By Me - Remastered,Be Here Now (Deluxe Remastered Edition),0.194,-2.605,0.041,0.0864,0.00284,0.182,0.35,169.974
+578,Oasis,Songbird,Heathen Chemistry,0.491,-6.396,0.0279,0.274,2.16e-06,0.23,0.543,134.881
+579,The Rolling Stones,"Paint It, Black",Aftermath,0.464,-9.267,0.0926,0.0493,0.00244,0.399,0.612,158.691
+580,The Rolling Stones,Start Me Up - Remastered 2009,Tattoo You (2009 Re-Mastered),0.631,-4.142,0.0354,0.0436,0.137,0.0918,0.971,122.429
+581,The Rolling Stones,(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,0.723,-7.89,0.0338,0.0383,0.0317,0.128,0.931,136.302
+582,The Rolling Stones,Gimme Shelter,Let It Bleed,0.634,-8.277,0.031,0.447,0.039,0.17,0.489,118.628
+583,The Rolling Stones,Sympathy For The Devil - 50th Anniversary Edition,Beggars Banquet (50th Anniversary Edition),0.702,-9.237,0.214,0.518,0.0,0.0588,0.561,116.063
+584,The Rolling Stones,Beast Of Burden - Remastered 1994,Some Girls,0.783,-3.864,0.0308,0.39,0.000778,0.0426,0.885,100.626
+585,The Rolling Stones,Angie,Goats Head Soup (Remastered 2009),0.429,-6.128,0.0291,0.67,0.000152,0.105,0.407,136.302
+586,The Rolling Stones,Wild Horses - 2009 Mix,Sticky Fingers (Remastered),0.432,-6.517,0.0255,0.687,0.0107,0.0788,0.158,139.506
+587,The Rolling Stones,Miss You - Remastered,Some Girls,0.795,-4.746,0.0392,0.443,0.0215,0.344,0.845,109.689
+588,The Rolling Stones,You Can't Always Get What You Want,Let It Bleed,0.32,-9.686,0.0594,0.64,6.36e-05,0.253,0.472,86.327
+589,Hans Zimmer,Cornfield Chase,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],0.18,-16.457,0.042,0.951,0.982,0.0998,0.048,94.079
+590,Hans Zimmer,Time,Inception (Music from the Motion Picture),0.286,-16.806,0.0323,0.178,0.696,0.0861,0.0395,62.881
+591,Hans Zimmer,Main Titles (You’ve Been Called Back to Top Gun),Top Gun: Maverick (Music From The Motion Picture),0.493,-12.478,0.0289,0.0404,0.834,0.107,0.157,107.425
+592,Hans Zimmer,Day One (Interstellar Theme),Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],0.311,-27.788,0.0348,0.927,0.964,0.0727,0.0658,95.985
+593,Hans Zimmer,S.T.A.Y.,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],0.0793,-30.777,0.0425,0.933,0.929,0.0741,0.0256,191.413
+594,Hans Zimmer,Top Gun Anthem,Top Gun: Maverick (Music From The Motion Picture),0.448,-13.124,0.0322,0.00145,0.838,0.0661,0.0364,107.351
+595,Hans Zimmer,Mountains,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],0.304,-16.949,0.0351,0.59,0.928,0.0982,0.0371,119.975
+596,Hans Zimmer,"This Land - From ""The Lion King""/Score",The Lion King,0.145,-19.155,0.0396,0.516,0.633,0.0784,0.132,100.089
+597,Hans Zimmer,Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack,The Da Vinci Code,0.169,-15.954,0.0356,0.528,0.964,0.107,0.0397,110.877
+598,Hans Zimmer,First Step,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],0.163,-19.007,0.0329,0.433,0.95,0.102,0.0345,71.028
+599,Deftones,Change (In the House of Flies),White Pony,0.269,-4.647,0.0854,0.000249,0.000246,0.118,0.179,141.581
+600,Deftones,My Own Summer (Shove It),Around the Fur,0.443,-4.277,0.0377,1.33e-05,0.205,0.166,0.372,71.841
+601,Deftones,Be Quiet and Drive (Far Away),Around the Fur,0.206,-5.116,0.079,9.91e-06,0.827,0.367,0.168,92.615
+602,Deftones,Sextape,Diamond Eyes,0.367,-6.475,0.027,0.000824,0.0759,0.116,0.0964,89.981
+603,Deftones,Cherry Waves,Saturday Night Wrist,0.47,-3.663,0.0537,0.000362,0.00691,0.142,0.17,124.01
+604,Deftones,Rosemary,Koi No Yokan,0.285,-6.412,0.0421,0.0185,0.1,0.114,0.0772,126.628
+605,Deftones,Mascara,Around the Fur,0.472,-7.416,0.0354,0.00273,0.0606,0.091,0.0456,77.562
+606,Deftones,7 Words,Adrenaline,0.431,-6.13,0.0945,0.0001,0.0001,0.123,0.53,125.459
+607,Deftones,Digital Bath,White Pony,0.338,-4.938,0.0824,0.00122,0.211,0.0936,0.504,92.966
+608,Deftones,Around the Fur,Around the Fur,0.449,-4.241,0.112,1.94e-05,0.0411,0.0797,0.229,79.952
+609,blink-182,All The Small Things,Enema Of The State,0.434,-4.918,0.0488,0.0103,0.0,0.612,0.684,148.726
+610,blink-182,What's My Age Again?,Enema Of The State,0.391,-7.419,0.0692,0.0126,0.000378,0.0878,0.468,157.66
+611,blink-182,I Miss You,blink-182,0.664,-6.547,0.0339,0.00103,5.33e-06,0.0867,0.593,110.0
+612,blink-182,First Date,Take Off Your Pants And Jacket,0.579,-4.344,0.0411,0.000715,0.0,0.18,0.882,95.594
+613,blink-182,EDGING,EDGING,0.606,-3.117,0.0518,0.0044,0.0,0.151,0.706,143.952
+614,blink-182,Adam's Song,Enema Of The State,0.52,-5.803,0.0348,0.034,0.0,0.364,0.382,136.028
+615,blink-182,The Rock Show,Take Off Your Pants And Jacket,0.41,-4.563,0.0869,0.000324,0.0,0.0766,0.83,193.155
+616,blink-182,Feeling This,blink-182,0.411,-5.952,0.0917,0.103,0.0,0.529,0.622,173.143
+617,blink-182,Dammit,Dude Ranch,0.426,-5.122,0.0954,0.0017,0.0,0.171,0.341,111.221
+618,blink-182,Stay Together For The Kids,Take Off Your Pants And Jacket,0.519,-4.939,0.0356,0.00165,2.14e-05,0.156,0.166,145.125
+619,Bob Marley & The Wailers,Could You Be Loved,Uprising,0.916,-8.548,0.1,0.36,0.00016,0.0958,0.76,103.312
+620,Bob Marley & The Wailers,Three Little Birds,Exodus,0.826,-10.477,0.0676,0.00916,4.41e-06,0.0415,0.627,74.126
+621,Bob Marley & The Wailers,Is This Love,Kaya,0.776,-8.375,0.103,0.11,0.0,0.0671,0.758,122.242
+622,Bob Marley & The Wailers,Jamming,Exodus,0.935,-10.981,0.306,0.107,5.25e-05,0.118,0.773,123.644
+623,Bob Marley & The Wailers,Buffalo Soldier,Confrontation,0.929,-8.651,0.308,0.142,5.26e-06,0.0634,0.757,124.084
+624,Bob Marley & The Wailers,One Love / People Get Ready - Medley,Exodus,0.67,-9.598,0.366,0.0673,0.0,0.0674,0.939,154.186
+625,Bob Marley & The Wailers,Redemption Song,Uprising,0.671,-10.743,0.0387,0.608,0.0,0.0737,0.694,115.871
+626,Bob Marley & The Wailers,Waiting In Vain,Exodus,0.772,-11.489,0.327,0.0279,2.21e-05,0.0633,0.8,78.786
+627,Bob Marley & The Wailers,Natural Mystic,Exodus,0.876,-12.618,0.319,0.0503,4.76e-05,0.0741,0.801,130.958
+628,Bob Marley & The Wailers,"No Woman, No Cry - Live At The Lyceum, London/1975",Live!,0.655,-9.352,0.0599,0.272,0.0236,0.727,0.587,77.589
+629,David Bowie,Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.486,-10.298,0.0267,0.166,2.23e-06,0.54,0.549,100.456
+630,David Bowie,Heroes - 2017 Remaster,"""Heroes"" (2017 Remaster)",0.489,-6.491,0.0297,0.000678,0.49,0.092,0.435,112.113
+631,David Bowie,Rebel Rebel - 2016 Remaster,Diamond Dogs (2016 Remaster),0.635,-15.648,0.053,0.209,0.0176,0.282,0.464,125.988
+632,David Bowie,Space Oddity - 2015 Remaster,David Bowie (aka Space Oddity) [2015 Remaster],0.31,-13.664,0.0326,0.0726,9.27e-05,0.139,0.466,134.48
+633,David Bowie,Life on Mars? - 2015 Remaster,Hunky Dory (2015 Remaster),0.445,-14.642,0.0417,0.635,7.74e-05,0.0539,0.216,123.295
+634,David Bowie,Let's Dance - 2018 Remaster,Let's Dance (2018 Remaster),0.654,-7.44,0.0605,0.0125,0.0272,0.153,0.632,114.846
+635,David Bowie,Modern Love - 2018 Remaster,Let's Dance (2018 Remaster),0.358,-5.577,0.0483,0.00375,9.2e-06,0.117,0.944,182.836
+636,David Bowie,Changes - 2015 Remaster,Hunky Dory (2015 Remaster),0.559,-11.75,0.0376,0.505,0.0,0.109,0.414,113.633
+637,David Bowie,Moonage Daydream - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.56,-11.209,0.0348,0.0408,0.000162,0.0585,0.756,144.478
+638,David Bowie,Ziggy Stardust - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.515,-11.616,0.0784,0.0478,0.0,0.219,0.509,80.146
+639,Bon Jovi,Livin' On A Prayer,Slippery When Wet,0.532,-3.757,0.0335,0.0778,0.000214,0.294,0.795,122.511
+640,Bon Jovi,You Give Love A Bad Name,Slippery When Wet,0.541,-2.947,0.0505,0.0663,2.25e-06,0.344,0.812,122.803
+641,Bon Jovi,It's My Life,Crush,0.551,-4.063,0.0466,0.0263,1.35e-05,0.347,0.544,119.992
+642,Bon Jovi,Always,Cross Road,0.383,-5.558,0.0312,0.117,0.0,0.0778,0.327,140.795
+643,Bon Jovi,Wanted Dead Or Alive,Slippery When Wet,0.252,-3.976,0.0391,0.13,0.0146,0.309,0.253,150.056
+644,Bon Jovi,Bed Of Roses,Keep The Faith,0.309,-5.599,0.0293,0.101,0.0,0.21,0.161,164.587
+645,Bon Jovi,Runaway,Bon Jovi,0.475,-4.321,0.0637,0.00375,1.91e-05,0.14,0.603,152.445
+646,Bon Jovi,I'll Be There For You,New Jersey (Deluxe Edition),0.437,-5.432,0.0293,0.0532,0.0,0.103,0.233,73.029
+647,Bon Jovi,Bad Medicine,New Jersey (Deluxe Edition),0.555,-3.804,0.035,0.048,0.0,0.0853,0.805,118.642
+648,Bon Jovi,Thank You For Loving Me,Crush,0.385,-7.749,0.0285,0.416,0.0,0.119,0.131,132.864
+649,Dr. Dre,Still D.R.E.,2001,0.816,-3.323,0.234,0.16,0.00031,0.0543,0.527,93.431
+650,Dr. Dre,The Next Episode,2001,0.922,-2.429,0.27,0.0281,0.0,0.0856,0.309,95.295
+651,Dr. Dre,Forgot About Dre,2001,0.924,-1.299,0.0774,0.0827,0.0,0.163,0.621,133.974
+652,Dr. Dre,What's The Difference,2001,0.772,-0.14,0.25,0.223,0.0,0.148,0.77,91.921
+653,Dr. Dre,I Need A Doctor,I Need A Doctor,0.594,-4.521,0.452,0.0869,0.0,0.306,0.397,155.826
+654,Dr. Dre,Keep Their Heads Ringin',Friday (Original Motion Picture Soundtrack),0.672,-4.238,0.0956,0.0379,0.00141,0.159,0.238,90.575
+655,Dr. Dre,Xxplosive,2001,0.765,-4.361,0.116,0.176,1e-05,0.139,0.929,168.96
+656,Dr. Dre,Gospel (with Eminem),Gospel (with Eminem),0.919,-4.441,0.232,0.103,1.2e-05,0.166,0.655,117.03
+657,Dr. Dre,The Watcher,2001,0.939,-3.488,0.207,0.172,0.0,0.264,0.517,97.582
+658,Dr. Dre,Kush - Main,Kush,0.444,-6.217,0.111,0.000622,4.72e-05,0.105,0.375,94.968
+659,Creedence Clearwater Revival,Have You Ever Seen The Rain,Pendulum (Expanded Edition),0.741,-7.028,0.0277,0.0664,2.28e-05,0.133,0.774,116.109
+660,Creedence Clearwater Revival,Fortunate Son,Willy And The Poor Boys (Expanded Edition),0.64,-7.516,0.0374,0.201,0.00806,0.152,0.663,132.77
+661,Creedence Clearwater Revival,Bad Moon Rising,Green River (Expanded Edition),0.508,-5.973,0.0321,0.0586,4.87e-06,0.063,0.942,178.946
+662,Creedence Clearwater Revival,Proud Mary,Bayou Country (Expanded Edition),0.699,-7.564,0.0289,0.13,0.000218,0.0601,0.728,120.745
+663,Creedence Clearwater Revival,Down On The Corner,Willy And The Poor Boys (Expanded Edition),0.858,-9.289,0.0751,0.583,0.00109,0.0707,0.874,108.217
+664,Creedence Clearwater Revival,Green River,Green River (Expanded Edition),0.702,-9.677,0.0277,0.0312,0.00837,0.0809,0.973,141.694
+665,Creedence Clearwater Revival,Up Around The Bend,Cosmo's Factory,0.606,-5.736,0.037,0.00532,0.823,0.245,0.773,130.12
+666,Creedence Clearwater Revival,Who'll Stop The Rain,Cosmo's Factory,0.627,-5.415,0.0311,0.00804,0.000583,0.0555,0.628,123.113
+667,Creedence Clearwater Revival,Lookin' Out My Back Door,Cosmo's Factory,0.773,-5.149,0.0388,0.159,0.00236,0.0805,0.912,105.322
+668,Creedence Clearwater Revival,Born On The Bayou,Bayou Country (Expanded Edition),0.656,-7.734,0.0389,0.0553,0.0667,0.0974,0.576,117.296
+669,U2,With Or Without You - Remastered,The Joshua Tree (Super Deluxe),0.54,-11.822,0.0285,0.000202,0.355,0.141,0.113,110.171
+670,U2,I Still Haven't Found What I'm Looking For,The Joshua Tree (Super Deluxe),0.564,-9.424,0.0368,0.0135,0.00191,0.0861,0.657,100.894
+671,U2,One,Achtung Baby (Deluxe Edition),0.392,-8.793,0.0369,0.245,0.00104,0.155,0.325,181.305
+672,U2,Beautiful Day,All That You Can't Leave Behind,0.539,-6.495,0.0499,0.014,0.00136,0.36,0.454,136.279
+673,U2,Sunday Bloody Sunday - Remastered 2008,War (Remastered),0.543,-7.495,0.0543,0.402,0.000564,0.0373,0.735,101.174
+674,U2,Where The Streets Have No Name - Remastered,The Joshua Tree (Super Deluxe),0.49,-9.581,0.0366,0.00976,0.0046,0.159,0.292,125.812
+675,U2,Pride (In The Name Of Love) - Remastered 2009,The Unforgettable Fire (Remastered),0.458,-7.201,0.0316,0.00135,0.000296,0.778,0.713,105.701
+676,U2,Sweetest Thing,The Joshua Tree (Super Deluxe),0.524,-8.967,0.0497,0.0437,2.78e-05,0.159,0.482,141.65
+677,U2,Vertigo,How To Dismantle An Atomic Bomb,0.416,-3.974,0.0613,0.000138,0.00108,0.147,0.632,140.083
+678,U2,Pride (In The Name Of Love) - Songs Of Surrender,Pride (In The Name Of Love) [Songs Of Surrender],0.551,-8.398,0.0248,0.223,0.038,0.176,0.242,106.004
+679,Nate Dogg,Party We Will Throw Now!,Party We Will Throw Now! - Single,0.934,-4.609,0.24,0.0476,1.31e-06,0.0608,0.712,96.792
+680,Nate Dogg,Music & Me,Music and Me,0.905,-8.112,0.0615,0.105,0.000366,0.0914,0.758,99.133
+681,Nate Dogg,I Got Love,Music and Me,0.912,-5.943,0.164,0.437,0.306,0.09,0.677,90.013
+682,Nate Dogg,Shake That (Remix),Eminem Presents The Re-Up,0.945,-3.749,0.158,0.0872,3.32e-06,0.147,0.617,107.036
+683,Nate Dogg,So Fly - J. Period Remix,A Tribute to the King of G-Funk (Deluxe Version),0.604,-6.837,0.398,0.177,0.0,0.405,0.829,82.261
+684,Nate Dogg,Ain't No Fun (feat. Snoop Dogg & Warren G) - J. Period Remix,A Tribute to the King of G-Funk (Deluxe Version),0.858,-7.058,0.114,0.12,1.78e-06,0.4,0.779,100.238
+685,Nate Dogg,Nobody Does It Better,The Prodigal Son (Digitally Remastered),0.736,-9.775,0.053,0.416,0.0,0.138,0.116,92.048
+686,Nate Dogg,Your Wife (feat. Dr. Dre),Music and Me,0.859,-5.789,0.117,0.0127,0.00373,0.056,0.395,97.08
+687,Nate Dogg,I Got Love (feat. Nate Dogg),I Got Love (feat. Nate Dogg),0.849,-1.862,0.153,0.286,0.000862,0.0604,0.545,122.984
+688,Nate Dogg,Keep It G.A.N.G.S.T.A. (feat. Lil' Mo & Xzibit),Music and Me,0.818,-6.398,0.209,0.0939,0.0,0.0967,0.677,90.096
+689,Juanes,Besos En Guerra,Balas Perdidas,0.69,-3.588,0.0492,0.126,0.0,0.101,0.772,143.957
+690,Juanes,Es Por Ti,Un Día Normal,0.696,-6.076,0.0264,0.17,3.33e-05,0.189,0.859,129.943
+691,Juanes,506,SI AYER FUERA HOY,0.543,-4.889,0.0494,0.00811,0.0,0.338,0.637,142.995
+692,Juanes,"Y, ¿Si Fuera Ella? - + Es +",+ Es + (El Concierto / En Directo En El Estadio Vicente Calderón / 2017),0.348,-5.76,0.0313,0.34,0.0,0.209,0.199,150.586
+693,Juanes,La Camisa Negra,Mi Sangre,0.751,-4.419,0.0308,0.0838,0.0,0.0556,0.973,97.007
+694,Juanes,A Dios Le Pido,Un Día Normal,0.673,-3.564,0.0557,0.0683,0.0,0.0965,0.94,97.027
+695,Juanes,Nada Valgo Sin Tu Amor,Mi Sangre,0.601,-4.581,0.0272,0.155,0.0,0.283,0.387,76.979
+696,Juanes,Fotografía,Un Día Normal,0.486,-4.417,0.0519,0.292,0.0,0.195,0.637,84.092
+697,Juanes,Volverte A Ver,Mi Sangre,0.616,-4.932,0.0302,0.0555,0.0,0.208,0.714,85.003
+698,Juanes,Para Tu Amor,Mi Sangre,0.602,-7.578,0.024,0.425,0.0,0.125,0.531,95.006
+699,Maná,Oye Mi Amor,¿Dónde Jugarán Los Niños?,0.543,-6.658,0.039,0.0102,0.00585,0.0862,0.962,162.241
+700,Maná,Rayando El Sol,Falta Amor,0.643,-3.275,0.028,0.45,1.22e-06,0.154,0.499,112.677
+701,Maná,Clavado En Un Bar,Sueños Líquidos,0.634,-3.444,0.0369,0.00737,2.49e-06,0.0664,0.564,148.003
+702,Maná,En El Muelle De San Blas,Sueños Líquidos,0.64,-5.735,0.0235,0.113,5.62e-06,0.0978,0.698,97.159
+703,Maná,Mi Verdad (feat. Shakira),Cama Incendiada,0.857,-7.288,0.0292,0.435,0.0,0.0831,0.76,99.989
+704,Maná,Te Lloré Un Río,Te Lloré Un Río,0.84,-7.003,0.0324,0.278,0.000146,0.173,0.807,118.005
+705,Maná,Mariposa Traicionera,Mariposa Traicionera,0.622,-6.913,0.0352,0.524,4.82e-05,0.0872,0.815,206.037
+706,Maná,Eres Mi Religión,Eres Mi Religión,0.626,-8.234,0.0326,0.455,2.41e-06,0.0971,0.408,92.055
+707,Maná,Bendita Tu Luz,Amar Es Combatir,0.791,-4.973,0.0289,0.143,3.7e-06,0.107,0.635,115.992
+708,Maná,Vivir Sin Aire,¿Dónde Jugarán Los Niños?,0.67,-8.036,0.0261,0.105,0.000103,0.224,0.384,132.31
+709,Bee Gees,Stayin Alive,How Can You Mend A Broken Heart,0.702,-9.256,0.0343,0.0288,0.00871,0.147,0.953,103.564
+710,Bee Gees,Stayin' Alive,Staying Alive (Original Motion Picture Soundtrack),0.707,-19.793,0.0436,0.113,0.00615,0.0884,0.641,103.644
+711,Bee Gees,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,0.601,-6.24,0.0379,0.175,8.4e-05,0.571,0.673,106.164
+712,Bee Gees,"How Deep Is Your Love - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,0.594,-5.586,0.0255,0.076,9.86e-05,0.184,0.537,104.996
+713,Bee Gees,"Night Fever - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,0.726,-7.057,0.0251,0.0178,0.00178,0.104,0.841,109.133
+714,Bee Gees,To Love Somebody,Bee Gees' 1st,0.423,-12.503,0.0315,0.729,4.11e-06,0.27,0.521,90.43
+715,Bee Gees,More Than A Woman - SG's Paradise Edit,More Than A Woman (SG's Paradise Edit),0.679,-4.253,0.0316,0.00469,0.23,0.0446,0.511,105.407
+716,Bee Gees,"You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",Children Of The World,0.681,-10.911,0.0333,0.0182,0.17,0.337,0.963,123.009
+717,Bee Gees,Too Much Heaven,Spirits Having Flown,0.495,-13.212,0.0467,0.44,8.88e-05,0.725,0.353,165.922
+718,Bee Gees,I Started A Joke,Idea (Deluxe Edition),0.31,-8.755,0.0275,0.156,8.94e-06,0.132,0.431,144.775
+719,Billy Joel,Uptown Girl,An Innocent Man,0.701,-2.986,0.0455,0.0755,0.0,0.601,0.792,128.993
+720,Billy Joel,Vienna,The Stranger (Legacy Edition),0.532,-6.662,0.0343,0.659,0.0,0.0754,0.308,124.936
+721,Billy Joel,Piano Man,Piano Man (Legacy Edition),0.331,-6.483,0.0272,0.605,3.96e-06,0.192,0.429,177.734
+722,Billy Joel,We Didn't Start the Fire,Storm Front,0.712,-5.206,0.047,0.0771,0.0,0.356,0.895,145.024
+723,Billy Joel,She's Always a Woman,The Stranger (Legacy Edition),0.292,-11.996,0.0346,0.797,0.000473,0.12,0.384,176.631
+724,Billy Joel,Just the Way You Are,The Stranger (Legacy Edition),0.589,-8.912,0.0397,0.703,2.54e-05,0.134,0.513,139.148
+725,Billy Joel,My Life,52nd Street,0.741,-12.878,0.0427,0.108,0.00139,0.0555,0.804,131.097
+726,Billy Joel,It's Still Rock and Roll to Me,Glass Houses,0.752,-7.599,0.15,0.0994,0.0,0.0897,0.539,141.075
+727,Billy Joel,Only the Good Die Young,The Stranger (Legacy Edition),0.579,-6.126,0.159,0.159,0.0,0.0935,0.761,76.214
+728,Billy Joel,Movin' Out (Anthony's Song),The Stranger (Legacy Edition),0.664,-5.009,0.0326,0.465,1.63e-05,0.0591,0.895,133.898
+729,The Notorious B.I.G.,Hypnotize - 2014 Remaster,Life After Death (2014 Remastered Edition),0.901,-3.439,0.28,0.145,0.0,0.287,0.67,93.941
+730,The Notorious B.I.G.,Big Poppa - 2005 Remaster,Ready to Die (The Remaster),0.78,-7.247,0.273,0.43,0.0,0.143,0.773,84.492
+731,The Notorious B.I.G.,Juicy - 2005 Remaster,Ready to Die (The Remaster),0.889,-4.639,0.253,0.47,0.0,0.179,0.782,96.063
+732,The Notorious B.I.G.,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,Life After Death (2014 Remastered Edition),0.845,-4.506,0.0759,0.0128,2.1e-06,0.203,0.904,104.536
+733,The Notorious B.I.G.,Party And Bullshit,Whos The Man ? Soundtrack,0.672,-10.066,0.312,0.173,0.0,0.139,0.811,99.232
+734,The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",Duets: The Final Chapter,0.833,-7.041,0.141,0.0949,1.6e-06,0.282,0.645,106.328
+735,The Notorious B.I.G.,Suicidal Thoughts - 2005 Remaster,Ready to Die (The Remaster; 2015 Remaster),0.604,-10.171,0.425,0.466,9.09e-06,0.091,0.0956,78.61
+736,The Notorious B.I.G.,Notorious Thugs - 2014 Remaster,Life After Death (2014 Remastered Edition),0.704,-4.057,0.144,0.121,5.12e-06,0.24,0.742,154.914
+737,The Notorious B.I.G.,Who Shot Ya? - 2005 Remaster,Ready to Die (The Remaster),0.831,-5.697,0.238,0.256,0.0,0.494,0.6,91.771
+738,The Notorious B.I.G.,Gimme the Loot - 2005 Remaster,Ready to Die (The Remaster),0.721,-8.136,0.403,0.0888,0.0,0.178,0.68,94.191
+739,Enrique Iglesias,El Perdón (with Enrique Iglesias),Fénix,0.628,-5.83,0.0511,0.443,0.0,0.113,0.66,179.908
+740,Enrique Iglesias,Cuando Me Enamoro,Euphoria (Standard US/Latin version),0.821,-3.627,0.0272,0.0104,5.49e-05,0.145,0.893,126.03
+741,Enrique Iglesias,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),FINAL (Vol.1),0.689,-3.28,0.0572,0.0721,0.0,0.241,0.674,91.012
+742,Enrique Iglesias,Hero,Escape,0.581,-5.617,0.0392,0.143,1.05e-05,0.107,0.146,151.959
+743,Enrique Iglesias,DUELE EL CORAZON (feat. Wisin),FINAL (Vol.1),0.72,-3.258,0.0952,0.0904,0.0,0.137,0.877,91.022
+744,Enrique Iglesias,Bailando - Spanish Version,SEX AND LOVE (Deluxe),0.723,-3.503,0.108,0.0426,3.68e-06,0.0451,0.961,91.017
+745,Enrique Iglesias,Experiencia Religiosa,Enrique Iglesias,0.647,-8.041,0.0305,0.657,6.46e-05,0.0428,0.457,112.049
+746,Enrique Iglesias,El Perdedor,SEX AND LOVE (Deluxe),0.487,-5.91,0.0536,0.704,0.0,0.121,0.288,137.799
+747,Enrique Iglesias,Por Amarte,Enrique Iglesias,0.637,-8.621,0.0295,0.183,0.000285,0.114,0.222,127.933
+748,Enrique Iglesias,I Like It,Euphoria (Standard US/Latin version),0.646,-2.856,0.0838,0.0209,0.0,0.0691,0.704,129.011
+749,Timbaland,The Way I Are,Shock Value,0.731,-6.492,0.1,0.181,0.751,0.319,0.765,114.759
+750,Timbaland,Give It To Me,Shock Value,0.975,-3.904,0.0632,0.168,0.000552,0.0799,0.815,110.621
+751,Timbaland,Apologize,Shock Value,0.657,-6.006,0.0296,0.0361,0.0,0.102,0.0779,118.042
+752,Timbaland,If We Ever Meet Again (Featuring Katy Perry),Shock Value II,0.652,-7.371,0.0393,0.00481,0.0,0.0605,0.394,126.091
+753,Timbaland,Carry Out (Featuring Justin Timberlake),Shock Value II,0.531,-6.693,0.113,0.114,0.0308,0.256,0.272,115.68
+754,Timbaland,Say Something (Featuring Drake),Shock Value II,0.555,-4.549,0.0911,0.0845,0.0,0.712,0.725,79.934
+755,Timbaland,Bounce,Shock Value,0.57,-3.677,0.25,0.32,0.000332,0.199,0.229,65.964
+756,Timbaland,Morning After Dark (Featuring Nelly Furtado & SoShy),Shock Value II,0.734,-4.244,0.042,0.076,0.00134,0.0465,0.901,118.039
+757,Timbaland,Toc Toc (feat. Timbaland),Back To The Game,0.591,-7.065,0.189,0.123,0.000221,0.301,0.585,176.059
+758,Alejandro Sanz,Corazón partío,Más,0.648,-6.731,0.0424,0.199,4.23e-06,0.0803,0.815,160.075
+759,Alejandro Sanz,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+760,Alejandro Sanz,Amiga mía,Más,0.629,-4.875,0.0504,0.519,0.0,0.11,0.402,144.016
+761,Alejandro Sanz,Un Beso en Madrid,TINI TINI TINI,0.378,-6.794,0.0767,0.305,0.0,0.413,0.349,87.387
+762,Alejandro Sanz,Deja Que Te Bese,Deja Que Te Bese,0.707,-2.903,0.0582,0.134,0.0,0.111,0.546,104.888
+763,Alejandro Sanz,"Te lo agradezco, pero no (feat. Shakira)",El tren de los momentos,0.76,-5.967,0.102,0.56,0.0,0.0662,0.699,149.993
+764,Alejandro Sanz,Mi soledad y yo,Alejandro Sanz 3,0.281,-7.045,0.0333,0.163,1.05e-05,0.12,0.217,78.77
+765,Alejandro Sanz,Himno A La Alegría,Himno A La Alegría,0.304,-10.311,0.0351,0.56,0.0,0.116,0.243,119.675
+766,Alejandro Sanz,La fuerza del corazón,Alejandro Sanz 3,0.399,-7.176,0.0532,0.479,1.36e-06,0.0719,0.351,76.827
+767,Alejandro Sanz,Desde cuando,Paraiso Express,0.497,-4.209,0.0343,0.288,0.0,0.151,0.381,144.075
+768,Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),Whitney,0.709,-8.824,0.0453,0.207,0.000307,0.0888,0.867,118.818
+769,Whitney Houston,I Will Always Love You,The Bodyguard - Original Soundtrack Album,0.332,-12.518,0.0349,0.845,5.62e-06,0.0839,0.11,67.531
+770,Whitney Houston,I Have Nothing,The Bodyguard - Original Soundtrack Album,0.541,-10.499,0.0365,0.576,0.0,0.164,0.24,152.943
+771,Whitney Houston,Higher Love,Golden Hour,0.693,-7.159,0.0324,0.0151,5.71e-06,0.101,0.404,103.952
+772,Whitney Houston,How Will I Know,"I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",0.758,-5.465,0.0399,0.153,1.54e-06,0.242,0.663,119.001
+773,Whitney Houston,How Will I Know,Whitney Houston,0.832,-12.697,0.0442,0.201,0.000139,0.632,0.928,119.49
+774,Whitney Houston,Greatest Love of All,Whitney Houston,0.502,-16.011,0.0339,0.484,3.55e-06,0.117,0.248,131.242
+775,Whitney Houston,My Love Is Your Love,My Love Is Your Love,0.77,-9.512,0.159,0.0561,4.72e-06,0.0607,0.473,82.511
+776,Whitney Houston,Saving All My Love for You,Whitney Houston,0.636,-14.567,0.0263,0.593,4.22e-05,0.275,0.264,99.304
+777,Whitney Houston,When You Believe - from The Prince of Egypt,My Love Is Your Love,0.436,-9.62,0.0326,0.554,0.0,0.12,0.126,125.354
+778,Madonna,Hung Up,Confessions on a Dance Floor,0.649,-7.695,0.0452,0.0039,0.161,0.0686,0.405,125.02
+779,Madonna,Material Girl,Celebration (double disc version),0.742,-3.419,0.0329,0.333,7.51e-06,0.0964,0.978,136.506
+780,Madonna,Back That Up To The Beat - demo version,Back That Up To The Beat,0.912,-7.029,0.168,0.0584,0.0,0.0431,0.763,113.941
+781,Madonna,Frozen,Frozen,0.706,-9.584,0.0419,0.267,0.0192,0.175,0.375,110.005
+782,Madonna,La Isla Bonita,True Blue (Reissue),0.724,-4.374,0.0333,0.304,1.38e-05,0.0553,0.964,99.9
+783,Madonna,Like a Prayer,Celebration (double disc version),0.624,-5.285,0.0376,0.264,2.11e-05,0.181,0.257,111.037
+784,Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),Celebration (double disc version),0.753,-4.922,0.0652,0.00994,0.00696,0.234,0.767,113.029
+785,Madonna,Like a Virgin,Like a Virgin (Reissue),0.771,-10.842,0.0372,0.152,0.00197,0.0685,0.97,119.747
+786,Madonna,Back That Up To The Beat - sped up version,Back That Up To The Beat,0.946,-6.957,0.105,0.125,0.000673,0.0393,0.949,125.398
+787,Madonna,Papa Don't Preach,True Blue (Reissue),0.833,-3.243,0.0313,0.343,7.55e-06,0.0521,0.964,121.879
+788,Alicia Keys,If I Ain't Got You,The Diary Of Alicia Keys,0.609,-9.129,0.106,0.603,6.86e-06,0.104,0.166,118.402
+789,Alicia Keys,My Boo,Confessions (Expanded Edition),0.662,-8.238,0.118,0.257,0.0,0.0465,0.676,86.412
+790,Alicia Keys,No One,As I Am (Expanded Edition),0.644,-5.415,0.0285,0.0209,8.85e-06,0.134,0.167,90.04
+791,Alicia Keys,Girl on Fire,Girl on Fire (Remixes) - EP,0.482,-5.762,0.0607,0.135,0.00106,0.105,0.144,92.513
+792,Alicia Keys,Empire State of Mind (Part II) Broken Down,The Element Of Freedom,0.484,-7.784,0.0341,0.74,3.82e-05,0.118,0.142,92.923
+793,Alicia Keys,Fallin',Songs In A Minor,0.652,-7.519,0.037,0.263,0.00101,0.233,0.482,95.986
+794,Alicia Keys,City of Gods,B.I.B.L.E.,0.469,-5.983,0.387,0.105,0.0,0.32,0.495,147.847
+795,Alicia Keys,No One - Acoustic,Vault Volume 1,0.38,-5.862,0.0328,0.712,0.0,0.0997,0.429,89.898
+796,Alicia Keys,Un-thinkable (I'm Ready),The Element Of Freedom,0.596,-7.892,0.0619,0.732,1.97e-05,0.106,0.335,86.097
+797,Alicia Keys,Underdog,ALICIA,0.657,-4.74,0.0458,0.542,0.0,0.137,0.282,90.105
+798,John Mayer,You're Gonna Live Forever in Me,The Search for Everything,0.542,-14.104,0.0316,0.983,0.00544,0.156,0.319,136.161
+799,John Mayer,New Light,Sob Rock,0.826,-7.862,0.0315,0.316,0.0285,0.074,0.852,123.932
+800,John Mayer,Slow Dancing in a Burning Room,Continuum,0.667,-8.69,0.0273,0.575,0.00506,0.0805,0.29,134.018
+801,John Mayer,Your Body Is a Wonderland,Room For Squares,0.647,-6.251,0.0236,0.0206,0.0489,0.134,0.687,94.01
+802,John Mayer,Waiting On the World to Change,Continuum,0.578,-5.82,0.115,0.157,0.000232,0.249,0.663,176.739
+803,John Mayer,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,0.315,-13.262,0.0315,0.771,0.0,0.702,0.435,173.509
+804,John Mayer,Gravity,Continuum,0.753,-9.883,0.0342,0.731,0.00131,0.24,0.237,123.799
+805,John Mayer,I Guess I Just Feel Like,Sob Rock,0.548,-9.102,0.0268,0.515,0.0674,0.0922,0.166,159.952
+806,John Mayer,XO,XO,0.431,-9.753,0.0288,0.749,0.0,0.211,0.353,173.67
+807,John Mayer,Last Train Home,Sob Rock,0.591,-6.612,0.0355,0.235,0.00142,0.0571,0.678,93.007
+808,Christina Aguilera,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),0.673,-3.632,0.158,0.039,0.0,0.341,0.542,135.956
+809,Christina Aguilera,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+810,Christina Aguilera,Say Something,Is There Anybody Out There?,0.407,-8.822,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284
+811,Christina Aguilera,Genie In a Bottle,Christina Aguilera (Expanded Edition),0.633,-6.945,0.166,0.209,0.000123,0.137,0.913,175.716
+812,Christina Aguilera,Beautiful,Stripped,0.456,-3.866,0.0275,0.578,3.05e-06,0.114,0.0992,76.19
+813,Christina Aguilera,Dirrty (feat. Redman),Stripped,0.64,-3.073,0.322,0.107,0.0,0.339,0.436,99.931
+814,Christina Aguilera,This Christmas,My Kind Of Christmas,0.575,-5.466,0.0603,0.0687,0.0,0.0723,0.701,183.79
+815,Christina Aguilera,Fighter,Stripped,0.435,-1.357,0.201,0.235,0.000353,0.552,0.45,188.899
+816,Christina Aguilera,Candyman,Back To Basics,0.686,-4.713,0.23,0.0125,0.0147,0.142,0.72,172.976
+817,Christina Aguilera,Lady Marmalade - Single Edit,Lady Marmalade,0.754,-3.679,0.0561,0.0185,5.18e-06,0.654,0.639,109.902
+818,Marc Anthony,Vivir Mi Vida,3.0,0.656,-3.231,0.0342,0.345,0.0,0.349,0.894,105.018
+819,Marc Anthony,Flor Pálida,3.0,0.574,-3.976,0.0316,0.659,5.07e-06,0.0765,0.739,93.537
+820,Marc Anthony,De Vuelta Pa' La Vuelta,De Vuelta Pa' La Vuelta,0.665,-3.606,0.0553,0.434,0.0,0.0914,0.752,93.725
+821,Marc Anthony,Tu Amor Me Hace Bien - Salsa Version,Valio La Pena,0.691,-6.496,0.0359,0.398,4.58e-05,0.112,0.617,97.68
+822,Marc Anthony,Y Hubo Alguien,Contra La Corriente,0.474,-3.979,0.115,0.636,0.0,0.16,0.668,91.094
+823,Marc Anthony,Qué Precio Tiene el Cielo - Salsa Version,Sigo Siendo Yo,0.42,-4.692,0.0647,0.248,0.0,0.078,0.539,173.91
+824,Marc Anthony,Y Cómo Es El,Iconos,0.481,-5.646,0.0323,0.432,0.0,0.128,0.196,77.472
+825,Marc Anthony,Parecen Viernes,OPUS,0.658,-3.575,0.0352,0.287,1.53e-05,0.16,0.967,96.499
+826,Marc Anthony,Valió la Pena - Salsa Version,Valio La Pena,0.521,-5.772,0.0513,0.332,7.1e-06,0.0665,0.846,98.364
+827,Marc Anthony,Ahora Quien - Salsa Version,Valio La Pena,0.553,-4.837,0.0782,0.375,0.0,0.267,0.687,85.1
+828,Ricardo Arjona,Fuiste Tú (feat. Gaby Moreno),Independiente + Demos,0.591,-3.515,0.0375,0.622,0.0,0.112,0.267,139.939
+829,Ricardo Arjona,El Problema,Santo Pecado,0.626,-3.824,0.0259,0.507,0.000851,0.101,0.484,99.907
+830,Ricardo Arjona,La Mujer Que No Soñé,Solo,0.62,-7.443,0.027,0.558,6.68e-06,0.251,0.427,140.207
+831,Ricardo Arjona,Pingüinos en la Cama,Adentro,0.737,-6.736,0.0405,0.115,0.000102,0.0964,0.33,128.031
+832,Ricardo Arjona,Minutos,Santo Pecado,0.634,-3.546,0.0295,0.168,0.000203,0.0983,0.358,99.973
+833,Ricardo Arjona,Historia de Taxi,Quién Dijo Ayer,0.717,-7.35,0.0326,0.106,1.09e-06,0.277,0.682,147.107
+834,Ricardo Arjona,Cómo Duele,5to Piso,0.336,-4.667,0.0332,0.198,0.00211,0.353,0.314,139.442
+835,Ricardo Arjona,Desnuda,Sin Daños A Terceros,0.678,-6.179,0.0292,0.675,0.00023,0.152,0.3,135.559
+836,Ricardo Arjona,Mujeres,Quién Dijo Ayer,0.766,-6.48,0.0353,0.394,0.0107,0.0519,0.851,105.674
+837,Ricardo Arjona,Acompáñame a Estar Solo,Adentro,0.505,-5.548,0.0328,0.183,1.54e-06,0.189,0.237,172.882
+838,Stevie Wonder,"Signed, Sealed, Delivered (I'm Yours)","Signed, Sealed And Delivered",0.675,-11.329,0.0337,0.0534,0.0,0.0986,0.828,108.875
+839,Stevie Wonder,I Just Called To Say I Love You,At The Close Of A Century,0.748,-9.054,0.0239,0.243,1.57e-06,0.0943,0.65,113.535
+840,Stevie Wonder,Superstition - Single Version,The Definitive Collection,0.633,-12.115,0.0725,0.038,0.0064,0.0385,0.872,100.499
+841,Stevie Wonder,What Christmas Means To Me,Mono Singles,0.521,-6.961,0.0338,0.0981,0.0,0.1,0.802,83.529
+842,Stevie Wonder,For Once In My Life,For Once In My Life,0.524,-11.903,0.043,0.195,0.0,0.523,0.847,110.121
+843,Stevie Wonder,Sir Duke,Songs In The Key Of Life,0.588,-9.766,0.0672,0.16,0.0,0.0792,0.952,106.938
+844,Stevie Wonder,You Are The Sunshine Of My Life,Talking Book,0.519,-14.53,0.0688,0.823,5.97e-05,0.243,0.675,132.082
+845,Stevie Wonder,Part-Time Lover,In Square Circle,0.662,-13.606,0.0417,0.165,0.0,0.0674,0.961,174.513
+846,Stevie Wonder,Someday At Christmas,Mono Singles,0.33,-9.858,0.0296,0.603,0.0,0.481,0.228,98.567
+847,Stevie Wonder,Isn't She Lovely,The Definitive Collection,0.747,-8.956,0.0474,0.202,3.39e-05,0.0698,0.904,118.698
+848,Ludacris,My Chick Bad,Battle Of The Sexes (Deluxe),0.624,-6.782,0.378,0.172,0.0,0.483,0.757,84.789
+849,Ludacris,What's Your Fantasy (Featuring Shawna),Back For The First Time,0.915,-3.186,0.207,0.16,0.0,0.112,0.967,140.095
+850,Ludacris,Act A Fool,The Source Presents Hip Hop Hits Vol. 7,0.568,-3.301,0.332,0.152,0.0,0.209,0.778,109.939
+851,Ludacris,How Low,Battle Of The Sexes (Deluxe),0.785,-6.977,0.0533,0.00248,1.23e-06,0.224,0.418,143.96
+852,Ludacris,Rollout (My Business),Word Of Mouf,0.921,-8.73,0.235,0.0949,0.0,0.592,0.892,131.059
+853,Ludacris,Area Codes,Word Of Mouf,0.86,-7.203,0.434,0.399,0.0,0.67,0.622,100.934
+854,Ludacris,Money Maker,Release Therapy,0.551,-6.79,0.27,0.15,0.0,0.299,0.612,78.756
+855,Ludacris,Get Back,The Red Light District,0.555,-5.16,0.263,0.0594,0.0,0.118,0.184,171.609
+856,Ludacris,Blueberry Yum Yum,The Red Light District,0.962,-5.553,0.106,0.0368,0.022,0.156,0.311,126.707
+857,Ludacris,Stand Up,Chicken - N - Beer,0.751,-4.855,0.349,0.367,0.0,0.0916,0.801,99.057
+858,Plan B,Es un Secreto,House Of Pleasure,0.841,-4.915,0.0432,0.106,2.49e-06,0.0528,0.514,94.989
+859,Plan B,¿por Que Te Demoras?,House Of Pleasure,0.895,-5.923,0.0769,0.0386,0.0,0.0547,0.941,96.018
+860,Plan B,Guatauba,Guatauba XXX,0.804,-5.963,0.229,0.00849,0.000942,0.0378,0.635,183.985
+861,Plan B,Si No Le Contesto,House Of Pleasure,0.844,-4.61,0.0523,0.0945,0.0,0.16,0.532,94.977
+862,Plan B,Candy,Love And Sex,0.897,-3.735,0.147,0.252,0.0,0.517,0.542,95.981
+863,Plan B,Fanática Sensual,Love And Sex,0.793,-3.655,0.0477,0.0937,0.0,0.085,0.906,164.022
+864,Plan B,Suave (Remix),El Hombre,0.875,-3.558,0.076,0.14,0.00185,0.0616,0.524,119.999
+865,Plan B,Fanática Sensual - Remix,Fanática Sensual,0.788,-4.54,0.0539,0.162,0.0,0.244,0.871,82.014
+866,Plan B,Frikitona,Frikitona - Single,0.947,-3.813,0.176,0.316,0.0,0.372,0.835,120.063
+867,Plan B,Ella Fuma,Ella Fuma,0.8,-2.897,0.144,0.101,0.0,0.316,0.836,171.976
+868,Aventura,Volví,Volví,0.725,-3.726,0.182,0.422,0.000284,0.0674,0.791,175.896
+869,Aventura,Ella Y Yo - Featuring Don Omar,God's Project,0.732,-7.905,0.262,0.534,0.0,0.237,0.717,175.924
+870,Aventura,Obsesion,We Broke The Rules,0.804,-6.912,0.0397,0.416,0.0,0.0608,0.768,133.682
+871,Aventura,Dile al Amor,The Last,0.825,-9.71,0.0376,0.0764,0.0,0.314,0.944,124.005
+872,Aventura,El Perdedor,K.O.B. Live,0.779,-10.645,0.0345,0.332,0.0,0.12,0.894,128.044
+873,Aventura,Un Beso,God's Project,0.732,-9.859,0.0378,0.586,1.81e-05,0.104,0.715,125.015
+874,Aventura,El Malo,The Last,0.812,-10.729,0.0533,0.143,0.0,0.132,0.701,125.941
+875,Aventura,Los Infieles,K.O.B. Live,0.745,-8.221,0.0411,0.202,0.0,0.059,0.817,132.932
+876,Aventura,Enseñame a Olvidar,We Broke The Rules,0.781,-8.793,0.0444,0.471,0.0,0.0972,0.913,124.971
+877,Aventura,Mi Corazoncito,K.O.B. Live,0.814,-8.078,0.0463,0.0979,0.0,0.13,0.961,133.035
+878,Usher,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),0.894,-4.699,0.112,0.0183,0.0,0.0388,0.583,105.018
+879,Usher,DJ Got Us Fallin' In Love (feat. Pitbull),Raymond v Raymond (Expanded Edition),0.663,-3.398,0.109,0.0338,0.0,0.082,0.654,119.963
+880,Usher,My Boo,Confessions (Expanded Edition),0.662,-8.238,0.118,0.257,0.0,0.0465,0.676,86.412
+881,Usher,OMG (feat. will.i.am),Raymond v Raymond (Expanded Edition),0.781,-5.81,0.0332,0.198,1.14e-05,0.36,0.326,129.998
+882,Usher,Love in This Club (feat. Young Jeezy),Here I Stand,0.573,-5.976,0.0732,0.0572,0.0,0.167,0.346,140.012
+883,Usher,U Remind Me,8701,0.657,-4.938,0.0782,0.194,0.0,0.254,0.726,93.985
+884,Usher,U Got It Bad,8701,0.816,-4.551,0.03,0.0227,1.53e-06,0.0733,0.649,124.037
+885,Usher,Burn,Confessions (Expanded Edition),0.796,-7.161,0.108,0.314,0.0,0.12,0.685,119.928
+886,Usher,Come Thru (with Usher),Over It,0.679,-3.092,0.154,0.159,0.0,0.107,0.46,152.001
+887,Usher,Confessions Part II,Confessions (Expanded Edition),0.845,-7.674,0.138,0.0586,0.0,0.0694,0.702,138.007
+888,Vicente Fernández,Un Millón de Primaveras,Vicente Fernandez Para Siempre,0.73,-8.521,0.0578,0.654,0.000181,0.0926,0.822,100.558
+889,Vicente Fernández,Acá Entre Nos,Que De Raro Tiene,0.41,-6.662,0.0621,0.529,0.0,0.137,0.47,86.086
+890,Vicente Fernández,Estos Celos,Vicente Fernandez Para Siempre,0.746,-8.064,0.045,0.692,0.00782,0.139,0.385,104.976
+891,Vicente Fernández,Mujeres Divinas,El Cuatrero,0.607,-9.541,0.0601,0.565,9.17e-05,0.324,0.577,71.136
+892,Vicente Fernández,Hermoso Cariño,Vicente Fernández,0.342,-5.589,0.0289,0.612,4.93e-06,0.243,0.409,154.202
+893,Vicente Fernández,La Diferencia,Es La Diferencia,0.409,-10.276,0.0421,0.63,0.0,0.173,0.534,80.062
+894,Vicente Fernández,"Volver, Volver",Arriba Huentitan,0.355,-9.513,0.0455,0.39,0.00257,0.394,0.471,164.933
+895,Vicente Fernández,Qué de Raro Tiene,Que De Raro Tiene,0.6,-7.725,0.0586,0.426,0.0,0.379,0.542,67.164
+896,Vicente Fernández,No Me Sé Rajar,De Que Manera Te Olvido,0.808,-5.686,0.0457,0.214,0.000104,0.0869,0.896,117.643
+897,Vicente Fernández,De Qué Manera Te Olvido,De Que Manera Te Olvido,0.496,-5.563,0.0278,0.82,0.000119,0.0597,0.455,100.296
+898,Alejandro Fernández,Me Dediqué a Perderte,A Corazón Abierto,0.642,-9.115,0.074,0.491,1.58e-06,0.102,0.465,148.01
+899,Alejandro Fernández,Inexperto En Olvidarte,Inexperto En Olvidarte,0.549,-5.698,0.0321,0.233,0.0,0.0789,0.714,81.622
+900,Alejandro Fernández,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+901,Alejandro Fernández,Sé Que Te Duele,Rompiendo Fronteras,0.692,-4.77,0.0725,0.24,0.0,0.0967,0.777,94.984
+902,Alejandro Fernández,Me Hace Tanto Bien,Dos Mundos - Evolución,0.549,-5.881,0.0427,0.528,0.0,0.0782,0.573,157.502
+903,Alejandro Fernández,Mariposa Traicionera,Mariposa Traicionera,0.622,-6.913,0.0352,0.524,4.82e-05,0.0872,0.815,206.037
+904,Alejandro Fernández,Hoy Tengo Ganas De Ti,Confidencias,0.406,-6.373,0.0392,0.328,0.0,0.0717,0.245,123.54
+905,Alejandro Fernández,Canta Corazón,A Corazón Abierto,0.724,-7.738,0.0504,0.425,0.0,0.0746,0.832,104.06
+906,Alejandro Fernández,Caballero,Hecho En México,0.571,-6.89,0.0303,0.109,0.0,0.0705,0.518,100.738
+907,Alejandro Fernández,Como Quien Pierde una Estrella,Que Seas Muy Feliz,0.439,-11.088,0.0302,0.642,6.4e-05,0.115,0.568,163.113
+908,T-Pain,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),Epiphany (Expanded Edition),0.693,-8.141,0.119,0.0109,0.0,0.0677,0.605,80.028
+909,T-Pain,Bartender (feat. Akon),Epiphany (Expanded Edition),0.832,-8.504,0.0628,0.0564,0.0,0.224,0.436,104.961
+910,T-Pain,I'm Sprung,Rappa Ternt Sanga (Expanded Edition),0.728,-11.596,0.0999,0.0948,0.0,0.103,0.195,100.0
+911,T-Pain,Up Down (Do This All Day) (feat. B.o.B),Happy Hour: The Greatest Hits,0.778,-6.846,0.0562,0.256,0.0,0.295,0.464,96.995
+912,T-Pain,I'm N Luv (Wit a Stripper) (feat. Mike Jones),Rappa Ternt Sanga (Expanded Edition),0.739,-10.233,0.0845,0.00542,0.0,0.171,0.467,144.992
+913,T-Pain,Best Love Song,Revolver (Expanded Edition),0.622,-6.618,0.0542,0.0457,0.0,0.174,0.679,79.932
+914,T-Pain,Jerry Sprunger (with T-Pain),Chixtape 5,0.76,-5.331,0.227,0.137,0.0,0.0905,0.449,100.011
+915,T-Pain,Turn All the Lights On (feat. Ne-Yo),Revolver (Expanded Edition),0.699,-3.05,0.0595,0.0383,0.0,0.502,0.722,127.009
+916,T-Pain,Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy),Happy Hour: The Greatest Hits,0.786,-6.113,0.315,0.00931,1.14e-06,0.214,0.874,157.936
+917,T-Pain,I Like Dat,I Like Dat,0.565,-6.902,0.221,0.0049,0.0,0.137,0.337,175.694
+918,Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",Bach: Unaccompanied Cello Suites (Remastered),0.257,-21.356,0.0597,0.9,0.867,0.0762,0.307,75.02
+919,Johann Sebastian Bach,"Suite No. 3 in D Major, BWV 1068: II. Air",Born in the 1600s: Bach,0.0769,-25.997,0.045,0.922,0.929,0.113,0.0586,176.329
+920,Johann Sebastian Bach,"Goldberg Variations, BWV 988: Aria","Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",0.454,-29.966,0.0514,0.995,0.943,0.0736,0.244,130.253
+921,Johann Sebastian Bach,"The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude","J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",0.221,-25.367,0.0447,0.989,0.897,0.0769,0.216,133.564
+922,Johann Sebastian Bach,"Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",Bach and Beyond,0.36,-35.441,0.0444,0.994,0.897,0.0557,0.18,72.892
+923,Johann Sebastian Bach,"Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Prélude",Six Evolutions - Bach: Cello Suites,0.326,-22.496,0.072,0.988,0.916,0.108,0.417,137.274
+924,Johann Sebastian Bach,"Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",Friedman: Piano Transcriptions,0.359,-30.533,0.043,0.995,0.934,0.0828,0.159,73.144
+925,Johann Sebastian Bach,"Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie",Bach: Overtures (Suites) Nos. 1-4,0.515,-21.859,0.037,0.847,0.0897,0.0757,0.964,130.998
+926,Johann Sebastian Bach,"Violin Concerto No. 1 in A minor, BWV 1041: I. (Allegro moderato)",J.S. Bach: Violin Concertos Nos. 1 & 2; Partita No. 2,0.499,-11.509,0.0448,0.951,9.94e-05,0.118,0.616,90.664
+927,Johann Sebastian Bach,Sheep May Safely Graze,Two Hands,0.494,-32.307,0.0426,0.995,0.922,0.136,0.118,98.224
+928,Jhené Aiko,Sativa,Trip,0.741,-7.34,0.0511,0.316,0.0,0.534,0.72,125.99
+929,Jhené Aiko,Sunshine,Sunshine,0.746,-6.673,0.106,0.0267,0.0,0.052,0.393,97.989
+930,Jhené Aiko,Stay Ready (What A Life),Sail Out,0.347,-11.548,0.29,0.455,0.00366,0.127,0.308,82.887
+931,Jhené Aiko,While We're Young,Trip,0.649,-6.013,0.193,0.104,1.97e-06,0.108,0.811,128.023
+932,Jhené Aiko,The Worst,Sail Out,0.539,-9.156,0.0601,0.253,1.3e-06,0.143,0.123,94.895
+933,Jhené Aiko,B.S. (feat. H.E.R.),Chilombo,0.617,-10.426,0.12,0.554,1.1e-06,0.135,0.377,135.781
+934,Jhené Aiko,P*$$Y Fairy (OTW),P*$$Y Fairy (OTW),0.572,-7.092,0.212,0.536,0.0,0.102,0.35,128.331
+935,Jhené Aiko,Blue Dream,Souled Out (Deluxe),0.586,-11.94,0.0494,0.506,0.165,0.0821,0.369,133.901
+936,Jhené Aiko,Never Call Me,Trip,0.48,-10.238,0.225,0.874,1.28e-06,0.101,0.131,99.136
+937,Jhené Aiko,On The Way (feat. Mila J),Chilombo (Deluxe),0.575,-11.626,0.28,0.756,0.0,0.109,0.658,113.862
+938,Alka Yagnik,"Agar Tum Saath Ho (From ""Tamasha"")",Love Forever With Arijit Singh,0.562,-8.744,0.0326,0.557,0.000268,0.172,0.415,122.925
+939,Alka Yagnik,"Tip Tip (From ""Sooryavanshi"")","Tip Tip (From ""Sooryavanshi"")",0.709,-1.583,0.061,0.0431,0.00648,0.125,0.477,103.01
+940,Alka Yagnik,"Ek Din Aap (From ""Yes Boss"")","Bollywood Music - Kumar Sanu At His Best, Vol. 2",0.462,-13.184,0.0309,0.642,0.0,0.189,0.612,145.35
+941,Alka Yagnik,Ae Mere Humsafar,Qayamat Se Qayamat Tak,0.436,-12.909,0.0356,0.499,5.01e-05,0.308,0.551,103.104
+942,Alka Yagnik,Bole Chudiyan,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),0.59,-5.294,0.171,0.45,1.16e-05,0.164,0.737,96.915
+943,Alka Yagnik,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,0.547,-11.165,0.0374,0.602,0.000155,0.0735,0.848,91.386
+944,Alka Yagnik,Ladki Badi Anjani Hai,Kuch Kuch Hota Hai,0.637,-9.327,0.056,0.522,0.0001,0.0901,0.731,121.108
+945,Alka Yagnik,Hum Tum,Hum Tum,0.465,-8.124,0.0512,0.381,0.00041,0.0801,0.583,164.01
+946,Alka Yagnik,Koi Mil Gaya,Kuch Kuch Hota Hai,0.7,-9.292,0.0504,0.503,1.2e-05,0.057,0.815,136.028
+947,Alka Yagnik,"Mera Dil Bhi Kitna Pagal Hai (From ""Saajan"")","Bollywood Music - Kumar Sanu At His Best, Vol. 2",0.474,-10.146,0.0302,0.725,0.0,0.0852,0.759,100.93
+948,Udit Narayan,"Tip Tip (From ""Sooryavanshi"")","Tip Tip (From ""Sooryavanshi"")",0.709,-1.583,0.061,0.0431,0.00648,0.125,0.477,103.01
+949,Udit Narayan,Enkeyoo Partha,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),0.822,-8.899,0.0321,0.486,0.00102,0.147,0.654,119.994
+950,Udit Narayan,Main Yahaan Hoon,Veer - Zaara,0.484,-7.625,0.0565,0.69,0.0132,0.0939,0.741,171.973
+951,Udit Narayan,Falak Tak,Tashan,0.718,-6.474,0.135,0.634,1.53e-05,0.0563,0.62,143.907
+952,Udit Narayan,Ae Mere Humsafar,Qayamat Se Qayamat Tak,0.436,-12.909,0.0356,0.499,5.01e-05,0.308,0.551,103.104
+953,Udit Narayan,Bole Chudiyan,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),0.59,-5.294,0.171,0.45,1.16e-05,0.164,0.737,96.915
+954,Udit Narayan,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,0.547,-11.165,0.0374,0.602,0.000155,0.0735,0.848,91.386
+955,Udit Narayan,Pehla Nasha,Jo Jeeta Wohi Sikandar (Original Motion Picture Soundtrack),0.458,-14.309,0.0333,0.774,2.01e-05,0.0799,0.516,151.979
+956,Udit Narayan,Aankhein Khuli,Mohabbatein,0.792,-13.94,0.0863,0.349,5.92e-06,0.324,0.648,122.004
+957,Udit Narayan,Sona Kitna Sona Hai,Hero No. 1 (Original Motion Picture Soundtrack),0.756,-8.397,0.0776,0.0731,0.0101,0.347,0.849,98.993
+958,Vishal-Shekhar,"Besharam Rang (From ""Pathaan"")","Besharam Rang (From ""Pathaan"")",0.773,-5.537,0.0412,0.0587,0.00237,0.154,0.649,115.997
+959,Vishal-Shekhar,Jhoome Jo Pathaan,Pathaan,0.817,-7.639,0.0748,0.0964,0.0,0.331,0.616,104.964
+960,Vishal-Shekhar,Ishq Wala Love,Student of the Year (Original Motion Picture Soundtrack),0.711,-12.377,0.0334,0.534,4.51e-05,0.0782,0.694,135.041
+961,Vishal-Shekhar,Khuda Jaane,Bachna Ae Haseeno,0.382,-6.393,0.0411,0.391,0.000486,0.0922,0.716,78.936
+962,Vishal-Shekhar,"Ghungroo (From ""War"")",YRF Top 10 - Nightout Sounds,0.695,-6.274,0.0322,0.0738,0.000182,0.533,0.872,118.028
+963,Vishal-Shekhar,Nashe Si Chadh Gayi,Befikre,0.799,-5.207,0.0519,0.11,2.84e-06,0.227,0.26,96.953
+964,Vishal-Shekhar,Dil Diyan Gallan,Tiger Zinda Hai,0.716,-8.726,0.025,0.565,0.00139,0.127,0.485,105.012
+965,Vishal-Shekhar,Falak Tak,Tashan,0.718,-6.474,0.135,0.634,1.53e-05,0.0563,0.62,143.907
+966,Vishal-Shekhar,Firecracker,Jayeshbhai Jordaar,0.838,-5.609,0.171,0.242,0.0,0.0719,0.64,100.986
+967,Vishal-Shekhar,"O Saki Saki (From ""Batla House"")","O Saki Saki (From ""Batla House"")",0.737,-0.155,0.0747,0.163,0.0,0.361,0.567,108.014
+968,Bibi und Tina,Mädchen auf dem Pferd (feat. Fabian Buch),Bibi und Tina (Der Original-Soundtrack zum Kinofilm),0.775,-6.965,0.0356,0.0746,9.31e-05,0.174,0.961,80.53
+969,Bibi und Tina,"Mädchen gegen Jungs (feat. Lina Larissa Strahl, Lisa-Marie Koroll, Phil Laude, Louis H.)",Bibi und Tina: Mädchen gegen Jungs (Der Original-Soundtrack zum Kinofilm),0.801,-6.684,0.4,0.0671,0.0,0.0985,0.783,185.063
+970,Bibi und Tina,"Up, up, up (Nobody’s perfect) [feat. Lina Larissa Strahl]",Bibi und Tina (Der Original-Soundtrack zum Kinofilm),0.907,-6.192,0.0459,0.0111,9.19e-06,0.0579,0.692,125.953
+971,Bibi und Tina,"No Risk, no Fun (feat. Lina Larissa Strahl, Emilio Moutaoukkil)",Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm),0.815,-7.739,0.0388,0.00452,0.0,0.292,0.707,110.004
+972,Bibi und Tina,Happy End (feat. Lina Larissa Strahl),Bibi und Tina: Mädchen gegen Jungs (Der Original-Soundtrack zum Kinofilm),0.791,-9.341,0.0359,0.166,7.11e-06,0.115,0.35,101.524
+973,Bibi und Tina,Mädchen aus Paris (feat. Tilman Pörzgen),Bibi und Tina: Mädchen gegen Jungs (Der Original-Soundtrack zum Kinofilm),0.761,-8.177,0.028,0.205,6.4e-06,0.181,0.814,127.049
+974,Bibi und Tina,Bester Sommer (feat. Lina Larissa Strahl),Bibi und Tina: Mädchen gegen Jungs (Der Original-Soundtrack zum Kinofilm),0.841,-7.979,0.0325,0.0887,2.41e-06,0.103,0.408,114.978
+975,Bibi und Tina,98 Prozent (feat. Mavie Hörbiger),Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm),0.745,-8.385,0.0429,0.0182,0.0,0.168,0.77,132.841
+976,Bibi und Tina,Ich bleib hier (feat. Lina Larissa Strahl),Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm),0.703,-6.602,0.0293,0.00863,0.000764,0.189,0.621,112.97
+977,Bibi und Tina,Ich will mehr (Kakmann Song) [feat. Charly Hübner],Bibi und Tina (Der Original-Soundtrack zum Kinofilm),0.764,-6.324,0.033,0.123,0.0,0.0858,0.84,123.041
+978,Yuvan Shankar Raja,"Ennai Vittu (From ""Love Today"")","Ennai Vittu (From ""Love Today"")",0.602,-12.098,0.0536,0.334,3.7e-05,0.126,0.3,140.006
+979,Yuvan Shankar Raja,"Pacha Elai (From ""Love Today"")","Pacha Elai (From ""Love Today"")",0.664,-10.904,0.33,0.469,0.000228,0.313,0.413,139.632
+980,Yuvan Shankar Raja,"Kanja Poovu Kannala (From ""Viruman"")","Kanja Poovu Kannala (From ""Viruman"")",0.72,-6.354,0.0894,0.291,0.0,0.177,0.52,110.011
+981,Yuvan Shankar Raja,Enkeyoo Partha,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),0.822,-8.899,0.0321,0.486,0.00102,0.147,0.654,119.994
+982,Yuvan Shankar Raja,Kaadhal Endral,Goa (Original Motion Picture Soundtrack),0.638,-7.787,0.0321,0.923,3.35e-05,0.151,0.446,129.932
+983,Yuvan Shankar Raja,Venmegam,Yaaradi Nee Mohini (Original Motion Picture Soundtrack),0.803,-11.54,0.0742,0.418,2.23e-05,0.11,0.556,114.945
+984,Yuvan Shankar Raja,"Saachitale (From ""Love Today"")","Saachitale (From ""Love Today"")",0.841,-6.278,0.0468,0.114,0.00806,0.0465,0.668,105.006
+985,Yuvan Shankar Raja,Chiru Chiru,Awaara (Original Motion Picture Soundtrack),0.722,-7.554,0.0327,0.223,0.000507,0.103,0.645,92.007
+986,Yuvan Shankar Raja,High On Love,"High On Love (From ""Pyaar Prema Kaadhal"" Original Motion Picture Soundtrack)",0.627,-4.944,0.0392,0.214,9.34e-06,0.112,0.619,149.929
+987,Yuvan Shankar Raja,Mamakutty,Love Today (Original Motion Picture Soundtrack),0.8,-9.918,0.452,0.132,0.265,0.592,0.751,149.94
+988,Bibi Blocksberg,Kapitel 13: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.719,-18.359,0.922,0.557,0.0,0.531,0.421,117.24
+989,Bibi Blocksberg,Kapitel 12: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.701,-18.703,0.939,0.614,0.0,0.283,0.767,136.412
+990,Bibi Blocksberg,Kapitel 10: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.64,-17.636,0.947,0.772,0.0,0.464,0.413,121.666
+991,Bibi Blocksberg,Kapitel 15: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.686,-19.942,0.949,0.669,0.0,0.534,0.687,77.526
+992,Bibi Blocksberg,Kapitel 17: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.563,-19.468,0.944,0.586,0.0,0.0889,0.391,85.7
+993,Bibi Blocksberg,Kapitel 16: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.656,-19.688,0.947,0.63,0.0,0.608,0.646,94.016
+994,Bibi Blocksberg,Kapitel 11: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.694,-18.887,0.961,0.792,0.0,0.663,0.463,139.38
+995,Bibi Blocksberg,Kapitel 08: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.744,-19.842,0.933,0.535,0.0,0.527,0.566,92.621
+996,Bibi Blocksberg,Kapitel 09: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.649,-21.931,0.961,0.777,0.0,0.358,0.632,90.661
+997,Bibi Blocksberg,Kapitel 06: Der Hexenbesenausflug (Folge 146),Folge 146: Der Hexenbesenausflug,0.722,-19.565,0.95,0.743,0.0,0.587,0.547,115.687
+998,Pearl Jam,Even Flow,Ten,0.394,-6.506,0.0761,0.00178,4.54e-06,0.298,0.265,105.338
+999,Pearl Jam,Alive,Ten,0.284,-6.069,0.0422,0.00752,0.000461,0.402,0.595,75.009
+1000,Pearl Jam,Black,Ten,0.36,-6.457,0.0308,0.323,0.0,0.34,0.2,77.15
+1001,Pearl Jam,Jeremy,Ten,0.285,-6.472,0.0438,0.0404,0.0,0.182,0.287,108.808
+1002,Pearl Jam,Last Kiss,Last Kiss,0.622,-6.97,0.0276,0.363,0.000158,0.193,0.774,112.053
+1003,Pearl Jam,Just Breathe,Backspacer,0.473,-11.1,0.0288,0.721,7.42e-05,0.0823,0.283,107.819
+1004,Pearl Jam,Yellow Ledbetter,Jeremy,0.504,-11.3,0.0339,0.29,4.71e-06,0.157,0.292,140.87
+1005,Pearl Jam,Daughter - Remastered,Vs.,0.615,-9.686,0.0278,0.00746,0.00431,0.0608,0.734,96.987
+1006,Pearl Jam,Better Man,Vitalogy,0.445,-7.937,0.0387,0.165,1.56e-05,0.0791,0.267,125.712
+1007,Pearl Jam,Elderly Woman Behind the Counter in a Small Town - Remastered,Vs.,0.281,-9.461,0.0284,0.0519,9.15e-06,0.101,0.167,60.772
+1008,The Offspring,"You're Gonna Go Far, Kid","Rise And Fall, Rage And Grace",0.55,-3.159,0.0638,0.00428,0.0,0.197,0.601,126.115
+1009,The Offspring,The Kids Aren't Alright,Americana,0.523,-4.203,0.0337,0.00704,3.81e-05,0.0579,0.766,99.607
+1010,The Offspring,Self Esteem,Smash,0.488,-7.595,0.0476,0.0204,0.0,0.359,0.706,104.56
+1011,The Offspring,Pretty Fly (For A White Guy),Americana,0.723,-3.707,0.102,0.088,0.0,0.0717,0.963,143.373
+1012,The Offspring,Why Don't You Get A Job,Americana,0.766,-4.478,0.0719,0.0674,2.3e-06,0.281,0.544,107.932
+1013,The Offspring,Come Out and Play,Smash,0.519,-8.788,0.0809,0.0675,3.48e-06,0.0762,0.921,158.29
+1014,The Offspring,Want You Bad,Conspiracy Of One,0.491,-4.28,0.0538,5.59e-05,0.0,0.307,0.614,105.544
+1015,The Offspring,All I Want,Ixnay On The Hombre,0.205,-3.389,0.124,0.01,0.0,0.393,0.565,172.689
+1016,The Offspring,Gone Away - 1997,Ixnay On The Hombre,0.45,-3.995,0.0806,0.012,0.00687,0.0683,0.294,111.342
+1017,The Offspring,Staring At The Sun,Americana,0.403,-3.925,0.202,0.259,0.0,0.123,0.729,87.833
+1018,Johnny Cash,Hurt,American IV: The Man Comes Around,0.534,-7.636,0.0267,0.649,0.000227,0.0948,0.163,90.379
+1019,Johnny Cash,Ring of Fire,Ring Of Fire: The Best Of Johnny Cash,0.659,-8.189,0.0288,0.623,0.000213,0.348,0.784,104.111
+1020,Johnny Cash,Highwayman,Highwayman,0.67,-16.842,0.0463,0.48,0.0176,0.115,0.45,101.384
+1021,Johnny Cash,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",At Folsom Prison,0.621,-15.269,0.0803,0.0652,0.00199,0.893,0.889,110.586
+1022,Johnny Cash,Girl from the North Country,Nashville Skyline,0.607,-23.455,0.0382,0.843,0.000197,0.121,0.305,118.867
+1023,Johnny Cash,I Walk The Line - Single Version,Sings the Songs that Made Him Famous,0.862,-11.183,0.0421,0.798,0.00105,0.105,0.787,105.834
+1024,Johnny Cash,God's Gonna Cut You Down,American V: A Hundred Highways,0.617,-8.227,0.115,0.868,3.44e-05,0.115,0.845,82.228
+1025,Johnny Cash,The Man Comes Around,American IV: The Man Comes Around,0.635,-7.912,0.144,0.52,0.0951,0.962,0.753,97.067
+1026,Johnny Cash,Jackson,Carryin' On With Johnny Cash And June Carter,0.741,-8.072,0.0358,0.519,0.000344,0.408,0.799,128.496
+1027,Johnny Cash,(Ghost) Riders in the Sky,Silver,0.572,-9.382,0.0361,0.355,0.0379,0.223,0.56,109.511
+1028,Eagles,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),0.579,-9.484,0.027,0.00574,0.000494,0.0575,0.609,147.125
+1029,Eagles,Take It Easy - 2013 Remaster,Eagles (2013 Remaster),0.575,-10.39,0.0318,0.343,4.95e-06,0.129,0.74,139.191
+1030,Eagles,Please Come Home for Christmas - 2013 Remaster,Please Come Home for Christmas / Funky New Year (2013 Remaster),0.612,-11.568,0.0421,0.599,0.00266,0.0561,0.466,183.18
+1031,Eagles,Life in the Fast Lane - 2013 Remaster,Hotel California (2013 Remaster),0.667,-7.246,0.069,0.0966,6.94e-05,0.0523,0.883,109.535
+1032,Eagles,One of These Nights - 2013 Remaster,One of These Nights (2013 Remaster),0.655,-10.385,0.0285,0.0603,0.0789,0.0757,0.765,110.061
+1033,Eagles,Desperado - 2013 Remaster,Desperado (2013 Remaster),0.228,-12.749,0.0311,0.946,0.000222,0.273,0.18,60.3
+1034,Eagles,Peaceful Easy Feeling - 2013 Remaster,Eagles (2013 Remaster),0.568,-12.336,0.0282,0.494,0.00281,0.252,0.866,142.686
+1035,Eagles,Tequila Sunrise - 2013 Remaster,Desperado (2013 Remaster),0.632,-12.855,0.0265,0.536,0.0421,0.106,0.731,110.578
+1036,Eagles,Love Will Keep Us Alive,Hell Freezes Over (Remaster 2018),0.658,-11.684,0.026,0.721,1.28e-05,0.112,0.367,98.892
+1037,Eagles,New Kid in Town - 2013 Remaster,Hotel California (2013 Remaster),0.649,-9.811,0.0267,0.378,0.0013,0.108,0.651,107.383
+1038,Korn,Freak On a Leash,Follow The Leader,0.353,-5.877,0.052,2.23e-05,0.105,0.39,0.525,103.293
+1039,Korn,Coming Undone,See You On the Other Side,0.687,-4.172,0.0508,0.000643,0.000137,0.0564,0.545,75.052
+1040,Korn,Falling Away from Me,Issues,0.468,-7.036,0.041,0.00014,0.00124,0.271,0.17,104.102
+1041,Korn,Got the Life,Follow The Leader,0.501,-5.721,0.0518,1.88e-05,0.765,0.383,0.584,123.277
+1042,Korn,Twisted Transistor,See You On the Other Side,0.581,-3.291,0.0636,0.00043,0.00654,0.0806,0.417,110.038
+1043,Korn,Blind - Live at CBGB,Live & Rare,0.244,-4.804,0.152,0.000856,0.108,0.915,0.38,95.235
+1044,Korn,Here to Stay,Untouchables,0.564,-4.998,0.0448,7.81e-06,0.828,0.373,0.351,100.002
+1045,Korn,Word Up!,Word Up! (The Remixes),0.577,-4.439,0.0361,2.42e-05,0.0715,0.347,0.818,116.045
+1046,Korn,Y'all Want a Single,Take A Look In The Mirror,0.756,-3.685,0.0836,0.0107,0.0,0.538,0.715,118.034
+1047,Korn,A.D.I.D.A.S.,Life Is Peachy,0.334,-6.821,0.196,0.00406,0.0202,0.162,0.226,110.364
+1048,MGMT,Little Dark Age,Little Dark Age,0.705,-6.156,0.0385,0.0102,0.000855,0.1,0.62,97.512
+1049,MGMT,Kids,Oracular Spectacular,0.451,-3.871,0.0719,0.00076,0.0049,0.361,0.172,122.961
+1050,MGMT,Electric Feel,Oracular Spectacular,0.763,-3.713,0.0351,0.0709,0.285,0.348,0.561,103.04
+1051,MGMT,Time to Pretend,Oracular Spectacular,0.438,-3.249,0.0452,8.74e-05,0.0777,0.3,0.421,100.99
+1052,MGMT,When You Die,Little Dark Age,0.645,-4.557,0.0391,0.0946,0.0226,0.159,0.495,140.886
+1053,MGMT,Me and Michael,Little Dark Age,0.628,-4.583,0.0268,0.0285,0.00332,0.254,0.706,111.985
+1054,MGMT,Congratulations,Congratulations,0.761,-8.169,0.0268,0.439,0.0082,0.102,0.656,125.115
+1055,MGMT,Weekend Wars,Oracular Spectacular,0.549,-3.993,0.0361,0.0964,2.36e-05,0.322,0.69,77.013
+1056,MGMT,She Works Out Too Much,Little Dark Age,0.633,-6.208,0.0343,0.00596,0.273,0.43,0.805,147.97
+1057,MGMT,TSLAMP,Little Dark Age,0.602,-5.283,0.0994,0.22,0.000236,0.107,0.733,174.11
+1058,MF DOOM,Rapp Snitch Knishes feat. Mr. Fantastik,MM...FOOD,0.728,-6.827,0.267,0.327,0.0,0.504,0.825,95.051
+1059,MF DOOM,Doomsday,Operation: Doomsday (Complete),0.856,-7.736,0.334,0.0973,0.0,0.0773,0.792,95.416
+1060,MF DOOM,One Beer,MM...FOOD,0.376,-6.7,0.246,0.0996,0.00332,0.633,0.615,91.115
+1061,MF DOOM,Hoe Cakes,MM...FOOD,0.511,-6.371,0.321,0.0987,0.0,0.144,0.95,92.184
+1062,MF DOOM,All Caps,Madvillainy,0.358,-8.045,0.335,0.266,1.46e-05,0.172,0.666,85.61
+1063,MF DOOM,Meat Grinder,Madvillainy,0.571,-8.333,0.336,0.359,3.12e-06,0.797,0.881,87.54
+1064,MF DOOM,Rhymes Like Dimes,Operation: Doomsday (Complete),0.646,-5.652,0.268,0.664,0.0,0.17,0.761,99.948
+1065,MF DOOM,Fancy Clown,Madvillainy,0.537,-9.441,0.35,0.328,1.52e-05,0.368,0.693,90.292
+1066,MF DOOM,Accordion,Madvillainy,0.578,-6.518,0.309,0.0243,0.0,0.0665,0.716,96.332
+1067,MF DOOM,Raid,Madvillainy,0.419,-6.432,0.468,0.715,0.0,0.211,0.577,201.451
+1068,The Cure,Boys Don't Cry - Single Version,Three Imaginary Boys (Deluxe Edition),0.465,-5.767,0.0633,0.00486,0.0,0.109,0.689,168.743
+1069,The Cure,Friday I'm in Love,Wish,0.526,-12.437,0.0342,0.000972,0.000116,0.338,0.505,136.203
+1070,The Cure,Just like Heaven,"Kiss Me, Kiss Me, Kiss Me",0.43,-3.845,0.0524,0.0271,2.16e-05,0.185,0.764,151.219
+1071,The Cure,Close to Me - 2006 Remaster,The Head on the Door,0.725,-11.121,0.116,0.0748,0.764,0.0819,0.961,185.134
+1072,The Cure,In Between Days - 2006 Remaster,The Head on the Door (Deluxed Edition),0.541,-6.246,0.0316,0.109,0.701,0.167,0.711,142.592
+1073,The Cure,Lovesong - 2010 Remaster,Disintegration (Deluxe Edition),0.611,-7.689,0.0279,0.339,0.898,0.224,0.821,140.112
+1074,The Cure,A Forest - 2006 Remaster,Seventeen Seconds (Deluxe Edition),0.633,-11.271,0.0648,0.34,0.605,0.0977,0.421,81.117
+1075,The Cure,Lullaby - 2010 Remaster,Disintegration (Deluxe Edition),0.718,-10.679,0.0328,0.185,0.707,0.055,0.586,94.095
+1076,The Cure,The Lovecats,Japanese Whispers,0.748,-12.975,0.0752,0.459,1.21e-06,0.364,0.967,91.833
+1077,The Cure,Pictures of You - 2010 Remaster,Disintegration (Deluxe Edition),0.484,-6.48,0.0312,0.00371,0.109,0.131,0.495,171.935
+1078,Jack Johnson,Better Together,In Between Dreams,0.868,-9.529,0.0536,0.308,2e-05,0.11,0.659,110.059
+1079,Jack Johnson,Upside Down,Upside Down,0.792,-8.314,0.045,0.255,0.000223,0.132,0.694,102.477
+1080,Jack Johnson,Banana Pancakes,In Between Dreams,0.816,-8.053,0.0996,0.607,8.66e-06,0.0933,0.615,114.303
+1081,Jack Johnson,"Sitting, Waiting, Wishing",In Between Dreams,0.765,-7.229,0.0265,0.22,2.55e-05,0.104,0.548,105.019
+1082,Jack Johnson,Roll Me Up and Smoke Me When I Die - Live,Willie Nelson American Outlaw (Live),0.427,-9.02,0.0737,0.0713,0.109,0.873,0.344,106.859
+1083,Jack Johnson,I Got You,From Here To Now To You,0.899,-6.553,0.038,0.61,1.52e-05,0.0923,0.544,98.067
+1084,Jack Johnson,Angel,Sleep Through The Static,0.619,-19.197,0.0433,0.896,0.0967,0.114,0.357,176.279
+1085,Jack Johnson,Gone,On And On,0.816,-11.989,0.0471,0.832,0.00104,0.119,0.756,97.027
+1086,Jack Johnson,Flake,Brushfire Fairytales [Remastered (Bonus Version)],0.758,-10.98,0.04,0.662,0.0197,0.199,0.962,97.657
+1087,Jack Johnson,Sunsets For Somebody Else,All The Light Above It Too,0.696,-7.911,0.0331,0.828,1.34e-05,0.152,0.603,113.273
+1088,Outkast,Ms. Jackson,Stankonia,0.843,-5.946,0.269,0.143,0.0,0.0771,0.613,94.948
+1089,Outkast,Hey Ya!,Speakerboxxx/The Love Below,0.727,-2.261,0.0664,0.103,0.000532,0.174,0.965,79.526
+1090,Outkast,"So Fresh, So Clean",Stankonia,0.725,-7.905,0.332,0.0281,0.0,0.099,0.915,166.028
+1091,Outkast,Roses,Speakerboxxx/The Love Below,0.751,-5.653,0.0545,0.0482,1.85e-05,0.107,0.509,108.97
+1092,Outkast,ATLiens,ATLiens,0.918,-2.832,0.269,0.0296,8.01e-06,0.191,0.608,97.044
+1093,Outkast,The Way You Move (feat. Sleepy Brown),Speakerboxxx/The Love Below,0.871,-4.932,0.0464,0.126,0.000113,0.0638,0.635,125.999
+1094,Outkast,Rosa Parks,Aquemini,0.792,-7.198,0.283,0.105,0.0,0.761,0.251,103.89
+1095,Outkast,B.O.B. - Bombs Over Baghdad,Stankonia,0.746,-5.324,0.0978,0.0555,4.11e-05,0.026,0.653,153.809
+1096,Outkast,Da Art of Storytellin' (Pt. 1),Aquemini,0.749,-5.833,0.235,0.107,0.0,0.745,0.402,103.773
+1097,Outkast,Player's Ball,Southernplayalisticadillacmuzik,0.857,-6.304,0.246,0.0398,0.0,0.425,0.578,93.071
+1098,Ice Cube,It Was A Good Day,The Predator,0.798,-5.328,0.136,0.33,0.000106,0.292,0.794,82.356
+1099,Ice Cube,You Know How We Do It,Lethal Injection,0.747,-10.523,0.0357,0.0977,0.0537,0.142,0.601,92.869
+1100,Ice Cube,Check Yo Self - Remix,Bootlegs And B-Sides,0.934,-6.668,0.251,0.031,8.6e-06,0.107,0.768,101.368
+1101,Ice Cube,No Vaseline,Death Certificate,0.575,-5.511,0.395,0.0383,0.0,0.0623,0.473,105.567
+1102,Ice Cube,Why We Thugs,"Laugh Now, Cry Later",0.683,-5.423,0.458,0.326,0.0,0.148,0.653,100.892
+1103,Ice Cube,Ain't Got No Haters (feat. Too Short),Everythangs Corrupt,0.776,-2.134,0.0792,0.0543,0.000427,0.189,0.715,95.951
+1104,Ice Cube,Hello,War & Peace Vol. 2 (The Peace Disc),0.903,-6.176,0.339,0.155,0.0,0.389,0.627,91.46
+1105,Ice Cube,You Can Do It,War & Peace Vol. 2 (The Peace Disc),0.947,-4.489,0.164,0.000931,0.0,0.0502,0.887,99.887
+1106,Ice Cube,Gangsta Rap Made Me Do It,Raw Footage,0.81,-5.431,0.097,0.00712,2.1e-05,0.321,0.388,87.019
+1107,Phil Collins,You Can't Hurry Love - 2016 Remaster,"Hello, I Must Be Going! (Deluxe Edition)",0.62,-4.593,0.0308,0.0261,0.0,0.0679,0.763,97.527
+1108,Phil Collins,In The Air Tonight - 2015 Remastered,Face Value (Deluxe Editon),0.446,-13.945,0.0316,0.551,4.1e-06,0.0697,0.298,189.507
+1109,Phil Collins,Against All Odds (Take a Look at Me Now) - 2016 Remaster,The Singles (Expanded),0.58,-6.901,0.0277,0.198,0.0,0.132,0.111,116.271
+1110,Phil Collins,Another Day in Paradise - 2016 Remaster,...But Seriously (Deluxe Edition),0.78,-7.32,0.0306,0.736,0.00269,0.063,0.365,101.967
+1111,Phil Collins,"You'll Be In My Heart - From ""Tarzan""/Soundtrack Version",Disney Summer Songs,0.566,-6.549,0.0301,0.0643,5.16e-06,0.0925,0.614,96.586
+1112,Phil Collins,Easy Lover,Chinese Wall (Expanded Edition),0.74,-5.082,0.0369,0.105,0.000163,0.0825,0.93,128.871
+1113,Phil Collins,One More Night - 2016 Remaster,No Jacket Required (2016 Remaster),0.534,-9.442,0.0308,0.788,0.000351,0.0986,0.343,136.369
+1114,Phil Collins,A Groovy Kind of Love,Love Songs (A Compilation Old and New),0.452,-9.632,0.0274,0.235,1.91e-05,0.0989,0.182,144.125
+1115,Phil Collins,Sussudio - 2016 Remaster,No Jacket Required (2016 Remaster),0.714,-5.195,0.0849,0.0529,0.0934,0.0515,0.725,121.232
+1116,Phil Collins,Do You Remember? - 2016 Remaster,...But Seriously (2016 Remaster),0.677,-7.472,0.0252,0.114,0.0134,0.0659,0.525,93.042
+1117,John Williams,Carol of the Bells,Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition],0.418,-22.507,0.0448,0.994,0.0292,0.179,0.8,46.718
+1118,John Williams,Somewhere in My Memory - Chorus & Orchestra Version,Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition],0.351,-21.396,0.0335,0.99,0.341,0.0783,0.146,73.848
+1119,John Williams,Theme From Jurassic Park,Jurassic Park,0.144,-19.115,0.0333,0.946,0.779,0.115,0.0627,102.283
+1120,John Williams,Duel of the Fates,Star Wars: The Phantom Menace (Original Motion Picture Soundtrack),0.471,-15.755,0.041,0.733,0.853,0.28,0.282,79.986
+1121,John Williams,Theme From Schindler's List,Schindler's List,0.142,-25.362,0.0415,0.859,0.838,0.107,0.0697,98.575
+1122,John Williams,"Main Title ""Somewhere in My Memory"" (From ""Home Alone"") - Voice",Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition],0.164,-18.535,0.0355,0.969,0.317,0.0788,0.0784,74.352
+1123,John Williams,Hedwig's Theme,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,0.156,-17.101,0.036,0.897,0.691,0.111,0.077,73.407
+1124,John Williams,Prologue,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,0.177,-29.484,0.0367,0.957,0.446,0.635,0.0819,146.472
+1125,John Williams,The Imperial March (Darth Vader's Theme),Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack),0.577,-13.82,0.0368,0.753,0.955,0.126,0.284,103.112
+1126,John Williams,O Holy Night,Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition],0.207,-21.067,0.0385,0.754,0.943,0.128,0.0386,80.583
+1127,Soda Stereo,De Música Ligera,Originales - 20 Exitos,0.542,-8.045,0.028,0.00487,0.298,0.334,0.76,124.26
+1128,Soda Stereo,Cuando Pase el Temblor,Originales - 20 Exitos,0.643,-10.142,0.0386,0.123,0.000155,0.0542,0.758,94.092
+1129,Soda Stereo,Trátame Suavemente - Remasterizado 2007,Soda Stereo (Remastered),0.738,-3.366,0.0283,0.043,0.0543,0.595,0.532,122.858
+1130,Soda Stereo,Persiana Americana,Originales - 20 Exitos,0.582,-6.217,0.0418,0.149,0.0138,0.207,0.485,101.061
+1131,Soda Stereo,Nada Personal,Originales - 20 Exitos,0.752,-5.594,0.0515,0.589,0.0196,0.149,0.439,124.337
+1132,Soda Stereo,Te Para 3 - MTV Unplugged,Comfort Y Musica Para Volar,0.523,-9.913,0.0275,0.707,0.0111,0.709,0.117,115.7
+1133,Soda Stereo,Prófugos - Remasterizado 2007,Signos (Remastered),0.551,-4.267,0.0391,0.00268,0.0402,0.299,0.359,127.221
+1134,Soda Stereo,En La Ciudad De La Furia - Remasterizado 2007,Doble Vida (Remastered),0.611,-6.022,0.0278,0.0823,0.855,0.0942,0.715,126.506
+1135,Soda Stereo,Juegos de Seducción,Originales - 20 Exitos,0.597,-4.892,0.0375,0.577,0.000886,0.127,0.641,100.926
+1136,Soda Stereo,En la Ciudad de la Furia - MTV Unplugged,Comfort Y Musica Para Volar,0.361,-10.02,0.0597,0.415,0.057,0.845,0.266,170.604
+1137,Nas,"One Mic, One Gun","One Mic, One Gun",0.756,-2.692,0.207,0.0351,0.0,0.241,0.458,149.961
+1138,Nas,N.Y. State of Mind,Illmatic,0.665,-4.682,0.223,0.0394,0.0,0.227,0.887,84.099
+1139,Nas,If I Ruled the World (Imagine That) (feat. Lauryn Hill),It Was Written,0.879,-7.682,0.247,0.0474,9.43e-06,0.0519,0.523,93.908
+1140,Nas,The World Is Yours,Illmatic,0.678,-6.186,0.14,0.274,1.68e-06,0.124,0.54,87.374
+1141,Nas,Nas Is Like,I Am...,0.634,-5.058,0.352,0.00602,5.29e-06,0.0598,0.929,94.0
+1142,Nas,It Ain't Hard to Tell,Illmatic,0.69,-5.819,0.221,1.7e-05,0.0431,0.152,0.357,91.376
+1143,Nas,The Message,It Was Written,0.614,-7.178,0.374,0.00776,3.28e-05,0.383,0.485,178.422
+1144,Nas,Represent,Illmatic,0.708,-4.964,0.318,0.02,2.8e-06,0.189,0.618,92.428
+1145,Nas,Get Down,God's Son,0.835,-6.405,0.232,0.0424,0.0,0.258,0.507,94.387
+1146,Nas,I Can,God's Son,0.837,-3.914,0.182,0.103,0.0,0.0666,0.694,95.313
+1147,Luis Fonsi,Despacito,VIDA,0.655,-4.787,0.153,0.198,0.0,0.067,0.839,177.928
+1148,Luis Fonsi,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1149,Luis Fonsi,CORAZONES ROTOS,CORAZONES ROTOS,0.788,-5.517,0.0513,0.238,0.00042,0.0773,0.525,123.042
+1150,Luis Fonsi,Échame La Culpa,VIDA,0.733,-3.652,0.0389,0.0391,0.0,0.117,0.649,96.006
+1151,Luis Fonsi,Despacito - Remix,VIDA,0.649,-4.346,0.178,0.226,0.0,0.0711,0.857,177.899
+1152,Luis Fonsi,No Me Doy Por Vencido,Palabras Del Silencio (Edición Aniversario - Un Año Despues),0.31,-6.075,0.101,0.443,0.0,0.609,0.407,172.768
+1153,Luis Fonsi,Tanto,Aire (Versión Día),0.76,-4.529,0.059,0.42,4.89e-06,0.111,0.604,143.942
+1154,Luis Fonsi,Llegaste Tú,8,0.768,-6.758,0.0405,0.79,0.0,0.2,0.517,119.953
+1155,Luis Fonsi,Party Animal,Party Animal,0.724,-3.922,0.046,0.0248,0.0,0.251,0.84,100.999
+1156,Luis Fonsi,Imposible,VIDA,0.783,-4.078,0.0741,0.127,0.0,0.127,0.925,90.976
+1157,Backstreet Boys,I Want It That Way,Millennium,0.689,-5.83,0.027,0.257,0.0,0.148,0.482,99.039
+1158,Backstreet Boys,Everybody (Backstreet's Back) - Radio Edit,This Is The End: Original Motion Picture Soundtrack,0.735,-3.493,0.0402,0.025,3.27e-06,0.265,0.586,108.021
+1159,Backstreet Boys,As Long as You Love Me,Backstreet Boys,0.775,-5.534,0.0281,0.164,0.0,0.126,0.753,98.219
+1160,Backstreet Boys,Shape of My Heart,Black & Blue,0.575,-4.353,0.0296,0.252,0.0,0.159,0.518,96.102
+1161,Backstreet Boys,Show Me the Meaning of Being Lonely,Millennium,0.63,-5.088,0.0252,0.231,0.0,0.0765,0.683,167.998
+1162,Backstreet Boys,Larger Than Life,Millennium,0.661,-2.994,0.037,0.11,1.74e-05,0.617,0.75,108.037
+1163,Backstreet Boys,Quit Playing Games (With My Heart),Backstreet Boys,0.8,-4.952,0.0338,0.0615,2.79e-06,0.13,0.882,100.033
+1164,Backstreet Boys,Drowning,The Hits--Chapter One,0.568,-5.968,0.0396,0.0799,0.0,0.0985,0.481,141.942
+1165,Backstreet Boys,Incomplete,Never Gone,0.437,-4.834,0.0331,0.231,0.0,0.0768,0.165,133.631
+1166,Backstreet Boys,The Call,Black & Blue,0.696,-3.318,0.0772,0.117,0.0,0.331,0.747,104.196
+1167,Los Ángeles Azules,Nunca Es Suficiente,Esto Sí Es Cumbia,0.789,-5.417,0.0406,0.398,0.0,0.0891,0.78,94.001
+1168,Los Ángeles Azules,Otra Noche,Cumbia Del Corazón,0.607,-4.135,0.0397,0.378,0.0,0.0433,0.683,92.026
+1169,Los Ángeles Azules,Amor A Primera Vista,De Buenos Aires Para El Mundo,0.678,-6.017,0.0672,0.228,4.79e-05,0.147,0.96,170.164
+1170,Los Ángeles Azules,El Listón De Tu Pelo,Una Lluvia De Rosas,0.695,-8.195,0.0479,0.312,0.0,0.296,0.765,81.109
+1171,Los Ángeles Azules,17 Años,Una Lluvia De Rosas,0.738,-9.097,0.0526,0.467,0.0,0.086,0.774,90.941
+1172,Los Ángeles Azules,Cómo Te Voy A Olvidar,20 Kilates,0.647,-7.63,0.0617,0.263,4.4e-06,0.213,0.673,83.037
+1173,Los Ángeles Azules,Entrega De Amor,Entrega De Amor,0.654,-7.322,0.0433,0.218,5.08e-05,0.147,0.834,85.795
+1174,Los Ángeles Azules,Mis Sentimientos,Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!,0.749,-4.717,0.0314,0.223,0.000218,0.0716,0.836,92.991
+1175,Los Ángeles Azules,20 Rosas,Una Lluvia De Rosas,0.657,-8.117,0.0323,0.301,6.8e-06,0.0563,0.792,86.372
+1176,Los Ángeles Azules,"Ni Contigo, Ni Sin Ti",Esto Sí Es Cumbia,0.581,-5.347,0.0298,0.383,0.0,0.322,0.643,79.565
+1177,Zedd,The Middle,The Middle,0.753,-3.061,0.0449,0.171,0.0,0.112,0.437,107.01
+1178,Zedd,Clarity,Clarity,0.509,-3.48,0.072,0.0398,0.0,0.0749,0.176,128.0
+1179,Zedd,Stay,Stay,0.69,-5.025,0.0622,0.253,0.0,0.116,0.544,102.04
+1180,Zedd,Happy Now,Happy Now,0.503,-5.128,0.047,0.579,1.49e-06,0.0712,0.458,88.335
+1181,Zedd,Make You Say,Make You Say,0.687,-4.713,0.0499,0.351,0.0,0.175,0.649,128.15
+1182,Zedd,Beautiful Now,True Colors,0.628,-4.126,0.0282,0.0079,1.48e-05,0.074,0.56,128.003
+1183,Zedd,Good Thing (with Kehlani),Good Thing (with Kehlani),0.693,-3.857,0.0378,0.399,0.0,0.0409,0.574,185.913
+1184,Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,Clarity (Deluxe),0.596,-3.109,0.0411,0.109,0.0,0.0947,0.461,127.961
+1185,Zedd,I Want You To Know,True Colors,0.58,-2.876,0.0573,0.00537,6.62e-06,0.145,0.366,129.998
+1186,Zedd,Follow,Sentio,0.588,-6.102,0.0432,0.0333,0.193,0.0728,0.201,127.085
+1187,Nat King Cole,The Christmas Song (Merry Christmas To You),The Christmas Song (Expanded Edition),0.319,-15.231,0.0341,0.92,8.06e-05,0.138,0.209,78.696
+1188,Nat King Cole,Deck The Halls,The Christmas Song (Expanded Edition),0.684,-10.522,0.0491,0.742,1.58e-05,0.224,0.964,107.607
+1189,Nat King Cole,Joy To The World,The Christmas Song (Expanded Edition),0.553,-10.334,0.03,0.818,0.0,0.113,0.662,101.918
+1190,Nat King Cole,L-O-V-E,L-O-V-E,0.425,-7.543,0.0801,0.686,0.0,0.077,0.663,78.231
+1191,Nat King Cole,"Caroling, Caroling",The Christmas Song (Expanded Edition),0.308,-11.143,0.0302,0.763,0.0,0.0649,0.597,185.319
+1192,Nat King Cole,O Come All Ye Faithful,The Christmas Song (Expanded Edition),0.266,-11.745,0.0326,0.635,7.76e-06,0.268,0.196,112.046
+1193,Nat King Cole,Unforgettable,Unforgettable,0.349,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094
+1194,Nat King Cole,The Happiest Christmas Tree,The Christmas Song (Expanded Edition),0.499,-11.528,0.4,0.753,0.0,0.861,0.94,205.882
+1195,Nat King Cole,O Little Town Of Bethlehem,The Christmas Song (Expanded Edition),0.274,-15.755,0.0301,0.91,3.52e-06,0.0961,0.236,81.332
+1196,Nat King Cole,Smile,The Nat King Cole Story,0.226,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37
+1197,Armin van Buuren,Blah Blah Blah,Balance,0.612,-3.912,0.0531,0.00897,0.00378,0.294,0.179,138.009
+1198,Armin van Buuren,This Is What It Feels Like,Intense,0.551,-5.217,0.03,0.0391,2.77e-06,0.0632,0.145,129.885
+1199,Armin van Buuren,Easy To Love,Easy To Love,0.743,-5.29,0.0329,0.222,0.000132,0.255,0.713,120.032
+1200,Armin van Buuren,Great Spirit,Great Spirit,0.592,-7.975,0.0659,0.00608,0.0123,0.223,0.211,103.517
+1201,Armin van Buuren,Leave A Little Love,Leave A Little Love,0.671,-4.254,0.0375,0.00437,0.0,0.131,0.329,117.98
+1202,Armin van Buuren,No Fun,"Feel Again, Pt. 1",0.731,-4.774,0.0349,0.00861,0.000164,0.0916,0.328,121.03
+1203,Armin van Buuren,One More Time,"Feel Again, Pt. 2",0.579,-5.55,0.0512,0.0995,0.00174,0.273,0.289,126.162
+1204,Armin van Buuren,Love We Lost (with R3HAB),"Feel Again, Pt. 1",0.651,-6.162,0.0501,0.045,0.0,0.0628,0.311,119.995
+1205,Armin van Buuren,Repeat After Me,Repeat After Me,0.321,-4.86,0.0616,0.00342,0.81,0.0905,0.179,131.933
+1206,Armin van Buuren,Come Around Again,"Feel Again, Pt. 1",0.589,-3.878,0.0766,0.0366,0.0,0.0752,0.426,123.946
+1207,Juicy J,"Shell Shocked (feat. Kill the Noise & Madsonik) - From ""Teenage Mutant Ninja Turtles""","Shell Shocked (feat. Kill the Noise & Madsonik) [From ""Teenage Mutant Ninja Turtles""]",0.596,-5.668,0.0755,0.0111,0.0,0.174,0.459,165.015
+1208,Juicy J,Bandz A Make Her Dance (feat. Lil' Wayne & 2 Chainz),Stay Trippy,0.871,-5.442,0.277,0.00212,0.0,0.141,0.576,130.977
+1209,Juicy J,Be Careful (feat. Finesse2Tymes),Crypto Business,0.91,-4.939,0.323,0.0527,0.0,0.0675,0.823,126.045
+1210,Juicy J,Smoke A Nigga (feat. Wiz Khalifa),Stay Trippy,0.825,-6.417,0.221,0.0574,0.0,0.249,0.147,150.009
+1211,Juicy J,"Black and Yellow (feat. Juicy J, Snoop Dogg & T-Pain) - G-Mix [G-Mix]",Rolling Papers (Deluxe 10 Year Anniversary Edition),0.697,-4.623,0.0683,0.0313,0.0,0.292,0.769,164.116
+1212,Juicy J,RIP Young (feat. Project Pat & Juicy J) - Remix,The House Is Burning [homies begged],0.971,-6.261,0.0708,0.0497,0.0,0.0956,0.476,120.073
+1213,Juicy J,One of Those Nights (feat. The Weeknd),Stay Trippy (Deluxe),0.75,-6.934,0.0348,0.0315,1.95e-06,0.0959,0.0812,130.029
+1214,Juicy J,Bounce It (feat. Wale & Trey Songz),Stay Trippy,0.785,-9.383,0.0859,0.00811,0.0,0.111,0.477,140.032
+1215,Juicy J,Hitta (feat. Juicy J),Shockwave,0.732,-2.775,0.0708,0.017,6.99e-06,0.357,0.375,145.103
+1216,Juicy J,Freaky (feat. A$ap Rocky & $uicideboy$),Highly Intoxicated,0.933,-5.109,0.345,0.0745,0.0,0.248,0.653,141.052
+1217,Julieta Venegas,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),0.639,-6.33,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888
+1218,Julieta Venegas,Me Voy,Limon Y Sal,0.575,-3.845,0.0278,0.0664,0.0,0.0956,0.601,107.878
+1219,Julieta Venegas,Limón y Sal,Limon Y Sal,0.634,-6.056,0.0255,0.138,0.0,0.288,0.491,111.03
+1220,Julieta Venegas,Eres para Mí (with Anita Tijoux),Limon Y Sal,0.8,-5.841,0.0778,0.0701,6.22e-06,0.278,0.899,96.986
+1221,Julieta Venegas,Andar Conmigo,Si,0.77,-8.06,0.0285,0.3,0.0,0.116,0.912,116.994
+1222,Julieta Venegas,Lento,Si,0.762,-7.426,0.0442,0.202,3.05e-05,0.042,0.804,143.965
+1223,Julieta Venegas,Nada Fue Un Error - Live In Spain / 2005,Esta Mañana Y Otros Cuentos,0.61,-2.013,0.0912,0.0435,7.78e-05,0.931,0.572,138.539
+1224,Julieta Venegas,Algo Está Cambiando,Si,0.64,-7.997,0.0359,0.0635,8.48e-05,0.0925,0.365,87.008
+1225,Julieta Venegas,El Presente (Unplugged) (En Vivo),Julieta Venegas - MTV Unplugged,0.564,-6.203,0.0406,0.0879,0.0,0.853,0.552,142.902
+1226,Julieta Venegas,Mismo Amor,Tu Historia,0.883,-4.036,0.0316,0.0184,1.14e-05,0.0971,0.943,107.94
+1227,Bruce Springsteen,Dancing In the Dark,Born In The U.S.A.,0.527,-5.64,0.0366,0.0115,0.0,0.188,0.495,148.723
+1228,Bruce Springsteen,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975","Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",0.357,-8.444,0.0479,0.362,1.37e-06,0.727,0.407,139.986
+1229,Bruce Springsteen,I'm On Fire,Born In The U.S.A.,0.62,-14.451,0.0347,0.589,0.0299,0.0727,0.868,88.591
+1230,Bruce Springsteen,Born in the U.S.A.,Born In The U.S.A.,0.398,-6.042,0.061,0.000373,7.75e-05,0.1,0.584,122.093
+1231,Bruce Springsteen,Born to Run,Born To Run,0.27,-4.199,0.0975,0.00501,2.05e-05,0.116,0.606,146.347
+1232,Bruce Springsteen,Streets of Philadelphia - Single Edit,Greatest Hits,0.741,-13.251,0.0302,0.294,0.118,0.0924,0.443,93.699
+1233,Bruce Springsteen,Glory Days,Born In The U.S.A.,0.574,-4.906,0.032,0.0457,0.0,0.121,0.978,117.486
+1234,Bruce Springsteen,Hungry Heart,The River,0.641,-7.41,0.0273,0.0857,0.009,0.157,0.972,109.823
+1235,Bruce Springsteen,The River,The River,0.587,-11.248,0.0304,0.179,2.75e-05,0.305,0.59,117.498
+1236,Bruce Springsteen,Secret Garden,Greatest Hits,0.52,-14.224,0.0266,0.576,0.0418,0.12,0.118,86.857
+1237,Wham!,Last Christmas,LAST CHRISTMAS,0.735,-12.472,0.0293,0.189,2.48e-06,0.355,0.947,107.682
+1238,Wham!,Wake Me Up Before You Go-Go,Make It Big,0.62,-11.893,0.0423,0.271,0.0,0.0607,0.897,81.548
+1239,Wham!,Everything She Wants,Make It Big,0.899,-15.557,0.0366,0.322,0.00406,0.165,0.962,115.09
+1240,Wham!,Club Tropicana,Fantastic,0.658,-9.247,0.0519,0.0294,5.7e-05,0.651,0.806,117.283
+1241,Wham!,I'm Your Man,The Final,0.756,-6.943,0.051,0.297,0.0,0.0567,0.588,132.146
+1242,Wham!,Freedom,Make It Big,0.591,-12.882,0.0424,0.42,1.94e-06,0.129,0.824,132.538
+1243,Wham!,The Edge of Heaven,Music From The Edge Of Heaven,0.493,-13.817,0.0424,0.117,0.0,0.159,0.877,152.644
+1244,Wham!,Last Christmas - Single Version,All-Star Christmas,0.804,-10.547,0.0309,0.138,6.08e-06,0.0732,0.841,105.76
+1245,Wham!,Last Christmas - Pudding Mix,LAST CHRISTMAS,0.735,-12.806,0.0348,0.286,0.000101,0.0855,0.817,107.938
+1246,Wham!,Young Guns (Go for It!),Fantastic,0.895,-9.222,0.0825,0.201,0.0047,0.153,0.589,117.932
+1247,José José,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1248,José José,Vamos a Darnos Tiempo,Gracias,0.384,-10.631,0.0357,0.823,0.0,0.164,0.175,147.667
+1249,José José,El Amar y el Querer,Reencuentro,0.416,-11.675,0.031,0.747,1.43e-05,0.123,0.17,66.302
+1250,José José,Gavilán o Paloma,Reencuentro,0.537,-10.632,0.0315,0.566,0.0,0.583,0.378,125.619
+1251,José José,Almohada,15 Exitos De Oro,0.402,-19.971,0.044,0.928,0.0,0.233,0.125,74.0
+1252,José José,Lo Que No Fue No Será,15 Exitos De Oro,0.343,-12.589,0.0372,0.545,4.83e-06,0.304,0.513,151.69
+1253,José José,El Triste,15 Exitos De Oro,0.369,-12.672,0.0401,0.629,0.0,0.0456,0.546,109.902
+1254,José José,Lo Dudo,Secretos,0.457,-14.212,0.0364,0.807,0.0,0.261,0.233,174.884
+1255,José José,Si Me Dejas Ahora,Si Me Dejas Ahora,0.442,-9.877,0.0341,0.317,0.0,0.11,0.447,144.699
+1256,José José,Quiero Perderme Contigo,Secretos,0.36,-14.298,0.0372,0.747,0.0,0.0923,0.298,185.301
+1257,Los Tigres Del Norte,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1258,Los Tigres Del Norte,Ni Parientes Somos,Mi Buena Suerte,0.849,-5.705,0.0544,0.321,0.0,0.193,0.968,109.913
+1259,Los Tigres Del Norte,La Banda Del Carro Rojo,La Banda Del Carro Rojo,0.817,-10.975,0.07,0.523,0.0,0.0325,0.809,108.358
+1260,Los Tigres Del Norte,La Puerta Negra,Gracias America Sin Fronteras,0.698,-8.986,0.0331,0.315,2.25e-06,0.288,0.969,108.101
+1261,Los Tigres Del Norte,La Mesa Del Rincón,Los Dos Plebes,0.808,-10.719,0.0426,0.321,0.00124,0.252,0.967,113.583
+1262,Los Tigres Del Norte,Contrabando Y Traición,Contrabando Y Traicion,0.829,-12.314,0.0556,0.358,2.69e-05,0.15,0.88,109.608
+1263,Los Tigres Del Norte,Qué Tal Si Eres Tu,Realidades,0.618,-4.377,0.108,0.194,0.0,0.341,0.968,187.642
+1264,Los Tigres Del Norte,Pedro Y Pablo,Jaula De Oro,0.86,-9.294,0.151,0.454,0.0,0.0347,0.957,108.878
+1265,Los Tigres Del Norte,Tumba Falsa,La Garra De...,0.595,-9.308,0.0887,0.284,0.0,0.0433,0.944,209.695
+1266,Los Tigres Del Norte,Prisión De Amor,Herencia De Familia,0.745,-6.809,0.0248,0.0784,7.99e-06,0.261,0.797,100.412
+1267,Bryan Adams,Summer Of '69,Reckless (30th Anniversary / Deluxe Edition),0.508,-6.205,0.0386,0.0183,0.0,0.0732,0.774,139.131
+1268,Bryan Adams,Heaven,Reckless (30th Anniversary / Deluxe Edition),0.382,-7.315,0.0267,0.0465,0.0,0.122,0.335,140.059
+1269,Bryan Adams,(Everything I Do) I Do It For You,Waking Up The Neighbours,0.526,-12.605,0.028,0.0775,1.35e-05,0.0618,0.253,131.253
+1270,Bryan Adams,Run To You,Reckless (30th Anniversary / Deluxe Edition),0.561,-6.157,0.0265,0.00515,3.6e-05,0.287,0.635,126.593
+1271,Bryan Adams,Have You Ever Really Loved A Woman?,18 Til I Die,0.57,-10.185,0.0322,0.536,1.33e-05,0.0931,0.358,145.517
+1272,Bryan Adams,When You're Gone,On A Day Like Today,0.546,-6.344,0.0341,0.000299,2.92e-05,0.11,0.643,125.495
+1273,Bryan Adams,Please Forgive Me,Anthology,0.587,-7.011,0.0262,0.516,0.0,0.104,0.144,134.11
+1274,Bryan Adams,Straight From The Heart,Cuts Like A Knife,0.587,-18.466,0.0272,0.0766,0.0,0.139,0.366,84.764
+1275,Bryan Adams,Christmas Time,Christmas EP,0.503,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321
+1276,Bryan Adams,It's Only Love,Reckless (30th Anniversary / Deluxe Edition),0.515,-4.491,0.0345,0.00993,1.57e-05,0.419,0.743,101.161
+1277,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,A Winter Romance,0.451,-14.014,0.0351,0.912,2.45e-06,0.175,0.701,134.009
+1278,Dean Martin,Rudolph The Red-Nosed Reindeer,A Winter Romance,0.478,-16.768,0.0332,0.919,0.0,0.0854,0.857,136.471
+1279,Dean Martin,"Baby, It's Cold Outside",A Winter Romance,0.469,-16.093,0.0571,0.882,0.0,0.0513,0.537,130.036
+1280,Dean Martin,Silver Bells,The Dean Martin Christmas Album,0.29,-13.967,0.0306,0.9,0.0,0.308,0.606,97.173
+1281,Dean Martin,Everybody Loves Somebody,Everybody Loves Somebody,0.366,-12.322,0.0425,0.854,0.0,0.352,0.461,119.182
+1282,Dean Martin,White Christmas,A Winter Romance,0.247,-20.047,0.0339,0.939,0.0575,0.135,0.276,99.735
+1283,Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998,This Is Dean Martin,0.612,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629
+1284,Dean Martin,You're Nobody 'Til Somebody Loves You - Remastered/1997,This Time I'm Swingin',0.503,-16.651,0.0323,0.776,0.0,0.178,0.652,63.684
+1285,Dean Martin,A Marshmallow World,The Dean Martin Christmas Album,0.499,-10.476,0.0366,0.822,0.0,0.187,0.634,110.54
+1286,Dean Martin,That's Amore,"Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",0.471,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554
+1287,Nelly Furtado,Promiscuous,Loose,0.808,-6.098,0.0506,0.0569,6.13e-05,0.154,0.868,114.328
+1288,Nelly Furtado,Maneater,Loose,0.796,-4.81,0.0397,0.0261,0.000358,0.121,0.787,132.722
+1289,Nelly Furtado,Say It Right,Loose,0.872,-6.328,0.139,0.0476,0.00112,0.0543,0.809,116.948
+1290,Nelly Furtado,I'm Like A Bird,"Whoa, Nelly! (Expanded Edition)",0.623,-5.113,0.0353,0.147,3.29e-06,0.227,0.614,89.654
+1291,Nelly Furtado,Say It Right - Sped Up Remix,Say It Right (Sped Up Remix),0.849,-6.448,0.223,0.0269,0.00717,0.0596,0.765,134.479
+1292,Nelly Furtado,All Good Things (Come To An End),Loose,0.661,-7.668,0.0342,0.245,1.22e-05,0.11,0.388,100.893
+1293,Nelly Furtado,Turn Off The Light,"Whoa, Nelly! (Expanded Edition)",0.589,-6.222,0.097,0.0778,0.000289,0.419,0.649,180.215
+1294,Nelly Furtado,Maneater - Radio Version,Girl Power Tracks,0.806,-4.565,0.0602,0.0653,0.00265,0.209,0.874,132.749
+1295,Nelly Furtado,Try,Folklore,0.623,-7.457,0.0304,0.0588,0.000346,0.437,0.317,93.922
+1296,Nelly Furtado,Promiscuous - Radio Edit,Promiscuous (Radio Edit),0.786,-4.489,0.044,0.0916,2.07e-05,0.349,0.811,114.302
+1297,Ricky Martin,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1298,Ricky Martin,Livin' la Vida Loca,Ricky Martin,0.425,-3.756,0.0476,0.00414,0.0,0.0555,0.933,178.043
+1299,Ricky Martin,Vente Pa' Ca (feat. Maluma),Vente Pa' Ca (feat. Maluma),0.663,-4.07,0.226,0.00431,1.69e-05,0.101,0.533,99.935
+1300,Ricky Martin,Canción Bonita,Cumbiana II,0.788,-4.048,0.0562,0.0452,0.0,0.103,0.785,91.945
+1301,Ricky Martin,Vuelve,Vuelve,0.537,-7.501,0.0289,0.574,9.75e-05,0.108,0.356,136.634
+1302,Ricky Martin,La Mordidita (feat. Yotuel),A Quien Quiera Escuchar (Deluxe Edition),0.725,-2.955,0.0658,0.0344,0.0,0.183,0.946,142.006
+1303,Ricky Martin,Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version,Ricky Martin MTV Unplugged,0.4,-5.235,0.103,0.502,0.0,0.712,0.398,83.415
+1304,Ricky Martin,A Veces Bien Y A Veces Mal,A Veces Bien Y A Veces Mal,0.648,-10.436,0.323,0.43,0.0,0.0841,0.217,76.973
+1305,Ricky Martin,"Te Extraño, Te Olvido, Te Amo",A Medio Vivir,0.59,-6.158,0.0275,0.406,2.28e-05,0.169,0.466,121.051
+1306,Ricky Martin,Otra Noche en L.A.,Otra Noche en L.A.,0.781,-6.475,0.305,0.589,0.0,0.107,0.53,83.978
+1307,Jennifer Lopez,On The Floor,Love?,0.73,-5.194,0.0496,0.105,0.000478,0.0691,0.575,130.0
+1308,Jennifer Lopez,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1309,Jennifer Lopez,On The Floor - Radio Edit,On The Floor,0.758,-6.346,0.0792,0.0848,0.00127,0.142,0.444,130.007
+1310,Jennifer Lopez,Ain't Your Mama,Ain't Your Mama,0.757,-5.529,0.233,0.0472,9.14e-06,0.0654,0.82,120.075
+1311,Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,Jenny From The Block - The Remixes,0.84,-5.454,0.226,0.00736,3.77e-06,0.0615,0.946,99.987
+1312,Jennifer Lopez,Let's Get Loud,On The 6,0.82,-4.81,0.0549,0.135,0.000122,0.35,0.906,130.992
+1313,Jennifer Lopez,Love Don't Cost a Thing,J.Lo,0.786,-5.115,0.0707,0.00305,3.54e-06,0.473,0.685,97.577
+1314,Jennifer Lopez,Dance Again,Dance Again...The Hits,0.792,-5.236,0.067,0.0159,2.88e-06,0.0981,0.714,127.988
+1315,Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,J.Lo,0.708,-7.93,0.151,0.273,0.0,0.0718,0.554,83.46
+1316,Jennifer Lopez,Get Right,Rebirth,0.741,-5.096,0.12,0.0218,0.0,0.628,0.362,97.084
+1317,Sido,Spät nach Haus,Spät nach Haus,0.849,-8.39,0.291,0.341,0.0,0.106,0.602,84.463
+1318,Sido,Follow,Für den Himmel durch die Hölle,0.719,-6.269,0.211,0.0733,2.41e-06,0.119,0.472,139.957
+1319,Sido,Liebst du mich,PAUL,0.69,-6.924,0.0709,0.00402,0.000493,0.114,0.814,105.0
+1320,Sido,Sterne (feat. Bozza),Sterne (feat. Bozza),0.775,-7.298,0.148,0.0492,0.0,0.0853,0.24,146.927
+1321,Sido,2002,Ich & keine Maske,0.657,-7.907,0.236,0.213,0.0,0.099,0.493,160.106
+1322,Sido,Mit Dir,PAUL,0.825,-7.667,0.264,0.276,4.48e-05,0.119,0.544,114.017
+1323,Sido,Schlechtes Vorbild,Ich (Premium Edition),0.942,-7.649,0.113,0.184,2.82e-06,0.264,0.961,96.997
+1324,Sido,Rollender Stein,PAUL,0.611,-9.472,0.148,0.0514,0.0,0.186,0.288,173.691
+1325,Sido,Medizin (feat. Jamule),PAUL,0.861,-8.353,0.0752,0.096,0.00341,0.0924,0.574,122.998
+1326,Sido,3 Monde,PAUL,0.755,-4.675,0.0714,0.485,4.16e-05,0.333,0.782,119.982
+1327,Wolfgang Amadeus Mozart,"Requiem, K. 626: Lacrimosa",Mozart: Requiem Realisations,0.162,-23.269,0.0354,0.944,0.917,0.187,0.0413,132.047
+1328,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante","Mozart: Piano Concertos, Vol. 6",0.137,-28.208,0.0381,0.982,0.972,0.0908,0.063,179.223
+1329,Wolfgang Amadeus Mozart,"Fantasia in D Minor, K. 397","Mozart: Piano Sonatas K.310, K.311 & K.533/494",0.382,-25.262,0.0548,0.994,0.906,0.109,0.0779,125.903
+1330,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",Amadeus,0.428,-13.764,0.0351,0.987,0.896,0.0849,0.357,79.904
+1331,Wolfgang Amadeus Mozart,"Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile"": I. Allegro","Mozart: Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile""",0.315,-20.874,0.0385,0.982,0.913,0.113,0.66,120.286
+1332,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",0.069,-23.487,0.0407,0.961,0.795,0.444,0.0707,74.782
+1333,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525, ""Eine kleine Nachtmusik"": I. Allegro",Mozart: Kleine Nachtmusik (Eine) / Serenata Notturna / Divertimento No. 10,0.492,-18.839,0.0463,0.948,0.893,0.0726,0.445,135.786
+1334,Wolfgang Amadeus Mozart,"Die Hochzeit des Figaro, K. 492, 3. Akt: Canzonetta sull aria… Che soave zeffiretto (Die Verurteilten): Sinfonia",Mozart: Nozze Di Figaro (Le) (The Marriage of Figaro),0.313,-17.316,0.0368,0.944,0.92,0.181,0.303,145.162
+1335,Wolfgang Amadeus Mozart,"Adagio in E Major, K. 261",Mozart: Works for Violin & Orchestra,0.194,-21.389,0.0425,0.969,0.498,0.126,0.082,100.309
+1336,Wolfgang Amadeus Mozart,"Serenade in B-Flat Major, K. 361 ""Gran Partita"": III. Adagio","Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti",0.171,-25.191,0.0409,0.991,0.898,0.123,0.037,67.89
+1337,Juan Gabriel,Abrázame Muy Fuerte,Abrázame Muy Fuerte,0.515,-7.343,0.0567,0.689,0.0,0.126,0.312,135.739
+1338,Juan Gabriel,¿Por Qué Me Haces Llorar?,Juan Gabriel,0.647,-8.157,0.0342,0.0374,9.54e-06,0.127,0.793,112.041
+1339,Juan Gabriel,Hasta Que Te Conocí,Pensamientos,0.322,-15.949,0.0345,0.609,0.0,0.161,0.218,172.395
+1340,Juan Gabriel,Ya Lo Sé Que Tú Te Vas,Cosas De Enamorados,0.394,-13.785,0.0378,0.63,0.00167,0.189,0.196,170.508
+1341,Juan Gabriel,Caray,Todo,0.506,-12.083,0.04,0.673,0.0,0.152,0.957,207.081
+1342,Juan Gabriel,La Farsante,Todo,0.512,-11.757,0.0664,0.7,0.0,0.0615,0.894,97.724
+1343,Juan Gabriel,Se Me Olvidó Otra Vez,15 Anos De Exitos,0.547,-20.132,0.0482,0.799,0.0,0.148,0.302,82.342
+1344,Juan Gabriel,Siempre en Mi Mente,Siempre En Mi Mente,0.394,-9.307,0.0261,0.0621,0.000115,0.471,0.599,73.984
+1345,Juan Gabriel,Te Lo Pido por Favor,Pensamientos,0.636,-13.787,0.0267,0.478,0.0,0.185,0.396,89.595
+1346,Juan Gabriel,Querida,Recuerdos II,0.528,-11.17,0.0258,0.376,0.0,0.11,0.46,89.089
+1347,Nelly,Dilemma,Nellyville,0.727,-8.074,0.14,0.227,0.000164,0.198,0.607,168.189
+1348,Nelly,Ride Wit Me,Country Grammar,0.85,-6.49,0.0478,0.0616,1.8e-06,0.244,0.722,101.875
+1349,Nelly,Hot In Herre,Nellyville,0.956,-4.753,0.12,0.206,0.0,0.0615,0.912,107.075
+1350,Nelly,Just A Dream,5.0,0.531,-6.161,0.0305,0.0421,0.0,0.12,0.103,89.917
+1351,Nelly,Country Grammar (Hot Shit),Country Grammar,0.865,-6.822,0.108,0.00689,0.0,0.142,0.565,162.831
+1352,Nelly,Lil Bit (feat. Florida Georgia Line),Heartland,0.707,-7.097,0.0387,0.0255,0.0,0.383,0.41,119.987
+1353,Nelly,Air Force Ones,Nellyville,0.784,-9.74,0.317,0.0847,0.0,0.079,0.618,164.062
+1354,Nelly,The Fix (feat. Jeremih),The Fix (feat. Jeremih),0.812,-6.47,0.0429,0.0485,0.0,0.102,0.0873,95.505
+1355,Nelly,E.I.,Country Grammar,0.834,-7.824,0.188,0.0732,0.0,0.0934,0.406,89.849
+1356,Nelly,Good Times Roll,Bettie James,0.634,-3.916,0.0275,0.00935,0.0,0.172,0.704,95.991
+1357,Frédéric Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,0.442,-32.452,0.047,0.984,0.936,0.0873,0.0929,79.314
+1358,Frédéric Chopin,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.","Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",0.225,-30.928,0.0509,0.992,0.881,0.0722,0.186,163.665
+1359,Frédéric Chopin,"Nocturne No. 1 In B Flat Minor, Op. 9 No. 1",Chopin: Nocturnes,0.261,-27.528,0.0419,0.992,0.897,0.102,0.0382,75.296
+1360,Frédéric Chopin,"Nocturne en Mi Bémol Majeur, Op. 9 No. 2","Chopin: Nocturnes, Vol. 1",0.427,-24.698,0.041,0.99,0.913,0.112,0.0707,119.78
+1361,Frédéric Chopin,"Preludes, Op. 28: No. 4, Largo",Chopin: Préludes,0.376,-25.933,0.0475,0.991,0.866,0.116,0.0364,108.821
+1362,Frédéric Chopin,Nocturne Op. 9 No. 2,JUST THE BEST MUSIC Vol. 2 Solo Piano Relax Playlist,0.446,-31.047,0.12,0.991,0.945,0.116,0.0815,137.697
+1363,Frédéric Chopin,"Prélude in E minor, Op. 28, No. 4",The Pianist (Original Motion Picture Soundtrack),0.388,-32.97,0.0516,0.995,0.869,0.063,0.0397,63.386
+1364,Frédéric Chopin,"Cello Sonata in G Minor, Op. 65: III. Largo","1846, dernière année à Nohant - Chopin: Cello Sonata; Piano Works",0.124,-31.768,0.04,0.983,0.85,0.0988,0.08,84.374
+1365,Frédéric Chopin,"Nocturne No. 19 in E Minor, Op. 72, No. 1",The Best Chopin,0.331,-30.904,0.0362,0.991,0.952,0.0968,0.0944,66.628
+1366,Frédéric Chopin,"Nocturne No. 2 In E Flat, Op. 9 No. 2",Chopin: Nocturnes,0.331,-30.88,0.041,0.993,0.953,0.102,0.0713,132.883
+1367,Marco Antonio Solís,El Ultimo Adiós - Varios Artistas Version,El Ultimo Adiós,0.276,-7.818,0.0377,0.641,0.0,0.2,0.285,77.986
+1368,Marco Antonio Solís,Si No Te Hubieras Ido,La Historia Continúa...Parte IV,0.745,-6.725,0.0244,0.173,0.000626,0.147,0.476,95.033
+1369,Marco Antonio Solís,Más Que Tu Amigo,Tu Amor O Tu Desprecio,0.786,-7.608,0.0413,0.221,0.0166,0.063,0.81,97.461
+1370,Marco Antonio Solís,Mi Eterno Amor Secreto,FAVORITAS CON AMOR Vol. 2,0.333,-3.823,0.0306,0.0694,7.31e-05,0.151,0.288,142.924
+1371,Marco Antonio Solís,La Venia Bendita,Marco Antonio Solis,0.488,-7.926,0.0317,0.132,0.0,0.369,0.491,152.189
+1372,Marco Antonio Solís,Invéntame,Trozos De Mi Alma,0.565,-5.075,0.0303,0.21,2.82e-06,0.323,0.278,93.024
+1373,Marco Antonio Solís,Será Mejor Que Te Vayas,Por Amor A Mi Pueblo,0.691,-12.501,0.0288,0.238,0.00191,0.167,0.682,77.899
+1374,Marco Antonio Solís,¿A Dónde Vamos A Parar?,En Total Plenitud,0.383,-4.979,0.0286,0.458,0.00381,0.121,0.181,143.916
+1375,Marco Antonio Solís,Si Te Pudiera Mentir - Live Version,Una Noche En Madrid,0.482,-7.219,0.029,0.125,0.00217,0.957,0.184,96.313
+1376,Marco Antonio Solís,Donde Estará Mi Primavera,Más De Mi Alma,0.291,-4.472,0.0302,0.429,0.000203,0.135,0.232,175.699
+1377,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",Let's Talk About Love,0.428,-11.729,0.0312,0.732,5.33e-06,0.117,0.0382,99.195
+1378,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",Falling into You,0.615,-9.883,0.0327,0.314,0.0,0.099,0.177,119.919
+1379,Céline Dion,It's All Coming Back to Me Now,Falling into You,0.384,-9.149,0.0362,0.753,0.0,0.101,0.287,87.903
+1380,Céline Dion,The Power of Love,The Colour Of My Love,0.546,-9.072,0.0291,0.36,0.00046,0.24,0.247,140.054
+1381,Céline Dion,Happy Xmas (War Is Over),These are Special Times,0.347,-5.254,0.0303,0.451,0.0,0.279,0.158,172.062
+1382,Céline Dion,I'm Alive,A New Day Has Come,0.691,-5.087,0.0384,0.0247,5.24e-06,0.2,0.452,101.991
+1383,Céline Dion,All By Myself,Falling into You,0.344,-10.005,0.0287,0.35,0.0223,0.0686,0.0775,118.515
+1384,Céline Dion,That's the Way It Is,The Very Best of Celine Dion,0.634,-5.424,0.0434,0.154,0.0,0.118,0.577,93.04
+1385,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",Celine Dion,0.463,-9.999,0.0308,0.643,2.46e-05,0.131,0.121,77.314
+1386,Céline Dion,Immortality (feat. Bee Gees),Let's Talk About Love,0.546,-11.208,0.0324,0.601,3.43e-06,0.0795,0.0756,82.951
+1387,Alesso,Words (feat. Zara Larsson),Words (feat. Zara Larsson),0.739,-5.079,0.0472,0.0245,0.000252,0.308,0.444,124.026
+1388,Alesso,When I’m Gone (with Katy Perry),When I’m Gone (with Katy Perry),0.685,-4.179,0.034,0.028,0.0,0.481,0.615,125.034
+1389,Alesso,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",0.664,-4.154,0.0474,0.0337,0.0,0.0841,0.742,103.07
+1390,Alesso,Under Control (feat. Hurts),Motion,0.544,-3.405,0.0841,0.129,0.000914,0.115,0.51,126.094
+1391,Alesso,Heroes (we could be),Forever,0.503,-4.124,0.0619,0.0305,0.0,0.343,0.356,125.896
+1392,Alesso,If I Lose Myself - Alesso vs OneRepublic,Native,0.523,-4.846,0.041,0.219,1.03e-05,0.133,0.164,125.998
+1393,Alesso,Chasing Stars (feat. James Bay),Chasing Stars (feat. James Bay),0.594,-6.865,0.033,0.0169,0.0,0.135,0.492,92.871
+1394,Alesso,REMEDY,REMEDY,0.601,-4.612,0.0473,0.269,0.0,0.0883,0.483,119.964
+1395,Alesso,Only You,Only You,0.483,-2.528,0.0438,0.00235,0.000347,0.119,0.323,129.035
+1396,Alesso,Leave A Little Love,Leave A Little Love,0.671,-4.254,0.0375,0.00437,0.0,0.131,0.329,117.98
+1397,Joan Sebastian,Tatuajes,Joan Sebastian Con Mariachi,0.8,-7.432,0.0323,0.741,1.54e-06,0.131,0.87,100.718
+1398,Joan Sebastian,Me Gustas,Secreto De Amor,0.572,-8.086,0.0294,0.554,7.37e-05,0.108,0.504,145.375
+1399,Joan Sebastian,Más Allá Del Sol,Más Allá Del Sol,0.789,-6.396,0.0877,0.609,0.0,0.0843,0.742,115.843
+1400,Joan Sebastian,Eso Y Más,Más Allá Del Sol,0.585,-12.731,0.0751,0.937,0.0,0.106,0.454,151.968
+1401,Joan Sebastian,Te Irá Mejor Sin Mí,Pegadito Al Corazón,0.699,-10.756,0.0269,0.65,0.000942,0.103,0.419,99.993
+1402,Joan Sebastian,Rumores,Rumores,0.805,-7.349,0.0363,0.488,0.0,0.0922,0.721,125.842
+1403,Joan Sebastian,Sentimental,Afortunado,0.719,-5.827,0.0332,0.891,7.81e-05,0.081,0.881,108.479
+1404,Joan Sebastian,Un Idiota,Secreto De Amor,0.594,-9.174,0.0396,0.517,0.0,0.118,0.34,85.366
+1405,Joan Sebastian,Que Sea,Que Sea,0.781,-3.558,0.0308,0.701,4.45e-06,0.156,0.939,97.074
+1406,Joan Sebastian,Diséñame,Un Lu*Jo,0.691,-8.141,0.0304,0.764,1.3e-06,0.117,0.608,93.899
+1407,Bing Crosby,White Christmas,Holiday Inn (Original Motion Picture Soundtrack),0.317,-16.485,0.0381,0.673,0.353,0.338,0.247,130.503
+1408,Bing Crosby,Do You Hear What I Hear? - Remastered 2006,Bing Crosby - Christmas Classics,0.566,-15.499,0.0276,0.813,1.48e-06,0.195,0.412,101.529
+1409,Bing Crosby,It's Beginning To Look A Lot Like Christmas,Christmas,0.464,-9.194,0.0379,0.869,0.000326,0.116,0.531,97.586
+1410,Bing Crosby,Winter Wonderland - Remastered,Christmas,0.589,-13.633,0.0579,0.835,0.0,0.108,0.53,126.626
+1411,Bing Crosby,Mele Kalikimaka - Single Version,Their Complete Recordings Together,0.513,-13.668,0.0717,0.808,0.0,0.322,0.589,207.975
+1412,Bing Crosby,Silver Bells,White Christmas,0.343,-15.142,0.0385,0.749,0.0,0.261,0.59,70.937
+1413,Bing Crosby,God Rest Ye Merry Gentlemen,White Christmas,0.466,-12.009,0.0448,0.984,9.58e-05,0.428,0.693,97.075
+1414,Bing Crosby,Frosty The Snowman - Remastered 2006,Bing Crosby - Christmas Classics,0.519,-11.622,0.0796,0.617,0.0,0.0859,0.854,160.37
+1415,Bing Crosby,The Little Drummer Boy - Remastered 2006,Bing Crosby - Christmas Classics,0.636,-14.261,0.0328,0.885,4.82e-05,0.0502,0.505,112.777
+1416,Bing Crosby,I'll Be Home For Christmas - Single Version,Bing's Gold Records - The Original Decca Recordings,0.24,-15.167,0.0336,0.707,8.44e-05,0.367,0.178,84.759
+1417,S. P. Balasubrahmanyam,Ayyayo,Aadukalam (Original Motion Picture Soundtrack),0.608,-5.525,0.0364,0.499,0.000124,0.0878,0.733,75.031
+1418,S. P. Balasubrahmanyam,Yeh Haseen Vadiyan Yeh Khula Aasman,Roja (Original Motion Picture Soundtrack),0.64,-16.357,0.0397,0.425,2.05e-06,0.0804,0.107,121.903
+1419,S. P. Balasubrahmanyam,Yamma Yamma,7 Aum Arivu (Original Motion Picture Soundtrack),0.581,-10.364,0.0353,0.699,4.65e-05,0.134,0.446,88.809
+1420,S. P. Balasubrahmanyam,Saathiya Tune Kya Kiya,Love (Original Motion Picture Soundtrack),0.499,-7.861,0.0533,0.563,0.0,0.494,0.78,92.534
+1421,S. P. Balasubrahmanyam,Pehla Pehla Pyar,Hum Aapke Hain Koun (Original Motion Picture Soundtrack),0.594,-10.226,0.0281,0.443,3.71e-06,0.421,0.457,101.831
+1422,S. P. Balasubrahmanyam,Ennai Thottu,Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack),0.796,-15.182,0.044,0.851,0.00684,0.124,0.793,115.891
+1423,S. P. Balasubrahmanyam,Tumse Milne Ki Tamanna Hai,Saajan (Original Motion Picture Soundtrack),0.532,-11.326,0.0622,0.241,0.0,0.154,0.671,119.735
+1424,S. P. Balasubrahmanyam,"Kaadhal Rojave (From ""Roja"")",Sangeetha Utsavam - S. P. Balasubrahmanyam Isai Mazhai,0.696,-9.243,0.032,0.831,0.00134,0.126,0.428,91.007
+1425,S. P. Balasubrahmanyam,"Kathalikkum Penin Kaikal (From ""Kaadhalan"")",S.P. Balasubrahmanyam All Time Hits,0.857,-17.393,0.0745,0.00654,0.000242,0.101,0.728,77.003
+1426,S. P. Balasubrahmanyam,"Marana Mass - From ""Petta""",Petta (Original Motion Picture Soundtrack),0.471,-5.503,0.373,0.47,8.13e-05,0.146,0.737,78.434
+1427,Sonu Nigam,Tumse Milke Dil Ka,Main Hoon Na,0.853,-8.636,0.109,0.0642,1.87e-06,0.0274,0.882,107.985
+1428,Sonu Nigam,Main Agar Kahoon,Soulful Sonu Nigam Specials,0.533,-7.521,0.0276,0.234,3.17e-06,0.46,0.371,146.868
+1429,Sonu Nigam,Kal Ho Naa Ho,Kal Ho Naa Ho (Original Motion Picture Soundtrack),0.532,-8.402,0.0352,0.334,0.000144,0.078,0.295,81.989
+1430,Sonu Nigam,Abhi Mujh Mein Kahin,Agneepath (Original Motion Picture Soundtrack),0.334,-9.483,0.0332,0.755,3.94e-05,0.113,0.42,129.959
+1431,Sonu Nigam,Mere Haath Mein,Fanaa,0.554,-12.312,0.0722,0.578,0.000183,0.11,0.584,93.922
+1432,Sonu Nigam,Bole Chudiyan,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),0.59,-5.294,0.171,0.45,1.16e-05,0.164,0.737,96.915
+1433,Sonu Nigam,Shukran Allah,Kurbaan (Original Motion Picture Soundtrack),0.432,-8.022,0.111,0.732,0.0014,0.274,0.513,116.153
+1434,Sonu Nigam,Dil Dooba,Khakee,0.814,-6.875,0.0753,0.319,0.0,0.345,0.961,100.004
+1435,Sonu Nigam,"Sapna Jahan (From ""Brothers"")","Sapna Jahan (From ""Brothers"")",0.471,-11.958,0.0312,0.78,0.0021,0.117,0.144,126.107
+1436,Sonu Nigam,Nagada Nagada,Jab We Met,0.757,-4.13,0.0461,0.158,0.00784,0.507,0.728,120.004
+1437,Lata Mangeshkar,Mera Dil Ye Pukare - Tu Aaja - Heartlock Mix,Mera Dil Ye Pukare - Tu Aaja (Heartlock Mix),0.756,-15.549,0.107,0.589,0.0146,0.109,0.353,91.951
+1438,Lata Mangeshkar,Aankhein Khuli,Mohabbatein,0.792,-13.94,0.0863,0.349,5.92e-06,0.324,0.648,122.004
+1439,Lata Mangeshkar,Tere Liye,Veer - Zaara,0.525,-8.594,0.0246,0.826,0.00202,0.139,0.33,98.007
+1440,Lata Mangeshkar,Do Pal,Veer - Zaara,0.247,-7.514,0.0376,0.635,0.000436,0.146,0.371,168.823
+1441,Lata Mangeshkar,Dil To Pagal Hai,Dil To Pagal Hai,0.752,-10.641,0.0465,0.306,0.000528,0.729,0.748,110.696
+1442,Lata Mangeshkar,Luka Chuppi,Rang De Basanti (Original Motion Picture Soundtrack),0.601,-8.946,0.0285,0.645,1.08e-06,0.0986,0.202,103.862
+1443,Lata Mangeshkar,Are Re Are,Dil To Pagal Hai,0.689,-12.164,0.0396,0.277,0.000154,0.394,0.937,149.1
+1444,Lata Mangeshkar,Pyar Kar,Dil To Pagal Hai,0.629,-11.134,0.0362,0.519,0.000502,0.416,0.645,88.077
+1445,Lata Mangeshkar,Humko Humise Chura Lo,Mohabbatein,0.548,-13.684,0.0495,0.492,0.000442,0.189,0.641,85.628
+1446,Lata Mangeshkar,Madhosh Dil Ki Dhadkan,Jab Pyaar Kisise Hota Hai (Original Motion Picture Soundtrack),0.503,-10.211,0.0463,0.266,5.92e-05,0.34,0.762,155.611
+1447,La Arrolladora Banda El Limón De Rene Camacho,El Final De Nuestra Historia,Íconos 25 Éxitos,0.736,-8.177,0.0341,0.487,0.0,0.23,0.957,114.984
+1448,La Arrolladora Banda El Limón De Rene Camacho,Ya Te Perdí La Fe,Ojos En Blanco,0.757,-6.249,0.0516,0.722,1.23e-06,0.0682,0.97,149.888
+1449,La Arrolladora Banda El Limón De Rene Camacho,Entre Beso Y Beso,Calidad Y Cantidad,0.863,-4.543,0.0379,0.197,0.0,0.0793,0.964,129.898
+1450,La Arrolladora Banda El Limón De Rene Camacho,Mi Segunda Vida,Gracias Por Creer,0.632,-5.577,0.0283,0.74,0.0,0.105,0.498,114.04
+1451,La Arrolladora Banda El Limón De Rene Camacho,Y Que Quede Claro,Antología Musical,0.666,-6.62,0.0339,0.301,4.92e-06,0.122,0.826,122.864
+1452,La Arrolladora Banda El Limón De Rene Camacho,Ya Es Muy Tarde,Más Adelante,0.738,-4.372,0.0446,0.744,2.13e-05,0.0576,0.877,107.951
+1453,La Arrolladora Banda El Limón De Rene Camacho,Si Tu Amor No Vuelve,La Otra Cara De La Moneda,0.728,-6.66,0.0401,0.807,1.45e-05,0.0727,0.806,124.02
+1454,La Arrolladora Banda El Limón De Rene Camacho,Ya No Te Buscaré,Todo Depende De Ti,0.703,-5.931,0.0274,0.267,0.000102,0.163,0.824,129.919
+1455,La Arrolladora Banda El Limón De Rene Camacho,El Ruido De Tus Zapatos,Gracias Por Creer,0.725,-8.143,0.0292,0.395,0.000126,0.102,0.85,135.915
+1456,La Arrolladora Banda El Limón De Rene Camacho,De Ti Exclusivo,Para Ti Exclusivo (En Vivo Desde Arandas Jalisco),0.665,-7.068,0.0412,0.704,1.53e-05,0.104,0.786,124.996
+1457,KK,"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")","Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",0.718,-8.237,0.0466,0.585,0.0,0.128,0.499,87.029
+1458,KK,Khuda Jaane,Bachna Ae Haseeno,0.382,-6.393,0.0411,0.391,0.000486,0.0922,0.716,78.936
+1459,KK,Zara Sa,Jannat (Original Motion Picture Soundtrack),0.468,-3.057,0.051,0.12,0.000304,0.271,0.694,163.842
+1460,KK,Dil Ibaadat,Tum Mile (Original Motion Picture Soundtrack),0.59,-5.005,0.0416,0.633,0.0,0.286,0.634,149.966
+1461,KK,"Ajab Si (From ""Om Shanti Om"")",Zindagi Do Pal Ki - K.K. All Time Hits,0.697,-8.411,0.0289,0.399,0.0,0.293,0.58,117.955
+1462,KK,Labon Ko,Bhool Bhulaiyaa,0.63,-4.635,0.0387,0.329,0.00271,0.159,0.473,107.997
+1463,KK,"Kya Mujhe Pyar Hai (From ""Woh Lamhe"")",Evergreen Hits Of K.K.,0.644,-5.924,0.0549,0.431,2.62e-05,0.0806,0.789,118.477
+1464,KK,Make Some Noise For The Desi Boyz,Desi Boyz,0.692,-3.93,0.0915,0.0188,0.0,0.151,0.89,141.98
+1465,KK,"Beete Lamhein (From ""The Train"")",Zindagi Do Pal Ki - K.K. All Time Hits,0.256,-8.184,0.0428,0.598,0.000308,0.146,0.215,160.213
+1466,KK,"Tu Hi Meri Shab Hai, Pt. 1",Gangster (Original Motion Picture Soundtrack),0.571,-6.059,0.0402,0.463,0.000691,0.128,0.552,118.881
+1467,Anahí,Sálvame,Rebelde,0.473,-6.278,0.024,0.0454,2.41e-06,0.068,0.294,74.996
+1468,Anahí,Sólo Quédate En Silencio,Rebelde,0.464,-4.838,0.0313,0.203,0.0,0.0478,0.672,184.089
+1469,Anahí,Este Corazón,Nuestro Amor,0.497,-4.811,0.0322,0.47,0.0,0.0708,0.756,159.996
+1470,Anahí,Tras De Mí,Nuestro Amor,0.64,-3.437,0.0852,0.0172,0.0,0.248,0.851,115.036
+1471,Anahí,Ser O Parecer,Celestial,0.605,-3.747,0.14,0.263,0.0,0.2,0.908,176.028
+1472,Anahí,Aún Hay Algo,Nuestro Amor,0.611,-2.784,0.0316,0.0084,0.0,0.107,0.786,94.981
+1473,Anahí,Rebelde,Rebelde,0.671,-6.498,0.047,0.0122,0.0,0.525,0.62,95.011
+1474,Anahí,Enséñame,Rebelde,0.68,-5.884,0.0588,0.385,0.0,0.375,0.624,80.945
+1475,Anahí,Nuestro Amor,Nuestro Amor,0.541,-6.253,0.0339,0.0556,1.54e-05,0.17,0.382,129.971
+1476,Anahí,Un Poco De Tu Amor,Rebelde,0.785,-7.61,0.0334,0.0296,8.12e-06,0.0667,0.892,119.996
+1477,Shankar Mahadevan,Vaa Thalaivaa,Varisu,0.617,-7.568,0.11,0.731,0.0483,0.115,0.752,139.083
+1478,Shankar Mahadevan,Mitwa,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),0.63,-7.525,0.0364,0.295,1.26e-05,0.0934,0.517,107.103
+1479,Shankar Mahadevan,Uff Teri Adaa,Karthik Calling Karthik,0.647,-9.815,0.0373,0.00536,5.82e-05,0.054,0.306,132.032
+1480,Shankar Mahadevan,Kadhale Kadhale,Indru Netru Naalai (Original Motion Picture Soundtrack),0.528,-6.32,0.0314,0.687,5.17e-05,0.168,0.542,128.1
+1481,Shankar Mahadevan,Enna Solla Pogirai,Kandukondain Kandukondain (Original Motion Picture Soundtrack),0.766,-13.101,0.164,0.0303,9.79e-06,0.0862,0.331,82.012
+1482,Shankar Mahadevan,Sajdaa,My Name Is Khan (Original Motion Picture Soundtrack),0.469,-7.274,0.0762,0.725,0.00272,0.0655,0.572,79.545
+1483,Shankar Mahadevan,Gallan Goodiyaan,Dil Dhadakne Do,0.83,-3.18,0.0554,0.134,1.72e-05,0.0567,0.949,119.974
+1484,Shankar Mahadevan,Desi Girl,Dostana (Original Motion Picture Soundtrack),0.746,-6.057,0.0442,0.0169,0.00279,0.097,0.807,136.051
+1485,Shankar Mahadevan,Shiv Tandav Stotram,Legends - Top 10,0.525,-5.23,0.044,0.438,0.0,0.2,0.428,149.972
+1486,Shankar Mahadevan,Indru Netru Naalai,Indru Netru Naalai (Original Motion Picture Soundtrack),0.536,-5.377,0.0292,0.463,0.0,0.133,0.347,128.056
+1487,Kumar Sanu,"Ek Din Aap (From ""Yes Boss"")","Bollywood Music - Kumar Sanu At His Best, Vol. 2",0.462,-13.184,0.0309,0.642,0.0,0.189,0.612,145.35
+1488,Kumar Sanu,Ladki Badi Anjani Hai,Kuch Kuch Hota Hai,0.637,-9.327,0.056,0.522,0.0001,0.0901,0.731,121.108
+1489,Kumar Sanu,"Sochenge Tumhe Pyar (From ""Deewana"")","Bollywood Best Trio - Kumar Sanu, Nadeem - Shravan",0.553,-10.778,0.0434,0.789,0.0,0.0586,0.749,125.251
+1490,Kumar Sanu,Ae Kash Ke Hum,Kabhi Haan Kabhi Naa (Original Motion Picture Soundtrack),0.364,-7.967,0.0571,0.656,0.0,0.175,0.663,161.008
+1491,Kumar Sanu,Saawariya (feat. Arjun Bijlani),Saawariya (feat. Arjun Bijlani),0.665,-5.793,0.0561,0.54,0.0,0.107,0.881,177.049
+1492,Kumar Sanu,"Mera Dil Bhi Kitna Pagal Hai (From ""Saajan"")","Bollywood Music - Kumar Sanu At His Best, Vol. 2",0.474,-10.146,0.0302,0.725,0.0,0.0852,0.759,100.93
+1493,Kumar Sanu,Tumse Milne Ko Dil,Phool Aur Kaante (Original Motion Picture Soundtrack),0.529,-9.238,0.0706,0.768,1.93e-06,0.311,0.768,138.841
+1494,Kumar Sanu,"Chura Ke Dil Mera (From ""Main Khiladi Tu Anari"")","Bollywood Music - Kumar Sanu At His Best, Vol. 2",0.613,-9.486,0.0504,0.136,0.00222,0.053,0.874,122.056
+1495,Kumar Sanu,"Aankh Marey (From ""Simmba"")","Aankh Marey (From ""Simmba"")",0.796,-1.266,0.0955,0.289,0.00254,0.346,0.8,129.999
+1496,Kumar Sanu,Raah Mein Unse Mulaqat,Vijaypath (Original Motion Picture Soundtrack),0.403,-8.537,0.0419,0.366,0.001,0.366,0.722,83.408
+1497,Iron Maiden,The Trooper - 2015 Remaster,Piece of Mind (2015 - Remaster),0.285,-4.601,0.0705,0.0318,0.00909,0.311,0.669,159.756
+1498,Iron Maiden,Run to the Hills - 2015 Remaster,The Number of the Beast (2015 - Remaster),0.249,-5.188,0.0669,0.0286,0.00401,0.162,0.458,173.671
+1499,Iron Maiden,Fear of the Dark - 2015 Remaster,Fear of the Dark (2015 - Remaster),0.308,-5.671,0.059,0.000739,0.00141,0.232,0.227,109.825
