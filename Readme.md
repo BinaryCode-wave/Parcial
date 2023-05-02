@@ -1,5 +1,4 @@
-Aquí te presento un ejemplo de README.md para el proyecto de la Universidad Peruana de Ciencias Aplicadas:
-
+![UPC](https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/UPC.png)
 # Recomendaciones Personalizadas Musicales empleando Teoría de Grafos
 
 Este proyecto tiene como objetivo brindar recomendaciones de canciones personalizadas y precisas a los usuarios, utilizando grafos y algoritmos para analizar su actividad y encontrar patrones relevantes con el fin de mejorar su experiencia. Se empleará la Teoría de Grafos y el algoritmo de Dijkstra para el desarrollo de una aplicación que brinde de manera personalizada recomendaciones de música.
